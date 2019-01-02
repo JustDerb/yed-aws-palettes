@@ -1,8 +1,4 @@
-# Moved
-
-This project is now being maintained by [JustDerb](https://github.com/JustDerb/) at [JustDerb/yed-aws-palettes](https://github.com/JustDerb/yed-aws-palettes).
-
----
+# AWS Simple Icons Palettes for yED
 
 ![Screenshot](screenshot.png)
 
