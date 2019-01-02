@@ -3,6 +3,7 @@
 import argparse
 import io
 import os
+import re
 import uuid
 import xml.sax.saxutils
 
@@ -75,6 +76,24 @@ def get_svg_files(directory):
             f.lower().endswith(u'.svg')]
 
 
+# Note: function doesn't work too well for the "Compute" category because the
+# naming format is inconsistent.
+def guessProductName(filename):
+    """
+    Guesses the Product name based on the files name
+    :param filename: Name of the file
+    :return: The best guess for the Product name
+    """
+    # Looks like all SVG's are suffixed by Category_
+    guessedName = filename.split('_', 1)[1]
+    guessedName = guessedName.replace('_', ' ')
+    guessedName = guessedName.replace('AWS', '')
+    guessedName = guessedName.replace('Amazon', '')
+    # https://stackoverflow.com/a/9283563/1178781
+    guessedName = re.sub(r'((?<=[a-z])[A-Z]|(?<!\A)[A-Z](?=[a-z]))', r' \1', guessedName)
+    return guessedName
+
+
 def generate_mustache_args_node(svg_id, svg_filename):
     """
     Generate Mustache arguments for a node
@@ -87,7 +106,9 @@ def generate_mustache_args_node(svg_id, svg_filename):
         # Escaping is a noop for UUID, but here just in-case someone wants to change the
         # 'name' value - You need to escape it!
         'name': xml.sax.saxutils.escape(u'{}'.format(uuid.uuid4())),
+        # 'tooltip': xml.sax.saxutils.escape(guessProductName(svg_filename)),
         'tooltip': xml.sax.saxutils.escape(svg_filename),
+        'filename': xml.sax.saxutils.escape(svg_filename),
         'resourceId': svg_id,
     }
 
