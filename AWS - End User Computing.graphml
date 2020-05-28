@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.20-->
+  <key for="port" id="d0" yfiles.type="portgraphics"/>
+  <key for="port" id="d1" yfiles.type="portgeometry"/>
+  <key for="port" id="d2" yfiles.type="portuserdata"/>
+  <key attr.name="yed.palette.node.name" attr.type="string" for="node" id="d3"/>
+  <key attr.name="Palette ToolTip" attr.type="string" for="node" id="d4"/>
+  <key attr.name="url" attr.type="string" for="node" id="d5"/>
+  <key attr.name="description" attr.type="string" for="node" id="d6"/>
+  <key for="node" id="d7" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d8" yfiles.type="resources"/>
+  <key attr.name="yed.palette.edge.name" attr.type="string" for="edge" id="d9"/>
+  <key attr.name="Palette ToolTip" attr.type="string" for="edge" id="d10"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d11"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d12"/>
+  <key for="edge" id="d13" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <node id="n0">
+      <data key="d3" xml:space="preserve"><![CDATA[9dcd477f-be1b-48c2-8700-a1d2c0010236]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="30.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="1"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d3" xml:space="preserve"><![CDATA[107ca6bf-69e2-416d-bb14-08d4b7250b7b]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="430.0" y="30.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="2"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d3" xml:space="preserve"><![CDATA[16d19b0c-000e-4e0a-af83-5602a15691bd]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="460.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="3"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d3" xml:space="preserve"><![CDATA[73b009fe-e896-4d9f-b24d-374d46cbb4ad]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="430.0" y="460.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="4"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d3" xml:space="preserve"><![CDATA[7ffc57c7-836d-4baa-836d-4962896fdb00]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="890.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="5"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d3" xml:space="preserve"><![CDATA[9810bf23-1559-4d98-8959-2ec0f04ced9b]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="430.0" y="890.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="6"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n6">
+      <data key="d3" xml:space="preserve"><![CDATA[247d60b4-77e0-4d8c-84b3-9adadfaa591b]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="1320.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="7"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="d3" xml:space="preserve"><![CDATA[488bb27f-5f3a-47c4-9a9f-6c8836be6d3b]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="430.0" y="1320.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="8"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n8">
+      <data key="d3" xml:space="preserve"><![CDATA[25cfb2d0-46f7-4674-9310-b71f1273b91d]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="388.0" width="388.0" x="0.0" y="1750.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="192.0" y="392.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="9"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n9">
+      <data key="d3" xml:space="preserve"><![CDATA[29f8d4f7-8fae-4801-9d17-76b059a7593b]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="388.0" width="388.0" x="418.0" y="1750.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="192.0" y="392.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="10"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+  </graph>
+  <data key="d8">
+    <y:Resources>
+      <y:Resource id="1" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#TurquoiseGradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="TurquoiseGradient" x1="1382.53" y1="-41.53" x2="1276.47" y2="64.53" gradientTransform="translate(1367 49) rotate(180)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#055f4e"/&gt;&lt;stop offset="1" stop-color="#56c0a7"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Appstream-2.0&lt;/title&gt;&lt;g id="Working"&gt;&lt;rect id="Turquoise_Gradient" data-name="Turquoise Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="Icon_Test" data-name="Icon Test"&gt;&lt;path class="cls-2" d="M61.5,62.5a1,1,0,0,1-.71-.29l-18-18,1.42-1.42L60.5,59.09V14.5H15.91l16.3,16.29-1.42,1.42-18-18a1,1,0,0,1-.21-1.09,1,1,0,0,1,.92-.62h48a1,1,0,0,1,1,1v48a1,1,0,0,1-.62.92A.84.84,0,0,1,61.5,62.5Z"/&gt;&lt;path class="cls-2" d="M38.5,62.5a1,1,0,0,1-.71-.29l-25-25a1,1,0,0,1-.21-1.09,1,1,0,0,1,.92-.62h25a1,1,0,0,1,1,1v25a1,1,0,0,1-.62.92A.84.84,0,0,1,38.5,62.5Zm-22.59-25L37.5,59.09V37.5Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="2" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#1c7b68;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Appstream-2.0_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;rect id="Turquoise_Light_BG" data-name="Turquoise Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="Product_Icon" data-name="Product Icon"&gt;&lt;path class="cls-2" d="M61.5,62.5a1,1,0,0,1-.71-.29l-18-18,1.42-1.42L60.5,59.09V14.5H15.91l16.3,16.29-1.42,1.42-18-18a1,1,0,0,1-.21-1.09,1,1,0,0,1,.92-.62h48a1,1,0,0,1,1,1v48a1,1,0,0,1-.62.92A.84.84,0,0,1,61.5,62.5Z"/&gt;&lt;path class="cls-2" d="M38.5,62.5a1,1,0,0,1-.71-.29l-25-25a1,1,0,0,1-.21-1.09,1,1,0,0,1,.92-.62h25a1,1,0,0,1,1,1v25a1,1,0,0,1-.62.92A.84.84,0,0,1,38.5,62.5Zm-22.59-25L37.5,59.09V37.5Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="3" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#Turquoise_Gradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="Turquoise_Gradient" x1="179.53" y1="153.53" x2="73.47" y2="47.47" gradientTransform="translate(138 -89) rotate(90)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#055f4e"/&gt;&lt;stop offset="1" stop-color="#56c0a7"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Workspaces copy 2&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Red_Gradient" data-name="Red Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="Icon_Test" data-name="Icon Test"&gt;&lt;path class="cls-2" d="M62.21,36.79l-24-24a1,1,0,0,0-.71-.29h-24a1,1,0,0,0-1,1v48a1,1,0,0,0,1,1h48a1,1,0,0,0,1-1v-24A1,1,0,0,0,62.21,36.79ZM38.5,15.91,59.09,36.5H38.5Zm22,44.59h-22v-2h-2v2h-22v-22h2v-2h-2v-22h22v22h-3v2h3v3h2v-3h22Zm-42-24v2h3v-2Zm5,0v2h3v-2Zm5,0v2h3v-2Zm8,7v3h2v-3Zm0,5v3h2v-3Zm0,5v3h2v-3Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="4" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#1c7b68;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-WorkDocs_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Red_Light_BG" data-name="Red Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="Product_Icon" data-name="Product Icon"&gt;&lt;path class="cls-2" d="M62.21,36.79l-24-24a1,1,0,0,0-.71-.29h-24a1,1,0,0,0-1,1v48a1,1,0,0,0,1,1h48a1,1,0,0,0,1-1v-24A1,1,0,0,0,62.21,36.79ZM38.5,15.91,59.09,36.5H38.5Zm22,44.59h-22v-2h-2v2h-22v-22h2v-2h-2v-22h22v22h-3v2h3v3h2v-3h22Zm-42-24v2h3v-2Zm5,0v2h3v-2Zm5,0v2h3v-2Zm8,7v3h2v-3Zm0,5v3h2v-3Zm0,5v3h2v-3Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="5" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#Turquoise_Gradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="Turquoise_Gradient" x1="124.6" y1="296.78" x2="124.6" y2="146.78" gradientTransform="translate(106.22 -207.43) rotate(45)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#055f4e"/&gt;&lt;stop offset="1" stop-color="#56c0a7"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Workspaces copy&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Gradient" data-name="Green Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="ICONS_-_EDIT" data-name="ICONS - EDIT"&gt;&lt;path class="cls-2" d="M25.47,46.18H14.6a1.12,1.12,0,0,1-1.12-1.12V14.6a1.12,1.12,0,0,1,1.12-1.12H45.06a1.12,1.12,0,0,1,1.12,1.12V25.28h-2V15.49H15.48V44.18h10Z"/&gt;&lt;path class="cls-2" d="M60.41,61.52H29.93a1.11,1.11,0,0,1-1.11-1.11V49.5h2v10H59.51V30.83h-9.8v-2H60.4a1.11,1.11,0,0,1,1.11,1.11V60.42A1.09,1.09,0,0,1,60.41,61.52Z"/&gt;&lt;path class="cls-2" d="M46.89,48.05H28.1A1.16,1.16,0,0,1,27,46.9V28.11A1.16,1.16,0,0,1,28.1,27H46.89A1.16,1.16,0,0,1,48,28.11V46.9A1.15,1.15,0,0,1,46.89,48.05ZM29,46.05H46V29H29Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="6" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#1c7b68;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-WorkLink_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Light_BG" data-name="Green Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="ICONS_-_EDIT" data-name="ICONS - EDIT"&gt;&lt;path class="cls-2" d="M25.47,46.18H14.6a1.12,1.12,0,0,1-1.12-1.12V14.6a1.12,1.12,0,0,1,1.12-1.12H45.06a1.12,1.12,0,0,1,1.12,1.12V25.28h-2V15.49H15.48V44.18h10Z"/&gt;&lt;path class="cls-2" d="M60.41,61.52H29.93a1.11,1.11,0,0,1-1.11-1.11V49.5h2v10H59.51V30.83h-9.8v-2H60.4a1.11,1.11,0,0,1,1.11,1.11V60.42A1.09,1.09,0,0,1,60.41,61.52Z"/&gt;&lt;path class="cls-2" d="M46.89,48.05H28.1A1.16,1.16,0,0,1,27,46.9V28.11A1.16,1.16,0,0,1,28.1,27H46.89A1.16,1.16,0,0,1,48,28.11V46.9A1.15,1.15,0,0,1,46.89,48.05ZM29,46.05H46V29H29Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="7" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#TurquoiseGradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="TurquoiseGradient" x1="427.46" y1="-484.53" x2="533.53" y2="-378.46" gradientTransform="translate(469 518) rotate(-90)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#055f4e"/&gt;&lt;stop offset="1" stop-color="#56c0a7"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Workspaces&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Turquoise_Gradient" data-name="Turquoise Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="Icon_Test" data-name="Icon Test"&gt;&lt;path class="cls-2" d="M36.5,26.86v3h2v-3Zm-7.67,15-1-1.73,2.31-1.33,1,1.73Zm3.84-2.22-1-1.73L34,36.55l1,1.73ZM57,46l-1,1.74,2.6,1.5,1-1.74Zm-4.33-2.5-1,1.74,2.6,1.5,1-1.74ZM48.33,41l-1,1.74,2.6,1.5,1-1.74ZM62,28.09,44,17.7a1,1,0,0,0-1,0l-6.19,3.57L25,28.09a1,1,0,0,0-.5.87V49.74a1,1,0,0,0,.5.87L43,61a1,1,0,0,0,1,0L62,50.61a1,1,0,0,0,.5-.87V29A1,1,0,0,0,62,28.09ZM42.5,58.4l-16-9.23v-6l.8-.46-.8-1.39V30.69L35.71,36l.8,1.38.8-.46,5.19,3Zm1-20.2-5-2.89V31.86h-2v2.29L27.5,29l9-5.19v1.09h2V22.61l5-2.89L59.5,29Zm17,11-16,9.23V41.09l1.1.63,1-1.74-1.09-.63,15-8.65ZM34.23,17.92,27.36,14a1,1,0,0,0-1,0L13,21.7h0a1,1,0,0,0-.49.86V38a1,1,0,0,0,.52.88l7,3.86a1,1,0,0,0,.48.12,1,1,0,0,0,.51-.14,1,1,0,0,0,.49-.86V27l12.74-7.36a1,1,0,0,0,.5-.86A1,1,0,0,0,34.23,17.92ZM19.5,40.17l-5-2.76V24.27l5,2.75Zm1-14.89-5-2.72L26.86,16l4.87,2.78Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="8" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#1c7b68;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Workspaces_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Turquoise_Light_BG" data-name="Turquoise Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="Product_Icon" data-name="Product Icon"&gt;&lt;path class="cls-2" d="M36.5,26.86v3h2v-3Zm-7.67,15-1-1.73,2.31-1.33,1,1.73Zm3.84-2.22-1-1.73L34,36.55l1,1.73ZM57,46l-1,1.74,2.6,1.5,1-1.74Zm-4.33-2.5-1,1.74,2.6,1.5,1-1.74ZM48.33,41l-1,1.74,2.6,1.5,1-1.74ZM62,28.09,44,17.7a1,1,0,0,0-1,0l-6.19,3.57L25,28.09a1,1,0,0,0-.5.87V49.74a1,1,0,0,0,.5.87L43,61a1,1,0,0,0,1,0L62,50.61a1,1,0,0,0,.5-.87V29A1,1,0,0,0,62,28.09ZM42.5,58.4l-16-9.23v-6l.8-.46-.8-1.39V30.69L35.71,36l.8,1.38.8-.46,5.19,3Zm1-20.2-5-2.89V31.86h-2v2.29L27.5,29l9-5.19v1.09h2V22.61l5-2.89L59.5,29Zm17,11-16,9.23V41.09l1.1.63,1-1.74-1.09-.63,15-8.65ZM34.23,17.92,27.36,14a1,1,0,0,0-1,0L13,21.7h0a1,1,0,0,0-.49.86V38a1,1,0,0,0,.52.88l7,3.86a1,1,0,0,0,.48.12,1,1,0,0,0,.51-.14,1,1,0,0,0,.49-.86V27l12.74-7.36a1,1,0,0,0,.5-.86A1,1,0,0,0,34.23,17.92ZM19.5,40.17l-5-2.76V24.27l5,2.75Zm1-14.89-5-2.72L26.86,16l4.87,2.78Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="9" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{opacity:0.5;}.cls-2{fill:url(#Turquoise_Gradient);}.cls-3{fill:#fff;}.cls-4{fill:none;}&lt;/style&gt;&lt;linearGradient id="Turquoise_Gradient" x1="8.5" y1="90.5" x2="90.5" y2="8.5" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#055f4e"/&gt;&lt;stop offset="1" stop-color="#56c0a7"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;Desktop-and-App-Streaming&lt;/title&gt;&lt;g id="Working"&gt;&lt;image class="cls-1" width="97" height="97" transform="translate(1 2)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAABhCAYAAADGBs+jAAAACXBIWXMAAAsSAAALEgHS3X78AAADRklEQVR4Xu2dy04bQRBFTzsYIhIU5bFASTb5//+KsggohIcCBncW1TVuxmM8kCzu4h6pZOjxbO6Z6h6vqtRamaKUUiYvmBdTd4Rdxust/BTQ/21eTm0F4eJR6IOE7slfTBRYxkvIsNcTNXTGweimRVtbdnWARbyEXsA9sOrqvq0DTULrghRwBBwDb1odsRFhCfOpbATcAtetbtr1+1LKutZasxNSwpIQ8AH42D5PCBGv8BkxlzwDHggBl8A5cNau55ZUgXowOguWwFvgE/AV+EyIOG7Xclsy+1kTW88NIeA78QDfEWJWwEMppTzVCZ+Bb8Ap0Q2HeEuaS25Fd0QX/GjrN8Av4DebLLe2ozwT3hIiToEvwDvgNZYwl5TwB7hoaxdErltn7K63ozycTwgB73l8Lpin6c8DiCf/mMcCBnoJeeguiLCXxBZ01Oo1ljCXlACR3SGR5ys2HTDkOO4E2IjohfRlCfvJ3wiZWZ/nVn5TEpLyRJn9zM7Nr5wCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUI8NSwu7qjzH6eld2UhJygmp8PXYEnDs4hZ29m9XluyeglpK0MfsVmgHNOU/XszXn0U2hviRxXPBYyyBh3Qj9T/oYY6JzzhD2PeT7jecyXRJ63RL7r/sspIW9KAVfESPOcqP0bTyZ/DlOTyc+JXHsRFbYljGfKQ5g8JuYJ+21qPlN5nrf/V/QSaq21lFK6m66An+0L18R08n4quTthP7nn57lwSQg4I/JNCdRa665OoN18wcRMeTOL8RZ/3WqrE0qtcUi3blgQgS+76mfKW8J88u0nRay6ugfWtYW/6+0ou2KBBfwLvYhxDQydMCxER2TgPgP+D/3vglpHoW9JGC6EDPMfGYef/AXAiw24l2MbQgAAAABJRU5ErkJggg=="/&gt;&lt;rect class="cls-2" x="8.5" y="8.5" width="82" height="82"/&gt;&lt;path class="cls-3" d="M89,10V89H10V10H89m3-3H7V92H92V7Z"/&gt;&lt;rect class="cls-4" width="100" height="100"/&gt;&lt;path class="cls-3" d="M73.74,32.5H71V30a3.52,3.52,0,0,0-3.53-3.5H34.53A3.52,3.52,0,0,0,31,30V56.5H27a1,1,0,0,0-.9.55,1,1,0,0,0,.1,1.05l3.79,5a1,1,0,0,0,.8.4H53v5.74a2.26,2.26,0,0,0,2.26,2.26H73.74A2.26,2.26,0,0,0,76,69.24V34.76A2.26,2.26,0,0,0,73.74,32.5Zm0,2a.26.26,0,0,1,.26.26V59.5H55v-4h6.26a4.77,4.77,0,0,0,4.63-4.79c0-3.18-1.15-4.79-3.42-4.79H61.06v-.26a3.73,3.73,0,0,0-1.63-3A5.77,5.77,0,0,0,55,41.84V34.76a.26.26,0,0,1,.26-.26ZM44.41,40.4a3.7,3.7,0,0,1-.26-1.34,4,4,0,0,1,4-4,4.41,4.41,0,0,1,4.35,4.13v1.18a1,1,0,0,0,.47.83V49.5H42.14a4,4,0,1,1,0-8,4.08,4.08,0,0,1,1.07.16,1,1,0,0,0,1-.29A1,1,0,0,0,44.41,40.4ZM59.3,47.58a1,1,0,0,0,.75.34h2.42c.54,0,1.42,0,1.42,2.79a2.75,2.75,0,0,1-2.63,2.79H55V43.88a4,4,0,0,1,3.26.36,1.73,1.73,0,0,1,.79,1.42v.26c0,.29,0,.73,0,.86A1,1,0,0,0,59.3,47.58ZM33,30a1.52,1.52,0,0,1,1.53-1.5H67.42A1.52,1.52,0,0,1,69,30v2.5H55.26A2.26,2.26,0,0,0,53,34.76v.56a6.48,6.48,0,0,0-4.82-2.24,6,6,0,0,0-6,6c0,.16,0,.33,0,.49h0a6,6,0,1,0,0,12H53v5H33ZM31.29,61.5,29,58.5H53v3Zm42.45,8H55.26a.26.26,0,0,1-.26-.26V61.5H74v7.74A.26.26,0,0,1,73.74,69.5Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="10" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{opacity:0.5;}.cls-2{fill:#1c7b68;}.cls-3{fill:#fff;}.cls-4{fill:none;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;End-User-Computing_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;image class="cls-1" width="97" height="97" transform="translate(1 2)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAABhCAYAAADGBs+jAAAACXBIWXMAAAsSAAALEgHS3X78AAADRklEQVR4Xu2dy04bQRBFTzsYIhIU5bFASTb5//+KsggohIcCBncW1TVuxmM8kCzu4h6pZOjxbO6Z6h6vqtRamaKUUiYvmBdTd4Rdxust/BTQ/21eTm0F4eJR6IOE7slfTBRYxkvIsNcTNXTGweimRVtbdnWARbyEXsA9sOrqvq0DTULrghRwBBwDb1odsRFhCfOpbATcAtetbtr1+1LKutZasxNSwpIQ8AH42D5PCBGv8BkxlzwDHggBl8A5cNau55ZUgXowOguWwFvgE/AV+EyIOG7Xclsy+1kTW88NIeA78QDfEWJWwEMppTzVCZ+Bb8Ap0Q2HeEuaS25Fd0QX/GjrN8Av4DebLLe2ozwT3hIiToEvwDvgNZYwl5TwB7hoaxdErltn7K63ozycTwgB73l8Lpin6c8DiCf/mMcCBnoJeeguiLCXxBZ01Oo1ljCXlACR3SGR5ys2HTDkOO4E2IjohfRlCfvJ3wiZWZ/nVn5TEpLyRJn9zM7Nr5wCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUI8NSwu7qjzH6eld2UhJygmp8PXYEnDs4hZ29m9XluyeglpK0MfsVmgHNOU/XszXn0U2hviRxXPBYyyBh3Qj9T/oYY6JzzhD2PeT7jecyXRJ63RL7r/sspIW9KAVfESPOcqP0bTyZ/DlOTyc+JXHsRFbYljGfKQ5g8JuYJ+21qPlN5nrf/V/QSaq21lFK6m66An+0L18R08n4quTthP7nn57lwSQg4I/JNCdRa665OoN18wcRMeTOL8RZ/3WqrE0qtcUi3blgQgS+76mfKW8J88u0nRay6ugfWtYW/6+0ou2KBBfwLvYhxDQydMCxER2TgPgP+D/3vglpHoW9JGC6EDPMfGYef/AXAiw24l2MbQgAAAABJRU5ErkJggg=="/&gt;&lt;rect class="cls-2" x="8.5" y="8.5" width="82" height="82"/&gt;&lt;path class="cls-3" d="M89,10V89H10V10H89m3-3H7V92H92V7Z"/&gt;&lt;rect class="cls-4" width="100" height="100"/&gt;&lt;path class="cls-3" d="M72.74,33.5H70V31a3.52,3.52,0,0,0-3.53-3.5H33.53A3.52,3.52,0,0,0,30,31V57.5H26a1,1,0,0,0-.9.55,1,1,0,0,0,.1,1.05l3.79,5a1,1,0,0,0,.8.4H52v5.74a2.26,2.26,0,0,0,2.26,2.26H72.74A2.26,2.26,0,0,0,75,70.24V35.76A2.26,2.26,0,0,0,72.74,33.5Zm0,2a.26.26,0,0,1,.26.26V60.5H54v-4h6.26a4.77,4.77,0,0,0,4.63-4.79c0-3.18-1.15-4.79-3.42-4.79H60.06v-.26a3.73,3.73,0,0,0-1.63-3A5.77,5.77,0,0,0,54,42.84V35.76a.26.26,0,0,1,.26-.26ZM43.41,41.4a3.7,3.7,0,0,1-.26-1.34,4,4,0,0,1,4-4,4.41,4.41,0,0,1,4.35,4.13v1.18a1,1,0,0,0,.47.83V50.5H41.14a4,4,0,1,1,0-8,4.08,4.08,0,0,1,1.07.16,1,1,0,0,0,1-.29A1,1,0,0,0,43.41,41.4ZM58.3,48.58a1,1,0,0,0,.75.34h2.42c.54,0,1.42,0,1.42,2.79a2.75,2.75,0,0,1-2.63,2.79H54V44.88a4,4,0,0,1,3.26.36,1.73,1.73,0,0,1,.79,1.42v.26c0,.29,0,.73,0,.86A1,1,0,0,0,58.3,48.58ZM32,31a1.52,1.52,0,0,1,1.53-1.5H66.42A1.52,1.52,0,0,1,68,31v2.5H54.26A2.26,2.26,0,0,0,52,35.76v.56a6.48,6.48,0,0,0-4.82-2.24,6,6,0,0,0-6,6c0,.16,0,.33,0,.49h0a6,6,0,1,0,0,12H52v5H32ZM30.29,62.5,28,59.5H52v3Zm42.45,8H54.26a.26.26,0,0,1-.26-.26V62.5H73v7.74A.26.26,0,0,1,72.74,70.5Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+    </y:Resources>
+  </data>
+</graphml>

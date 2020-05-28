@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
-  <!-- Created by yEd AWS Simple Icons Generator (https://github.com/JustDerb/yed-aws-palettes) -->
+  <!--Created by yEd 3.20-->
   <key for="port" id="d0" yfiles.type="portgraphics"/>
   <key for="port" id="d1" yfiles.type="portgeometry"/>
   <key for="port" id="d2" yfiles.type="portuserdata"/>
@@ -17,40 +17,15 @@
   <key for="edge" id="d13" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
     <node id="n0">
-      <data key="d3"><![CDATA[9ebfcdeb-4a60-49d9-8f3b-5e111e817345]]></data>
-      <data key="d4"><![CDATA[Storage_AmazonS3_bucket]]></data>
-      <data key="d6"><![CDATA[Storage_AmazonS3_bucket]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[20bf8e32-cd2e-45ad-9b0d-096eb11ddaa6]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="30.0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
-          <y:SVGModel svgBoundsPolicy="0">
-            <y:SVGContent refid="0"/>
-          </y:SVGModel>
-        </y:SVGNode>
-      </data>
-    </node>
-    <node id="n1">
-      <data key="d3"><![CDATA[1bff6c9d-2240-4837-b478-bf13467cf157]]></data>
-      <data key="d4"><![CDATA[Storage_AWSSnowball_importexport]]></data>
-      <data key="d6"><![CDATA[Storage_AWSSnowball_importexport]]></data>
-      <data key="d7">
-        <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
-          <y:Fill color="#CCCCFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="1"/>
@@ -58,20 +33,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n2">
-      <data key="d3"><![CDATA[f8b70bf9-7657-4e02-9319-0d59862175cb]]></data>
-      <data key="d4"><![CDATA[Storage_AmazonEBS]]></data>
-      <data key="d6"><![CDATA[Storage_AmazonEBS]]></data>
+    <node id="n1">
+      <data key="d3" xml:space="preserve"><![CDATA[e7d16b2e-cc4d-4ef5-81dd-5389e0bdb25c]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="400.0" width="400.0" x="430.0" y="30.0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="2"/>
@@ -79,20 +50,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n3">
-      <data key="d3"><![CDATA[a621d54b-a1ca-4756-8e0f-f17a4b423dd6]]></data>
-      <data key="d4"><![CDATA[Storage_AmazonEFS_EFSfilesystem]]></data>
-      <data key="d6"><![CDATA[Storage_AmazonEFS_EFSfilesystem]]></data>
+    <node id="n2">
+      <data key="d3" xml:space="preserve"><![CDATA[fc659eae-3183-435a-9e36-47e210a08f60]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="376.1282653808594" width="272.10577392578125" x="0.0" y="471.9358673095703"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="134.05288696289062" y="380.1282653808594"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="3"/>
@@ -100,20 +67,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n4">
-      <data key="d3"><![CDATA[cb8f88b5-3c47-49b8-9036-b845ffdc8737]]></data>
-      <data key="d4"><![CDATA[Storage_snapshot]]></data>
-      <data key="d6"><![CDATA[Storage_snapshot]]></data>
+    <node id="n3">
+      <data key="d3" xml:space="preserve"><![CDATA[ccc5445a-9976-4409-82c0-b318b6403353]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="376.0" width="302.2200012207031" x="302.10577392578125" y="472.0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="149.11000061035156" y="380.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="4"/>
@@ -121,20 +84,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n5">
-      <data key="d3"><![CDATA[0e29e010-3b14-4223-87f0-ef2c84a73b75]]></data>
-      <data key="d4"><![CDATA[Storage_AWSStorageGateway_cachedvolume]]></data>
-      <data key="d6"><![CDATA[Storage_AWSStorageGateway_cachedvolume]]></data>
+    <node id="n4">
+      <data key="d3" xml:space="preserve"><![CDATA[34e5c06c-2476-479a-ba03-645d937df808]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="400.0" width="400.0" x="634.3257751464844" y="460.0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="5"/>
@@ -142,20 +101,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n6">
-      <data key="d3"><![CDATA[b776757a-c531-465b-8b9a-3a17273f0030]]></data>
-      <data key="d4"><![CDATA[Storage_AWSStorageGateway_virtualtapelibrary]]></data>
-      <data key="d6"><![CDATA[Storage_AWSStorageGateway_virtualtapelibrary]]></data>
+    <node id="n5">
+      <data key="d3" xml:space="preserve"><![CDATA[6e269daa-5458-4830-8e7c-2903ce924239]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="376.0" width="400.0" x="0.0" y="902.0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="380.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="6"/>
@@ -163,20 +118,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n7">
-      <data key="d3"><![CDATA[52436a4c-e89b-4bf1-8250-cb109e961c75]]></data>
-      <data key="d4"><![CDATA[Storage_AWSStorageGateway]]></data>
-      <data key="d6"><![CDATA[Storage_AWSStorageGateway]]></data>
+    <node id="n6">
+      <data key="d3" xml:space="preserve"><![CDATA[b767cab8-7792-4004-8e35-aadeafa98ae4]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="400.0" width="400.0" x="430.0" y="890.0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="7"/>
@@ -184,20 +135,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n8">
-      <data key="d3"><![CDATA[3fb3b943-754b-4093-962f-cc49dd2ed5e2]]></data>
-      <data key="d4"><![CDATA[Storage_volume]]></data>
-      <data key="d6"><![CDATA[Storage_volume]]></data>
+    <node id="n7">
+      <data key="d3" xml:space="preserve"><![CDATA[66b2ec74-06a5-478a-abb8-e9a06162ca78]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="1320.0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="8"/>
@@ -205,20 +152,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n9">
-      <data key="d3"><![CDATA[197e29c6-36e4-4aa4-81d6-3b91ff6a1d97]]></data>
-      <data key="d4"><![CDATA[Storage_AmazonGlacier_archive]]></data>
-      <data key="d6"><![CDATA[Storage_AmazonGlacier_archive]]></data>
+    <node id="n8">
+      <data key="d3" xml:space="preserve"><![CDATA[0ec81ed6-2639-4b58-9b5c-589e6a1f1a10]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="400.0" width="400.0" x="430.0" y="1320.0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="9"/>
@@ -226,20 +169,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n10">
-      <data key="d3"><![CDATA[bbbab397-0283-499b-9475-59cb3d1af6bf]]></data>
-      <data key="d4"><![CDATA[Storage_AmazonGlacier_vault]]></data>
-      <data key="d6"><![CDATA[Storage_AmazonGlacier_vault]]></data>
+    <node id="n9">
+      <data key="d3" xml:space="preserve"><![CDATA[dfc9b7aa-410b-4130-b1fb-18bc158b54fd]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="1750.0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="10"/>
@@ -247,20 +186,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n11">
-      <data key="d3"><![CDATA[24e4ae38-9d9b-4d14-be46-37f7c3ac1669]]></data>
-      <data key="d4"><![CDATA[Storage_AmazonEFS]]></data>
-      <data key="d6"><![CDATA[Storage_AmazonEFS]]></data>
+    <node id="n10">
+      <data key="d3" xml:space="preserve"><![CDATA[aac2daf4-f91d-4abc-9541-0966755a6a39]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="400.0" width="400.0" x="430.0" y="1750.0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="11"/>
@@ -268,20 +203,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n12">
-      <data key="d3"><![CDATA[ba04192a-03f6-49cf-aa51-d808bd1b83a9]]></data>
-      <data key="d4"><![CDATA[Storage_AmazonS3_object]]></data>
-      <data key="d6"><![CDATA[Storage_AmazonS3_object]]></data>
+    <node id="n11">
+      <data key="d3" xml:space="preserve"><![CDATA[8265f759-45db-43c9-bdef-01047fb2f05f]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="2180.0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="12"/>
@@ -289,20 +220,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n13">
-      <data key="d3"><![CDATA[d9c7eb81-d6a7-4169-a646-66fdded34bce]]></data>
-      <data key="d4"><![CDATA[Storage_AmazonGlacier]]></data>
-      <data key="d6"><![CDATA[Storage_AmazonGlacier]]></data>
+    <node id="n12">
+      <data key="d3" xml:space="preserve"><![CDATA[de1385db-c1dc-4dab-a780-1b7d5f7efc61]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="400.0" width="400.0" x="430.0" y="2180.0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="13"/>
@@ -310,20 +237,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n14">
-      <data key="d3"><![CDATA[cd7e5b47-7f1f-4f40-b0bd-c6d5e82f9012]]></data>
-      <data key="d4"><![CDATA[Storage_AWSStorageGateway_non-cachedvolume]]></data>
-      <data key="d6"><![CDATA[Storage_AWSStorageGateway_non-cachedvolume]]></data>
+    <node id="n13">
+      <data key="d3" xml:space="preserve"><![CDATA[2dab916b-6d4d-40a5-b272-6090f4da447a]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="2610.0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="14"/>
@@ -331,20 +254,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n15">
-      <data key="d3"><![CDATA[5ad7dde7-413e-453d-aae5-28e1414aab06]]></data>
-      <data key="d4"><![CDATA[Storage_AmazonS3]]></data>
-      <data key="d6"><![CDATA[Storage_AmazonS3]]></data>
+    <node id="n14">
+      <data key="d3" xml:space="preserve"><![CDATA[22d891db-96a0-42c6-8b43-872dd02e696d]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="376.01141357421875" width="301.6460266113281" x="430.0" y="2621.9942932128906"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="148.82301330566406" y="380.01141357421875"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="15"/>
@@ -352,20 +271,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n16">
-      <data key="d3"><![CDATA[4e9f9288-b4c1-4cf9-9de3-9d1cdb8b692e]]></data>
-      <data key="d4"><![CDATA[Storage_AWSSnowball]]></data>
-      <data key="d6"><![CDATA[Storage_AWSSnowball]]></data>
+    <node id="n15">
+      <data key="d3" xml:space="preserve"><![CDATA[230d732d-36ef-4d12-a09c-d616a6acef19]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="400.0" width="400.0" x="761.6460266113281" y="2610.0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="16"/>
@@ -373,20 +288,16 @@
         </y:SVGNode>
       </data>
     </node>
-    <node id="n17">
-      <data key="d3"><![CDATA[c48b4335-de52-448c-a2cd-078f58e7fcac]]></data>
-      <data key="d4"><![CDATA[Storage_AmazonS3_bucketwithobjects]]></data>
-      <data key="d6"><![CDATA[Storage_AmazonS3_bucketwithobjects]]></data>
+    <node id="n16">
+      <data key="d3" xml:space="preserve"><![CDATA[8807f80d-1dec-4221-a659-942fce6d474f]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="376.0" width="302.2200012207031" x="0.0" y="3040.0760498046875"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content"
-              fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false"
-              hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
-              iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
-              verticalTextPosition="bottom" visible="true" width="4" x="0" y="0"></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="149.11000061035156" y="380.0"/>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="17"/>
@@ -394,280 +305,662 @@
         </y:SVGNode>
       </data>
     </node>
+    <node id="n17">
+      <data key="d3" xml:space="preserve"><![CDATA[f6d12a5f-db31-4c26-b213-54235e88ef77]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="376.1463317871094" width="361.6678771972656" x="332.2200012207031" y="3040.002883911133"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="178.8339385986328" y="380.1463317871094"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="18"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n18">
+      <data key="d3" xml:space="preserve"><![CDATA[6cc45ac8-f9a7-49a8-b3c8-cfa0cfd584e2]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="376.152099609375" width="361.6678771972656" x="723.8878784179688" y="3040.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="178.8339385986328" y="380.152099609375"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="19"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n19">
+      <data key="d3" xml:space="preserve"><![CDATA[953fe64b-177e-4333-be3b-f8fd503d833d]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="344.0599060058594" width="344.0599060058594" x="0.0" y="3474.1221466064453"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="170.0299530029297" y="348.0599060058594"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="20"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n20">
+      <data key="d3" xml:space="preserve"><![CDATA[77f6f31f-e5a7-4b1f-8529-35a4fbb72627]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="374.0599060058594" y="3446.152099609375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="21"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n21">
+      <data key="d3" xml:space="preserve"><![CDATA[57a023a9-d0a3-44cf-890a-a7c0fed021f9]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="3876.152099609375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="22"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n22">
+      <data key="d3" xml:space="preserve"><![CDATA[ca828cfa-9f69-48eb-9e3e-e0ae08c50a42]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="430.0" y="3876.152099609375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="23"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n23">
+      <data key="d3" xml:space="preserve"><![CDATA[43ad1a03-7053-4f4b-934c-33731760c481]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="4306.152099609375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="24"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n24">
+      <data key="d3" xml:space="preserve"><![CDATA[52c6dded-f02e-4203-a454-c32212249f9e]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="430.0" y="4306.152099609375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="25"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n25">
+      <data key="d3" xml:space="preserve"><![CDATA[8754d09e-055d-4214-9c58-ca58424ed0a7]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="4736.152099609375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="26"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n26">
+      <data key="d3" xml:space="preserve"><![CDATA[4f55a333-cde5-4ba8-a326-ee359d75da3a]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="293.44000244140625" width="376.5340576171875" x="430.0" y="4789.432098388672"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="186.26702880859375" y="297.44000244140625"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="27"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n27">
+      <data key="d3" xml:space="preserve"><![CDATA[ea27a16a-af7e-4d4a-b51e-40d6a0f992f5]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="5166.152099609375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="28"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n28">
+      <data key="d3" xml:space="preserve"><![CDATA[677ba8f2-a926-43e1-bff4-40c4baafe354]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="430.0" y="5166.152099609375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="29"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n29">
+      <data key="d3" xml:space="preserve"><![CDATA[730e5918-641b-4b66-9f37-6bcfb866c2ba]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="5596.152099609375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="30"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n30">
+      <data key="d3" xml:space="preserve"><![CDATA[1e104203-508f-4f3e-8662-a52d5ad87c56]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="376.0" width="300.96002197265625" x="430.0" y="5608.152099609375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="148.48001098632812" y="380.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="31"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n31">
+      <data key="d3" xml:space="preserve"><![CDATA[12f2c650-f744-4ac3-b69f-780f6fad1147]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="390.08001708984375" width="342.907958984375" x="760.9600219726562" y="5601.112091064453"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="169.4539794921875" y="394.08001708984375"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="32"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n32">
+      <data key="d3" xml:space="preserve"><![CDATA[e4bc3dda-d9a4-443a-b2c9-de5fc0e779f2]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="400.0" width="400.0" x="0.0" y="6026.152099609375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="198.0" y="404.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="33"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n33">
+      <data key="d3" xml:space="preserve"><![CDATA[5db3b6f3-f569-4df3-b123-b6d1bda7a5a9]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="376.0" width="300.96002197265625" x="430.0" y="6038.152099609375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="148.48001098632812" y="380.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="34"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n34">
+      <data key="d3" xml:space="preserve"><![CDATA[69745ecc-4aa4-49c3-b951-3da1e76d0b1f]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="398.0799865722656" width="377.1487121582031" x="760.9600219726562" y="6027.112106323242"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="186.57435607910156" y="402.0799865722656"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="35"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n35">
+      <data key="d3" xml:space="preserve"><![CDATA[bea6e9b0-5e35-4735-886b-1a6b1dde9c30]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="376.0" width="300.96002197265625" x="0.0" y="6467.192108154297"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="148.48001098632812" y="380.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="36"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n36">
+      <data key="d3" xml:space="preserve"><![CDATA[89b5dd4e-6b72-40ca-8bbc-4ab98736a334]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="398.08001708984375" width="331.86798095703125" x="330.96002197265625" y="6456.152099609375"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="163.93399047851562" y="402.08001708984375"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="37"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n37">
+      <data key="d3" xml:space="preserve"><![CDATA[8d21e472-467b-4b6f-8272-45063c43486c]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="75.0" width="75.0" x="692.8280029296875" y="6617.692108154297"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="35.5" y="79.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="38"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n38">
+      <data key="d3" xml:space="preserve"><![CDATA[37e935c8-395c-4c3e-9b01-2a5d71abeeb2]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="75.0" width="75.0" x="797.8280029296875" y="6617.692108154297"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="35.5" y="79.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="39"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n39">
+      <data key="d3" xml:space="preserve"><![CDATA[ee4d81b0-2bec-40dc-8580-b27aa3fb0463]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="75.0" width="75.0" x="0.0" y="7040.732116699219"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="35.5" y="79.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="40"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n40">
+      <data key="d3" xml:space="preserve"><![CDATA[7003794c-75da-4bc6-b3d8-9944f428c003]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="75.0" width="75.0" x="105.0" y="7040.732116699219"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="35.5" y="79.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="41"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n41">
+      <data key="d3" xml:space="preserve"><![CDATA[6138c9dc-187a-4899-8fc3-dd39b7efdb56]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="75.0" width="75.0" x="210.0" y="7040.732116699219"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="35.5" y="79.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="42"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n42">
+      <data key="d3" xml:space="preserve"><![CDATA[09b02e19-be14-46e9-92ca-586835fc7c09]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="75.0" width="75.0" x="315.0" y="7040.732116699219"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="35.5" y="79.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="43"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n43">
+      <data key="d3" xml:space="preserve"><![CDATA[2797f48c-b023-4d73-8256-a3aba7337d83]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="44.53472137451172" width="36.96440505981445" x="420.0" y="7055.964756011963"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="16.482202529907227" y="48.53472137451172"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="44"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n44">
+      <data key="d3" xml:space="preserve"><![CDATA[21aa014c-92b2-4857-9c06-a42e251259e0]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="37.76000213623047" width="49.20000076293945" x="486.96440505981445" y="7059.3521156311035"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="22.600000381469727" y="41.76000213623047"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="45"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n45">
+      <data key="d3" xml:space="preserve"><![CDATA[9331d59b-98fc-4016-968d-dab101cbd5ff]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="388.0" width="388.0" x="566.1644058227539" y="6884.232116699219"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="192.0" y="392.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="46"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n46">
+      <data key="d3" xml:space="preserve"><![CDATA[717c0535-f80f-49f2-a581-28da8e9678db]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="388.0" width="388.0" x="0.0" y="7302.232116699219"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="192.0" y="392.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="47"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n47">
+      <data key="d3" xml:space="preserve"><![CDATA[c778fc95-7ff9-433a-9dc9-ce7ae9561995]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="44.025230407714844" width="30.0" x="418.0" y="7474.219501495361"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="48.025230407714844"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="48"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
   </graph>
   <data key="d8">
     <y:Resources>
-      <y:Resource id="0">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;path d="M50,25.06,76.5,29v2.32c0,3.45-11.87,6.23-26.51,6.23s-26.5-2.78-26.5-6.23V28.8Z" fill="#8c3123"/&gt;
-    &lt;path d="M50,41.8c11.07,0,20.55-1.59,24.52-3.85l1.3-2.2.53-2v2.48l-8.67,37c0,2.3-7.91,4.15-17.67,4.15s-17.66-1.85-17.66-4.15l-8.67-37V33.8l2,4.23C29.66,40.25,39.05,41.8,50,41.8Z" fill="#8c3123"/&gt;
-    &lt;path d="M50,22.58c14.64,0,26.51,2.79,26.51,6.22S64.63,35,50,35,23.5,32.25,23.5,28.8,35.36,22.58,50,22.58Z" fill="#e05243"/&gt;
-    &lt;path d="M50,39.32c13.65,0,24.88-2.41,26.34-5.53l-8.67,37c0,2.3-7.91,4.15-17.67,4.15S32.33,73.1,32.33,70.8l-8.67-37C25.13,36.91,36.36,39.32,50,39.32Z" fill="#e05243"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="1">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;path d="M49.07,24l28,3.31v2.48c0,3.21-12.51,5.79-28,5.79s-28-2.59-28-5.79V27.35Z" fill="#8c3123"/&gt;
-    &lt;polygon points="76.86 34.29 72.87 49.34 59.7 40.44 59.7 47.8 44.62 47.8 34.37 40.85 34.37 48.21 24.99 48.21 21.28 34.29 21.28 31.81 22.67 34.55 49.07 39.45 76.28 33.98 76.86 31.81 76.86 34.29" fill="#8c3123"/&gt;
-    &lt;polygon points="63.84 47.51 78.88 55.22 78.88 57.7 63.84 67.77 63.84 62.62 51.43 62.56 58.15 58.09 50.67 52.59 63.84 52.65 63.84 47.51" fill="#8c3123"/&gt;
-    &lt;polygon points="36.77 47.93 43.35 52.38 51.36 55.68 51.36 58.16 44.99 62.69 36.77 68.19 36.77 63.04 23.7 63.04 23.7 53.06 36.77 53.06 36.77 47.93" fill="#8c3123"/&gt;
-    &lt;path d="M62.58,67v7.33l4.1-2.71,1.88-3.72v2.48l-.92,3.83c0,2.13-8.27,4.09-18.57,4.09s-18.63-1.72-18.63-3.87L28.7,67.89V65.41l5.68,2.48v5.57l11.57-6Z" fill="#8c3123"/&gt;
-    &lt;path d="M49.07,21.56c15.45,0,28,2.59,28,5.79s-12.51,5.79-28,5.79-28-2.59-28-5.79S33.64,21.56,49.07,21.56Z" fill="#e05243"/&gt;
-    &lt;path d="M76.86,31.81l-4,15.05L59.7,38v7.36H44.62L34.37,38.38v7.36H25L21.28,31.81C22.79,34.72,34.66,37,49.07,37S75.35,34.72,76.86,31.81Z" fill="#e05243"/&gt;
-    &lt;polygon points="63.84 45.03 78.88 55.22 63.84 65.29 63.84 60.14 51.43 60.09 58.15 55.61 50.67 50.11 63.84 50.17 63.84 45.03" fill="#e05243"/&gt;
-    &lt;polygon points="36.77 45.45 43.35 49.9 51.36 55.68 44.99 60.21 36.77 65.7 36.77 60.56 23.7 60.56 23.7 50.59 36.77 50.59 36.77 45.45" fill="#e05243"/&gt;
-    &lt;path d="M62.58,64.52v7.33l6-3.95-.92,3.83c0,2.13-8.27,4.09-18.57,4.09S30.44,74.1,30.44,72L28.7,65.41h5.68v7.35L45.95,65Z" fill="#e05243"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="2">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="72.33 23.42 72.33 25.91 27.21 25.91 27.21 23.42 49.77 17.33 72.33 23.42" fill="#8c3123"/&gt;
-    &lt;rect x="26.6" y="31.41" width="46.79" height="51.59" fill="#8c3123"/&gt;
-    &lt;rect x="26.6" y="29.14" width="46.79" height="51.37" fill="#e05243"/&gt;
-    &lt;polygon points="65.96 17 34.07 17 27.21 23.42 27.7 23.42 72.33 23.42 65.96 17" fill="#e05243"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="3">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;rect x="24.31" y="27.63" width="10.35" height="10.35" rx="2.18" ry="2.18" fill="#8c3123"/&gt;
-    &lt;rect x="45.97" y="27.63" width="10.35" height="10.35" rx="2.18" ry="2.18" fill="#8c3123"/&gt;
-    &lt;rect x="67.63" y="27.63" width="10.35" height="10.35" rx="2.18" ry="2.18" fill="#8c3123"/&gt;
-    &lt;polygon points="74.06 45.52 36.21 45.52 36.21 50.56 31.73 50.25 31.73 52.73 32.42 55.42 26.02 54.98 26.02 57.46 27.6 60.27 19.06 59.71 19.06 62.19 36.21 77.81 38.16 77.81 38.16 77.81 73.82 77.81 73.82 77.81 74.06 77.81 74.06 45.52" fill="#8c3123"/&gt;
-    &lt;polygon points="36.21 45.52 36.21 50.25 31.73 50.25 32.95 54.98 26.02 54.98 28.68 59.71 19.06 59.71 36.21 75.33 37.45 75.33 37.92 75.33 38.16 75.33 72.34 75.33 73.58 75.33 73.82 75.33 74.06 75.33 74.06 45.52 36.21 45.52" fill="#e05243"/&gt;
-    &lt;polygon points="72.34 69.56 72.34 47.23 37.92 47.23 37.92 50.25 67.39 50.25 72.34 69.56" fill="#f2b0a9"/&gt;
-    &lt;polygon points="66.16 51.85 37.92 51.85 36.21 51.85 33.79 51.85 34.59 54.98 36.21 54.98 37.92 54.98 62.15 54.98 70.99 70.71 66.16 51.85" fill="#fff"/&gt;
-    &lt;polygon points="61.22 56.58 37.92 56.58 36.21 56.58 35 56.58 34.18 56.58 33.35 56.58 28.75 56.58 30.51 59.71 34.16 59.71 34.98 59.71 35.81 59.71 36.21 59.71 37.92 59.71 56.91 59.71 69.34 71.03 61.22 56.58" fill="#fff"/&gt;
-    &lt;path d="M37,31a.63.63,0,0,0,0-1.27H34.67v-2H37a.63.63,0,0,0,0-1.27H34.51a2.11,2.11,0,0,0-1.18-1.16V22.83a.63.63,0,1,0-1.27,0v2.32h-2V22.83a.63.63,0,1,0-1.27,0v2.32h-2V22.83a.63.63,0,0,0-1.27,0v2.49a2.12,2.12,0,0,0-1.12,1.14H22a.63.63,0,0,0,0,1.27h2.35v2H22A.63.63,0,0,0,22,31h2.35v2H22a.63.63,0,1,0,0,1.27h2.51a2.12,2.12,0,0,0,1.12,1.14v2.49a.63.63,0,0,0,1.27,0V35.51h2v2.32a.63.63,0,0,0,1.27,0V35.51h2v2.32a.63.63,0,0,0,1.27,0V35.36a2.11,2.11,0,0,0,1.18-1.16H37a.63.63,0,0,0,0-1.27H34.67V31Z" fill="#e05243"/&gt;
-    &lt;rect x="27.39" y="28.24" width="4.19" height="4.19" fill="#fff"/&gt;
-    &lt;path d="M58.65,31a.63.63,0,0,0,0-1.27H56.33v-2h2.32a.63.63,0,0,0,0-1.27H56.17A2.11,2.11,0,0,0,55,25.3V22.83a.63.63,0,0,0-1.27,0v2.32h-2V22.83a.63.63,0,0,0-1.27,0v2.32h-2V22.83a.63.63,0,1,0-1.27,0v2.49a2.12,2.12,0,0,0-1.12,1.14H43.62a.63.63,0,0,0,0,1.27H46v2H43.62a.63.63,0,0,0,0,1.27H46v2H43.62a.63.63,0,0,0,0,1.27h2.51a2.12,2.12,0,0,0,1.12,1.14v2.49a.63.63,0,0,0,1.27,0V35.51h2v2.32a.63.63,0,0,0,1.27,0V35.51h2v2.32a.63.63,0,0,0,1.27,0V35.36a2.11,2.11,0,0,0,1.18-1.16h2.48a.63.63,0,0,0,0-1.27H56.33V31Z" fill="#e05243"/&gt;
-    &lt;rect x="49.05" y="28.24" width="4.19" height="4.19" fill="#fff"/&gt;
-    &lt;path d="M80.31,31a.63.63,0,0,0,0-1.27H78v-2h2.32a.63.63,0,1,0,0-1.27H77.83a2.11,2.11,0,0,0-1.18-1.16V22.83a.63.63,0,0,0-1.27,0v2.32h-2V22.83a.63.63,0,0,0-1.27,0v2.32h-2V22.83a.63.63,0,0,0-1.27,0v2.49a2.12,2.12,0,0,0-1.12,1.14H65.28a.63.63,0,1,0,0,1.27h2.35v2H65.28a.63.63,0,0,0,0,1.27h2.35v2H65.28a.63.63,0,1,0,0,1.27h2.51a2.12,2.12,0,0,0,1.12,1.14v2.49a.63.63,0,0,0,1.27,0V35.51h2v2.32a.63.63,0,0,0,1.27,0V35.51h2v2.32a.63.63,0,0,0,1.27,0V35.36a2.11,2.11,0,0,0,1.18-1.16h2.48a.63.63,0,1,0,0-1.27H78V31Z" fill="#e05243"/&gt;
-    &lt;rect x="70.71" y="28.24" width="4.19" height="4.19" fill="#fff"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="4">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;rect x="35.55" y="26.61" width="28.96" height="7.66" fill="#8c3123"/&gt;
-    &lt;polygon points="61.02 19.98 39.02 19.98 36.02 20.5 36.02 22.98 64.03 22.98 64.03 20.5 61.02 19.98" fill="#8c3123"/&gt;
-    &lt;path d="M50,30.36l26.51,3.91v2.32c0,3.45-11.87,6.23-26.51,6.23S23.52,40,23.52,36.58V34.1Z" fill="#8c3123"/&gt;
-    &lt;path d="M50,47.11c11.07,0,20.55-1.59,24.52-3.85l1.3-2.2.53-2v2.48l-8.67,37c0,2.3-7.91,4.15-17.67,4.15s-17.66-1.85-17.66-4.15l-8.67-37V39.1l2,4.23C29.69,45.56,39.08,47.11,50,47.11Z" fill="#8c3123"/&gt;
-    &lt;rect x="35.55" y="24.13" width="28.96" height="7.66" fill="#e05243"/&gt;
-    &lt;polygon points="61.02 17.5 39.02 17.5 36.02 20.5 64.03 20.5 61.02 17.5" fill="#e05243"/&gt;
-    &lt;path d="M50,27.88c14.64,0,26.51,2.79,26.51,6.22S64.66,40.33,50,40.33s-26.5-2.78-26.5-6.23S35.39,27.88,50,27.88Z" fill="#e05243"/&gt;
-    &lt;path d="M50,44.63c13.65,0,24.88-2.41,26.34-5.53l-8.67,37c0,2.3-7.91,4.15-17.67,4.15S32.36,78.4,32.36,76.1l-8.67-37C25.15,42.22,36.38,44.63,50,44.63Z" fill="#e05243"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="5">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="76.47 19.7 76.47 82.78 57.74 82.78 57.74 72.68 42.26 72.68 42.26 82.78 23.53 82.78 23.53 19.7 76.47 19.7" fill="#8c3123"/&gt;
-    &lt;polygon points="76.47 17.22 76.47 80.3 57.74 80.3 57.74 70.2 42.26 70.2 42.26 80.3 23.53 80.3 23.53 17.22 76.47 17.22" fill="#e05243"/&gt;
-    &lt;g&gt;
-      &lt;path d="M37.53,32.69v.23c0,2-.81,4-3.44,4-2.81,0-3.69-1.8-3.69-5.76s.88-5.76,3.7-5.76c3.17,0,3.36,2.33,3.36,3.48V29H35.68v-.19c0-1-.31-2.2-1.6-2.16s-1.9.81-1.9,4.38.59,4.47,1.9,4.47c1.49,0,1.66-1.65,1.66-2.67v-.19h1.78Z" fill="#fff"/&gt;
-      &lt;path d="M40.89,25.58h2.28L46.1,36.66H44.24l-.69-2.72H40.29l-.72,2.72H37.71Zm2.37,7L42,27.07h0l-1.33,5.46Z" fill="#fff"/&gt;
-      &lt;path d="M53.74,32.69v.23c0,2-.81,4-3.44,4-2.81,0-3.69-1.8-3.69-5.76s.88-5.76,3.71-5.76c3.17,0,3.36,2.33,3.36,3.48V29H51.89v-.19c0-1-.31-2.2-1.59-2.16s-1.91.81-1.91,4.38.59,4.47,1.91,4.47c1.49,0,1.66-1.65,1.66-2.67v-.19h1.78Z" fill="#fff"/&gt;
-      &lt;path d="M55,25.58h1.78V30h3.28V25.58h1.78V36.66H60.05V31.51H56.77v5.15H55Z" fill="#fff"/&gt;
-      &lt;path d="M63.67,25.58h6v1.49H65.45v3.07h4v1.49h-4v3.54h4.37v1.49H63.67Z" fill="#fff"/&gt;
+      <y:Resource id="1" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#GreenGradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="GreenGradient" x1="749.53" y1="723.53" x2="643.47" y2="617.47" gradientTransform="translate(708 -659) rotate(90)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#1b660f"/&gt;&lt;stop offset="1" stop-color="#6cae3e"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Elastic-Block-Store-EBS&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Gradient" data-name="Green Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="Icon_Test" data-name="Icon Test"&gt;&lt;path class="cls-2" d="M49.47,25.89a2.74,2.74,0,0,0-.09-.39c-.89-2.72-6.42-4.13-11.88-4.13s-11,1.41-11.88,4.13a2.74,2.74,0,0,0-.09.39,2.43,2.43,0,0,0,0,.38V48.6c0,3.22,6,4.9,12,4.9s12-1.68,12-4.9V26.27A2.43,2.43,0,0,0,49.47,25.89Zm-12-2.52c5.72,0,9.14,1.5,9.86,2.52-.74,1-4.16,2.51-9.86,2.51s-9.12-1.48-9.86-2.51C28.36,24.87,31.78,23.37,37.5,23.37Zm10,25.23c0,1-3.53,2.9-10,2.9s-10-1.92-10-2.9V28.34c2.27,1.36,6.15,2.06,10,2.06s7.73-.7,10-2.06Z"/&gt;&lt;path class="cls-2" d="M25.62,25.5a2.74,2.74,0,0,0-.09.39,2.56,2.56,0,0,1,0-.39Z"/&gt;&lt;path class="cls-2" d="M49.5,25.5a2.56,2.56,0,0,1,0,.39,2.74,2.74,0,0,0-.09-.39Z"/&gt;&lt;path class="cls-2" d="M23.21,21.79l-1.42,1.42L14.5,15.92V21.5h-2v-8a1,1,0,0,1,1-1h8v2H15.92Z"/&gt;&lt;path class="cls-2" d="M62.5,13.5v8h-2V15.92l-7.29,7.29-1.42-1.42,7.29-7.29H53.5v-2h8A1,1,0,0,1,62.5,13.5Z"/&gt;&lt;path class="cls-2" d="M15.92,60.5H21.5v2h-8a1,1,0,0,1-1-1v-8h2v5.58l7.29-7.29,1.42,1.42Z"/&gt;&lt;path class="cls-2" d="M62.5,53.5v8a1,1,0,0,1-1,1h-8v-2h5.58l-7.29-7.29,1.42-1.42,7.29,7.29V53.5Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="2" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Elastic-Block-Store-EBS_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Light_BG" data-name="Green Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="Product_Icon" data-name="Product Icon"&gt;&lt;path class="cls-2" d="M49.47,25.89a2.74,2.74,0,0,0-.09-.39c-.89-2.72-6.42-4.13-11.88-4.13s-11,1.41-11.88,4.13a2.74,2.74,0,0,0-.09.39,2.43,2.43,0,0,0,0,.38V48.6c0,3.22,6,4.9,12,4.9s12-1.68,12-4.9V26.27A2.43,2.43,0,0,0,49.47,25.89Zm-12-2.52c5.72,0,9.14,1.5,9.86,2.52-.74,1-4.16,2.51-9.86,2.51s-9.12-1.48-9.86-2.51C28.36,24.87,31.78,23.37,37.5,23.37Zm10,25.23c0,1-3.53,2.9-10,2.9s-10-1.92-10-2.9V28.34c2.27,1.36,6.15,2.06,10,2.06s7.73-.7,10-2.06Z"/&gt;&lt;path class="cls-2" d="M25.62,25.5a2.74,2.74,0,0,0-.09.39,2.56,2.56,0,0,1,0-.39Z"/&gt;&lt;path class="cls-2" d="M49.5,25.5a2.56,2.56,0,0,1,0,.39,2.74,2.74,0,0,0-.09-.39Z"/&gt;&lt;path class="cls-2" d="M23.21,21.79l-1.42,1.42L14.5,15.92V21.5h-2v-8a1,1,0,0,1,1-1h8v2H15.92Z"/&gt;&lt;path class="cls-2" d="M62.5,13.5v8h-2V15.92l-7.29,7.29-1.42-1.42,7.29-7.29H53.5v-2h8A1,1,0,0,1,62.5,13.5Z"/&gt;&lt;path class="cls-2" d="M15.92,60.5H21.5v2h-8a1,1,0,0,1-1-1v-8h2v5.58l7.29-7.29,1.42,1.42Z"/&gt;&lt;path class="cls-2" d="M62.5,53.5v8a1,1,0,0,1-1,1h-8v-2h5.58l-7.29-7.29,1.42-1.42,7.29,7.29V53.5Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="3" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Elastic-Block-Store-EBS_Snapshot_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;path class="cls-1" d="M37.25,8.19H12.88a1,1,0,0,1-.92-.6,1,1,0,0,1,.18-1.08l4.33-4.69a1,1,0,0,1,.74-.32H32.92a1,1,0,0,1,.73.32L38,6.51a1,1,0,0,1,.19,1.08A1,1,0,0,1,37.25,8.19Zm-22.09-2H35L32.48,3.5H17.65Z"/&gt;&lt;path class="cls-1" d="M38.25,13.75h-2V11.94H13.88v1.81h-2V10.94a1,1,0,0,1,1-1H37.25a1,1,0,0,1,1,1Z"/&gt;&lt;path class="cls-1" d="M25,48.5c-5,0-12.43-1.12-12.55-4.19L9.11,19.47a1,1,0,0,1,2-.39C11.41,20.4,17,22.31,25,22.31s13.6-1.91,14-3.23a1,1,0,0,1,2,.39L37.57,44.31c0,1.09-1,2-2.76,2.71a17.91,17.91,0,0,1-2.35.7A34.22,34.22,0,0,1,25,48.5ZM11.46,22l3,22.15s0,.09,0,.14C14.71,45,18.92,46.5,25,46.5a32,32,0,0,0,7-.73,15.07,15.07,0,0,0,2.06-.61c1.34-.53,1.5-.95,1.5-.95a.45.45,0,0,1,0-.11l3-22.16c-3.28,1.7-9.26,2.37-13.55,2.37S14.75,23.64,11.46,22Z"/&gt;&lt;path class="cls-1" d="M25,24.31c-5.88,0-15-1.26-15.87-4.72l0-.12,0-.31c0-.05,0-.09,0-.13,0-3.47,8.25-5.81,16-5.81S41,15.56,41,19v.13l0,.31,0,.12C40,23.05,30.9,24.31,25,24.31ZM11.08,19.13c.46,1.31,6,3.18,13.93,3.18s13.48-1.87,13.93-3.18L39,19c-.14-1.15-5.52-3.76-13.95-3.76S11.2,17.83,11.07,19Z"/&gt;&lt;path class="cls-1" d="M40.74,34.51c-2.3,0-7-1.34-16.17-5.85l.88-1.8c6,2.95,13.12,5.76,15.23,5.77a11.4,11.4,0,0,0-2.55-1.74L38,30.83l1-1.75.11.06c2.48,1.37,3.63,2.4,3.82,3.45a1.63,1.63,0,0,1-.35,1.34A2.28,2.28,0,0,1,40.74,34.51Zm.38-1.95Z"/&gt;&lt;path class="cls-1" d="M25,29.63a1.87,1.87,0,1,1,1.87-1.87A1.87,1.87,0,0,1,25,29.63Zm0-2a.13.13,0,0,0-.13.13c0,.15.27.15.27,0A.13.13,0,0,0,25,27.63Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="4" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Elastic-Block-Store-EBS_Volume_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;path class="cls-1" d="M42.84,48.5H7.22a1,1,0,0,1-1-1V14.69a1,1,0,0,1,1-1H42.84a1,1,0,0,1,1,1V47.5A1,1,0,0,1,42.84,48.5Zm-34.62-2H41.84V15.69H8.22Z"/&gt;&lt;path class="cls-1" d="M42.84,11.94H7.16a1,1,0,0,1-.9-.56,1,1,0,0,1,.1-1L12.7,1.9a1,1,0,0,1,.8-.4h23a1,1,0,0,1,.8.4l6.34,8.44a1,1,0,0,1,.1,1A1,1,0,0,1,42.84,11.94Zm-33.68-2H40.84L36,3.5H14Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="5" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#GreenGradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="GreenGradient" x1="180.25" y1="431.13" x2="180.25" y2="281.13" gradientTransform="translate(161.87 -341.78) rotate(45)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#1b660f"/&gt;&lt;stop offset="1" stop-color="#6cae3e"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Elastic-File-System_EFS&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Gradient" data-name="Green Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="Icon_Test" data-name="Icon Test"&gt;&lt;path class="cls-2" d="M14.5,15.91l7.29,7.3,1.42-1.42-7.3-7.29H21.5v-2h-8a1,1,0,0,0-1,1v8h2Z"/&gt;&lt;path class="cls-2" d="M61.5,12.5h-8v2h5.59l-7.3,7.29,1.42,1.42,7.29-7.3V21.5h2v-8A1,1,0,0,0,61.5,12.5Z"/&gt;&lt;path class="cls-2" d="M21.79,51.79l-7.29,7.3V53.5h-2v8a1,1,0,0,0,1,1h8v-2H15.91l7.3-7.29Z"/&gt;&lt;path class="cls-2" d="M60.5,59.09l-7.29-7.3-1.42,1.42,7.3,7.29H53.5v2h8a1,1,0,0,0,1-1v-8h-2Z"/&gt;&lt;path class="cls-2" d="M29.6,23.24a9.41,9.41,0,0,1,10.61,2.09,11.25,11.25,0,0,1,2.64,4.29,1,1,0,0,0,1.74.26,3.33,3.33,0,0,1,2.66-1.39c1.54,0,3.4,1.18,3.59,4.5a1,1,0,0,0,.8.92c3.89.82,5.86,3,5.86,6.4,0,3.22-1.41,5.13-4.32,5.84l.47,1.94c3.77-.91,5.85-3.68,5.85-7.78s-2.38-7-6.73-8.19c-.51-3.88-3.08-5.63-5.52-5.63a5.16,5.16,0,0,0-3.1,1,12.77,12.77,0,0,0-2.53-3.62,11.44,11.44,0,0,0-12.79-2.52,11.81,11.81,0,0,0-6.78,10.4c0,.18,0,.36,0,.55a8,8,0,0,0-5.57,7.92c0,.19,0,.38,0,.57a8.29,8.29,0,0,0,5.66,7.34l.66-1.89a6.3,6.3,0,0,1-4.33-5.56c0-.15,0-.3,0-.46A6,6,0,0,1,23.38,34,1,1,0,0,0,24.13,33a10.45,10.45,0,0,1-.08-1.17A9.82,9.82,0,0,1,29.6,23.24Z"/&gt;&lt;path class="cls-2" d="M53.45,42.82a1,1,0,0,0-.14-.9,1,1,0,0,0-.81-.42h-3a3.84,3.84,0,0,0-1.12-2.27,2.48,2.48,0,0,0-1.83-.73H36.27c-.26-.81-.76-1.83-1.53-2l-.19,0h-4c-.89,0-1.48,1.12-1.78,2H27.56a2.55,2.55,0,0,0-1.89.72A3.9,3.9,0,0,0,24.5,42V54.5a1,1,0,0,0,1,1h23a1,1,0,0,0,.94-.69h0Zm-2.34.68L49.5,48.34V43.5Zm-3.61,10h-21V42A1.86,1.86,0,0,1,27,40.69a.58.58,0,0,1,.46-.19h2a1,1,0,0,0,1-.94,4.61,4.61,0,0,1,.43-1.06H34.1a6,6,0,0,1,.39,1,1,1,0,0,0,1,1H46.57a.54.54,0,0,1,.39.19A1.88,1.88,0,0,1,47.5,42Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="6" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Elastic-File-System_EFS_File-system_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;path class="cls-1" d="M46.82,20.41H42.3V19a2.45,2.45,0,0,0-2.45-2.45H35a2.44,2.44,0,0,0-2.44,2.44v1.45H11.2A3.23,3.23,0,0,0,8,23.64v.85H4a1,1,0,0,0-.78.38,1,1,0,0,0-.19.84l.63,2.78H1A1,1,0,0,0,.09,29.9l8,17.92A1,1,0,0,0,9,48.5H49a1,1,0,0,0,1-1V23.64A3.26,3.26,0,0,0,46.82,20.41ZM10,23.63a1.23,1.23,0,0,1,1.22-1.24h22.3a1,1,0,0,0,1-1V18.94A.45.45,0,0,1,35,18.5h4.85a.45.45,0,0,1,.45.46v2.45a1,1,0,0,0,1,1h5.5A1.24,1.24,0,0,1,48,23.64V38.58L45,25.27a1,1,0,0,0-1-.78H10ZM5.25,26.49h38l2.56,11.24-3.85-8.65a1,1,0,0,0-.91-.59H5.71Zm4.4,20-7.11-16H40.35l7.11,16Z"/&gt;&lt;path class="cls-1" d="M5,13.5v2H7v-2H8v2h2v-2h1v2h2v-2a1,1,0,0,0,1-1h2v-2H14v-1h2v-2H14v-1h2v-2H14a1,1,0,0,0-1-1v-2H11v2H10v-2H8v2H7v-2H5v2a1,1,0,0,0-1,1H2v2H4v1H2v2H4v1H2v2H4A1,1,0,0,0,5,13.5Zm1-8h6v6H6Z"/&gt;&lt;path class="cls-1" d="M22,13.5v2h2v-2h1v2h2v-2h1v2h2v-2a1,1,0,0,0,1-1h2v-2H31v-1h2v-2H31v-1h2v-2H31a1,1,0,0,0-1-1v-2H28v2H27v-2H25v2H24v-2H22v2a1,1,0,0,0-1,1H19v2h2v1H19v2h2v1H19v2h2A1,1,0,0,0,22,13.5Zm1-8h6v6H23Z"/&gt;&lt;path class="cls-1" d="M50,6.5v-2H48a1,1,0,0,0-1-1v-2H45v2H44v-2H42v2H41v-2H39v2a1,1,0,0,0-1,1H36v2h2v1H36v2h2v1H36v2h2a1,1,0,0,0,1,1v2h2v-2h1v2h2v-2h1v2h2v-2a1,1,0,0,0,1-1h2v-2H48v-1h2v-2H48v-1Zm-4,5H40v-6h6Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="7" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Elastic-File-System_EFS_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Light_BG" data-name="Green Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="Product_Icon" data-name="Product Icon"&gt;&lt;path class="cls-2" d="M14.5,15.91l7.29,7.3,1.42-1.42-7.3-7.29H21.5v-2h-8a1,1,0,0,0-1,1v8h2Z"/&gt;&lt;path class="cls-2" d="M61.5,12.5h-8v2h5.59l-7.3,7.29,1.42,1.42,7.29-7.3V21.5h2v-8A1,1,0,0,0,61.5,12.5Z"/&gt;&lt;path class="cls-2" d="M21.79,51.79l-7.29,7.3V53.5h-2v8a1,1,0,0,0,1,1h8v-2H15.91l7.3-7.29Z"/&gt;&lt;path class="cls-2" d="M60.5,59.09l-7.29-7.3-1.42,1.42,7.3,7.29H53.5v2h8a1,1,0,0,0,1-1v-8h-2Z"/&gt;&lt;path class="cls-2" d="M29.6,23.24a9.41,9.41,0,0,1,10.61,2.09,11.25,11.25,0,0,1,2.64,4.29,1,1,0,0,0,1.74.26,3.33,3.33,0,0,1,2.66-1.39c1.54,0,3.4,1.18,3.59,4.5a1,1,0,0,0,.8.92c3.89.82,5.86,3,5.86,6.4,0,3.22-1.41,5.13-4.32,5.84l.47,1.94c3.77-.91,5.85-3.68,5.85-7.78s-2.38-7-6.73-8.19c-.51-3.88-3.08-5.63-5.52-5.63a5.16,5.16,0,0,0-3.1,1,12.77,12.77,0,0,0-2.53-3.62,11.44,11.44,0,0,0-12.79-2.52,11.81,11.81,0,0,0-6.78,10.4c0,.18,0,.36,0,.55a8,8,0,0,0-5.57,7.92c0,.19,0,.38,0,.57a8.29,8.29,0,0,0,5.66,7.34l.66-1.89a6.3,6.3,0,0,1-4.33-5.56c0-.15,0-.3,0-.46A6,6,0,0,1,23.38,34,1,1,0,0,0,24.13,33a10.45,10.45,0,0,1-.08-1.17A9.82,9.82,0,0,1,29.6,23.24Z"/&gt;&lt;path class="cls-2" d="M53.45,42.82a1,1,0,0,0-.14-.9,1,1,0,0,0-.81-.42h-3a3.84,3.84,0,0,0-1.12-2.27,2.48,2.48,0,0,0-1.83-.73H36.27c-.26-.81-.76-1.83-1.53-2l-.19,0h-4c-.89,0-1.48,1.12-1.78,2H27.56a2.55,2.55,0,0,0-1.89.72A3.9,3.9,0,0,0,24.5,42V54.5a1,1,0,0,0,1,1h23a1,1,0,0,0,.94-.69h0Zm-2.34.68L49.5,48.34V43.5Zm-3.61,10h-21V42A1.86,1.86,0,0,1,27,40.69a.58.58,0,0,1,.46-.19h2a1,1,0,0,0,1-.94,4.61,4.61,0,0,1,.43-1.06H34.1a6,6,0,0,1,.39,1,1,1,0,0,0,1,1H46.57a.54.54,0,0,1,.39.19A1.88,1.88,0,0,1,47.5,42Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="8" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#GreenGradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="GreenGradient" x1="237.47" y1="-294.53" x2="343.53" y2="-188.47" gradientTransform="translate(279 328) rotate(-90)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#1b660f"/&gt;&lt;stop offset="1" stop-color="#6cae3e"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;Amazon-FSx&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Gradient" data-name="Green Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="Icon_Test" data-name="Icon Test"&gt;&lt;path class="cls-2" d="M12.91,49.6V25.4H26.48v1.85H15v9.26H24.7v1.85H15V49.6Z"/&gt;&lt;path class="cls-2" d="M33.19,37.38a9.92,9.92,0,0,1-3.95-2.5A5.3,5.3,0,0,1,28,31.3a5.92,5.92,0,0,1,2.07-4.69,8.07,8.07,0,0,1,5.47-1.8,15,15,0,0,1,3.23.37,16.53,16.53,0,0,1,3.19,1V28a19.24,19.24,0,0,0-6.32-1.26,6.38,6.38,0,0,0-4.12,1.17,4.07,4.07,0,0,0-1.43,3.33,3.92,3.92,0,0,0,.44,2A4.09,4.09,0,0,0,32,34.57a17.43,17.43,0,0,0,2.84,1.31l3.74,1.43a8.65,8.65,0,0,1,3.66,2.39,5.41,5.41,0,0,1,1.16,3.54,6.27,6.27,0,0,1-2.29,5,9,9,0,0,1-6,1.92,15.63,15.63,0,0,1-6.91-1.47V46.94a19.79,19.79,0,0,0,6.73,1.33,7.27,7.27,0,0,0,4.63-1.36,4.47,4.47,0,0,0,1.73-3.7,3.47,3.47,0,0,0-.95-2.45,8,8,0,0,0-3-1.81Z"/&gt;&lt;polygon class="cls-2" points="52.18 35.78 48.06 29.89 45.13 29.89 50.71 37.75 52.18 35.78"/&gt;&lt;polygon class="cls-2" points="59.13 49.73 62.09 49.73 54.73 39.24 61.44 29.89 58.66 29.89 53.36 37.46 51.94 39.43 59.13 49.73"/&gt;&lt;polygon class="cls-2" points="52.01 42.88 47.32 49.73 44.51 49.73 50.74 41.09 52.01 42.88"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="9" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#GreenGradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="GreenGradient" x1="242.53" y1="-41.53" x2="136.46" y2="64.54" gradientTransform="translate(227 49) rotate(180)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#1b660f"/&gt;&lt;stop offset="1" stop-color="#6cae3e"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;Amazon-FSx-for-Lustre&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Gradient" data-name="Green Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="Icon_Test" data-name="Icon Test"&gt;&lt;path class="cls-2" d="M61.82,45.92H60.4c0-4-2.27-8-7.34-8-5.41,0-7.34,4.14-7.34,8H44.3c0-4.35,2.3-9.43,8.76-9.43C59.08,36.49,61.82,41.38,61.82,45.92Z"/&gt;&lt;path class="cls-2" d="M53.06,46H47v-.71a6.24,6.24,0,0,1,6.07-6.08,6,6,0,0,1,2.1.38l-.49,1.33a4.59,4.59,0,0,0-1.61-.29,4.87,4.87,0,0,0-4.59,3.95h4.59Z"/&gt;&lt;polygon class="cls-2" points="59.46 37.46 52.55 44.83 53.58 45.67 59.46 37.46"/&gt;&lt;polygon class="cls-2" points="53.71 46.7 51.51 44.9 58.95 36.97 60.04 37.87 53.71 46.7"/&gt;&lt;path class="cls-2" d="M53.06,46.63a1.38,1.38,0,1,1,1.38-1.38A1.38,1.38,0,0,1,53.06,46.63Zm0-1.42,0,0A0,0,0,0,0,53.06,45.21Z"/&gt;&lt;path class="cls-2" d="M13.18,45.69v-17h9.53V30H14.62V36.5h6.84v1.3H14.62v7.89Z"/&gt;&lt;path class="cls-2" d="M27.41,37.12a6.93,6.93,0,0,1-2.77-1.76,3.66,3.66,0,0,1-.88-2.51,4.15,4.15,0,0,1,1.46-3.29,5.65,5.65,0,0,1,3.83-1.26,10.8,10.8,0,0,1,2.27.25,12.24,12.24,0,0,1,2.24.73v1.25a13.52,13.52,0,0,0-4.43-.89,4.53,4.53,0,0,0-2.9.82,2.85,2.85,0,0,0-1,2.34,2.68,2.68,0,0,0,.31,1.39,2.79,2.79,0,0,0,1,1,11.38,11.38,0,0,0,2,.92l2.62,1a6,6,0,0,1,2.57,1.68,3.79,3.79,0,0,1,.81,2.48,4.39,4.39,0,0,1-1.61,3.53,6.32,6.32,0,0,1-4.22,1.35,11.11,11.11,0,0,1-4.85-1V43.83a14,14,0,0,0,4.73.93,5.08,5.08,0,0,0,3.24-1,3.11,3.11,0,0,0,1.22-2.59,2.46,2.46,0,0,0-.67-1.72,5.64,5.64,0,0,0-2.13-1.27Z"/&gt;&lt;polygon class="cls-2" points="40.74 35.99 37.85 31.86 35.79 31.86 39.7 37.38 40.74 35.99"/&gt;&lt;path class="cls-2" d="M44.08,40.64l-1.55-2.21,4.7-6.57H45.29l-3.72,5.31-1,1.38,2.83,4.06A9.19,9.19,0,0,1,44.08,40.64Z"/&gt;&lt;polygon class="cls-2" points="40.62 40.98 37.33 45.78 35.35 45.78 39.73 39.72 40.62 40.98"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="10" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-FSx-for-Lustre_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Light_BG" data-name="Green Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="Product_Icon" data-name="Product Icon"&gt;&lt;path class="cls-2" d="M61.82,45.92H60.4c0-4-2.27-8-7.34-8-5.41,0-7.34,4.14-7.34,8H44.3c0-4.35,2.3-9.43,8.76-9.43C59.08,36.49,61.82,41.38,61.82,45.92Z"/&gt;&lt;path class="cls-2" d="M53.06,46H47v-.71a6.24,6.24,0,0,1,6.07-6.08,6,6,0,0,1,2.1.38l-.49,1.33a4.59,4.59,0,0,0-1.61-.29,4.87,4.87,0,0,0-4.59,3.95h4.59Z"/&gt;&lt;polygon class="cls-2" points="59.46 37.46 52.55 44.83 53.58 45.67 59.46 37.46"/&gt;&lt;polygon class="cls-2" points="53.71 46.7 51.51 44.9 58.95 36.97 60.04 37.87 53.71 46.7"/&gt;&lt;path class="cls-2" d="M53.06,46.63a1.38,1.38,0,1,1,1.38-1.38A1.38,1.38,0,0,1,53.06,46.63Zm0-1.42,0,0A0,0,0,0,0,53.06,45.21Z"/&gt;&lt;path class="cls-2" d="M13.18,45.69v-17h9.53V30H14.62V36.5h6.84v1.3H14.62v7.89Z"/&gt;&lt;path class="cls-2" d="M27.41,37.12a6.93,6.93,0,0,1-2.77-1.76,3.66,3.66,0,0,1-.88-2.51,4.15,4.15,0,0,1,1.46-3.29,5.65,5.65,0,0,1,3.83-1.26,10.8,10.8,0,0,1,2.27.25,12.24,12.24,0,0,1,2.24.73v1.25a13.52,13.52,0,0,0-4.43-.89,4.53,4.53,0,0,0-2.9.82,2.85,2.85,0,0,0-1,2.34,2.68,2.68,0,0,0,.31,1.39,2.79,2.79,0,0,0,1,1,11.38,11.38,0,0,0,2,.92l2.62,1a6,6,0,0,1,2.57,1.68,3.79,3.79,0,0,1,.81,2.48,4.39,4.39,0,0,1-1.61,3.53,6.32,6.32,0,0,1-4.22,1.35,11.11,11.11,0,0,1-4.85-1V43.83a14,14,0,0,0,4.73.93,5.08,5.08,0,0,0,3.24-1,3.11,3.11,0,0,0,1.22-2.59,2.46,2.46,0,0,0-.67-1.72,5.64,5.64,0,0,0-2.13-1.27Z"/&gt;&lt;polygon class="cls-2" points="40.74 35.99 37.85 31.86 35.79 31.86 39.7 37.38 40.74 35.99"/&gt;&lt;path class="cls-2" d="M44.08,40.64l-1.55-2.21,4.7-6.57H45.29l-3.72,5.31-1,1.38,2.83,4.06A9.19,9.19,0,0,1,44.08,40.64Z"/&gt;&lt;polygon class="cls-2" points="40.62 40.98 37.33 45.78 35.35 45.78 39.73 39.72 40.62 40.98"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="11" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#GreenGradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="GreenGradient" x1="13.3" y1="28.08" x2="13.3" y2="-121.92" gradientTransform="translate(-5.08 61.27) rotate(45)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#1b660f"/&gt;&lt;stop offset="1" stop-color="#6cae3e"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;Amazon-FSx-for-Windows-File-Server&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Gradient" data-name="Green Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="Icon_Test" data-name="Icon Test"&gt;&lt;path class="cls-2" d="M50,47.67a1.9,1.9,0,0,1-1.33-.55,1.86,1.86,0,0,1-.55-1.33V44.33H62v.82a2.51,2.51,0,0,1-2.51,2.52Zm-.46-1.92v0a.48.48,0,0,0,.13.32.47.47,0,0,0,.33.14h9.49a1.08,1.08,0,0,0,.77-.33,1.15,1.15,0,0,0,.14-.17Z"/&gt;&lt;polygon class="cls-2" points="50.2 45.04 50.19 37.51 59.91 37.5 59.92 45.03 61.34 45.03 61.33 36.08 48.77 36.09 48.78 45.04 50.2 45.04"/&gt;&lt;polygon class="cls-2" points="13 46.52 14.59 46.52 14.59 37.82 22.13 37.82 22.13 36.38 14.59 36.38 14.59 29.22 23.51 29.22 23.51 27.79 13 27.79 13 46.52"/&gt;&lt;path class="cls-2" d="M32.83,37,29.94,35.9a13.93,13.93,0,0,1-2.2-1,3.25,3.25,0,0,1-1.11-1.06,3.07,3.07,0,0,1-.34-1.53,3.16,3.16,0,0,1,1.11-2.58,5,5,0,0,1,3.19-.9,14.91,14.91,0,0,1,4.89,1V28.41A13,13,0,0,0,33,27.62a11.78,11.78,0,0,0-2.5-.29,6.27,6.27,0,0,0-4.23,1.39,4.59,4.59,0,0,0-1.61,3.64,4.08,4.08,0,0,0,1,2.77,7.53,7.53,0,0,0,3.05,1.93l3.13,1.22a6.24,6.24,0,0,1,2.36,1.4,2.69,2.69,0,0,1,.72,1.89,3.47,3.47,0,0,1-1.33,2.87A5.65,5.65,0,0,1,30,45.49a15.31,15.31,0,0,1-5.22-1v1.38A12.12,12.12,0,0,0,30.13,47a7,7,0,0,0,4.66-1.49,4.84,4.84,0,0,0,1.77-3.89,4.16,4.16,0,0,0-.89-2.74A6.64,6.64,0,0,0,32.83,37Z"/&gt;&lt;polygon class="cls-2" points="43.4 35.82 40.21 31.26 37.95 31.26 42.26 37.35 43.4 35.82"/&gt;&lt;polygon class="cls-2" points="37.46 46.62 39.64 46.62 43.27 41.32 42.29 39.93 37.46 46.62"/&gt;&lt;polygon class="cls-2" points="47.2 41.11 45.37 38.51 50.56 31.26 48.42 31.26 44.31 37.12 43.22 38.65 47.2 44.35 47.2 41.45 47.2 41.11"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="12" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-FSx-for-Windows-File-Server_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Light_BG" data-name="Green Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="Product_Icon" data-name="Product Icon"&gt;&lt;path class="cls-2" d="M50,47.67a1.9,1.9,0,0,1-1.33-.55,1.86,1.86,0,0,1-.55-1.33V44.33H62v.82a2.51,2.51,0,0,1-2.51,2.52Zm-.46-1.92v0a.48.48,0,0,0,.13.32.47.47,0,0,0,.33.14h9.49a1.08,1.08,0,0,0,.77-.33,1.15,1.15,0,0,0,.14-.17Z"/&gt;&lt;polygon class="cls-2" points="50.2 45.04 50.19 37.51 59.91 37.5 59.92 45.03 61.34 45.03 61.33 36.08 48.77 36.09 48.78 45.04 50.2 45.04"/&gt;&lt;polygon class="cls-2" points="13 46.52 14.59 46.52 14.59 37.82 22.13 37.82 22.13 36.38 14.59 36.38 14.59 29.22 23.51 29.22 23.51 27.79 13 27.79 13 46.52"/&gt;&lt;path class="cls-2" d="M32.83,37,29.94,35.9a13.93,13.93,0,0,1-2.2-1,3.25,3.25,0,0,1-1.11-1.06,3.07,3.07,0,0,1-.34-1.53,3.16,3.16,0,0,1,1.11-2.58,5,5,0,0,1,3.19-.9,14.91,14.91,0,0,1,4.89,1V28.41A13,13,0,0,0,33,27.62a11.78,11.78,0,0,0-2.5-.29,6.27,6.27,0,0,0-4.23,1.39,4.59,4.59,0,0,0-1.61,3.64,4.08,4.08,0,0,0,1,2.77,7.53,7.53,0,0,0,3.05,1.93l3.13,1.22a6.24,6.24,0,0,1,2.36,1.4,2.69,2.69,0,0,1,.72,1.89,3.47,3.47,0,0,1-1.33,2.87A5.65,5.65,0,0,1,30,45.49a15.31,15.31,0,0,1-5.22-1v1.38A12.12,12.12,0,0,0,30.13,47a7,7,0,0,0,4.66-1.49,4.84,4.84,0,0,0,1.77-3.89,4.16,4.16,0,0,0-.89-2.74A6.64,6.64,0,0,0,32.83,37Z"/&gt;&lt;polygon class="cls-2" points="43.4 35.82 40.21 31.26 37.95 31.26 42.26 37.35 43.4 35.82"/&gt;&lt;polygon class="cls-2" points="37.46 46.62 39.64 46.62 43.27 41.32 42.29 39.93 37.46 46.62"/&gt;&lt;polygon class="cls-2" points="47.2 41.11 45.37 38.51 50.56 31.26 48.42 31.26 44.31 37.12 43.22 38.65 47.2 44.35 47.2 41.45 47.2 41.11"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="13" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-FSx_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Light_BG" data-name="Green Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="Product_Icon" data-name="Product Icon"&gt;&lt;path class="cls-2" d="M12.91,49.6V25.4H26.48v1.85H15v9.26H24.7v1.85H15V49.6Z"/&gt;&lt;path class="cls-2" d="M33.19,37.38a9.92,9.92,0,0,1-3.95-2.5A5.3,5.3,0,0,1,28,31.3a5.92,5.92,0,0,1,2.07-4.69,8.07,8.07,0,0,1,5.47-1.8,15,15,0,0,1,3.23.37,16.53,16.53,0,0,1,3.19,1V28a19.24,19.24,0,0,0-6.32-1.26,6.38,6.38,0,0,0-4.12,1.17,4.07,4.07,0,0,0-1.43,3.33,3.92,3.92,0,0,0,.44,2A4.09,4.09,0,0,0,32,34.57a17.43,17.43,0,0,0,2.84,1.31l3.74,1.43a8.65,8.65,0,0,1,3.66,2.39,5.41,5.41,0,0,1,1.16,3.54,6.27,6.27,0,0,1-2.29,5,9,9,0,0,1-6,1.92,15.63,15.63,0,0,1-6.91-1.47V46.94a19.79,19.79,0,0,0,6.73,1.33,7.27,7.27,0,0,0,4.63-1.36,4.47,4.47,0,0,0,1.73-3.7,3.47,3.47,0,0,0-.95-2.45,8,8,0,0,0-3-1.81Z"/&gt;&lt;polygon class="cls-2" points="52.18 35.78 48.06 29.89 45.13 29.89 50.71 37.75 52.18 35.78"/&gt;&lt;polygon class="cls-2" points="59.13 49.73 62.09 49.73 54.73 39.24 61.44 29.89 58.66 29.89 53.36 37.46 51.94 39.43 59.13 49.73"/&gt;&lt;polygon class="cls-2" points="52.01 42.88 47.32 49.73 44.51 49.73 50.74 41.09 52.01 42.88"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="14" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#GreenGradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="GreenGradient" x1="-332.54" y1="275.47" x2="-226.47" y2="381.54" gradientTransform="translate(-291 -242) rotate(-90)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#1b660f"/&gt;&lt;stop offset="1" stop-color="#6cae3e"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;Amazon-S3-Glacier&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Gradient" data-name="Green Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="Icon_Test" data-name="Icon Test"&gt;&lt;path class="cls-2" d="M36.07,12.5c-10.68,0-22.57,3.26-22.57,7.93a.57.57,0,0,0,0,.13l.06.44a.59.59,0,0,0,0,.13l4.8,35.74c.13,4.1,10.89,5.63,17.68,5.63A54.91,54.91,0,0,0,43,62.06l-.26-2a52.66,52.66,0,0,1-6.65.42c-9.57,0-15.68-2.44-15.68-3.71a.57.57,0,0,0,0-.13L16,23.8a13.08,13.08,0,0,0,1.3.69,5.8,5.8,0,0,0,.62.27c.21.09.42.18.65.26s.78.29,1.2.42.75.23,1.15.34.79.22,1.2.31l.52.12a54.49,54.49,0,0,0,7.08,1.09c.53.05,1.08.1,1.62.13,1.59.11,3.2.17,4.77.17s3.18-.06,4.77-.17c.56,0,1.12-.08,1.67-.13,2-.19,3.89-.45,5.68-.8l.85-.18.57-.12.44-.11c.62-.14,1.22-.3,1.79-.48l.56-.17q.63-.2,1.2-.42c.23-.08.44-.17.65-.26a5.8,5.8,0,0,0,.62-.27,13.08,13.08,0,0,0,1.3-.69L54.06,39.46l1.11.33L56,40l.29-2.22c-.34-.21-.71-.42-1.13-.65L55,37.06l1-1.74.13.07.46.26,1.95-14.52a0,0,0,0,1,0,0,.36.36,0,0,1,0-.1l0-.44a.57.57,0,0,0,0-.13C58.63,15.76,46.74,12.5,36.07,12.5Zm19.46,9.35a10.28,10.28,0,0,1-2,1,6.07,6.07,0,0,1-.59.24c-.33.13-.68.25-1.06.37l-.62.19c-.63.2-1.32.38-2,.55l-.76.17-1.35.26c-.7.13-1.43.24-2.2.35q-.62.09-1.26.15c-.55.07-1.12.13-1.7.17s-.92.08-1.39.11c-1.42.09-2.91.14-4.47.14s-3-.05-4.47-.14c-.47,0-.94-.06-1.39-.11s-1.15-.1-1.7-.17-.85-.09-1.26-.15c-1.58-.22-3-.48-4.31-.78l-1.41-.36c-.45-.12-.87-.25-1.27-.38l-.59-.2c-.38-.13-.73-.27-1.06-.41a9.73,9.73,0,0,1-2.23-1.21,3.3,3.3,0,0,1-.5-.47,1.27,1.27,0,0,1-.16-.2,1.51,1.51,0,0,1-.12-.2.94.94,0,0,1-.06-.15v0h0l0-.24c.14-2.1,8.58-5.88,20.57-5.88s20.42,3.78,20.56,5.88l0,.24h0v0a.94.94,0,0,1-.06.15,1.51,1.51,0,0,1-.12.2,1.27,1.27,0,0,1-.16.2A3.3,3.3,0,0,1,55.53,21.85Z"/&gt;&lt;path class="cls-2" d="M15.54,20.63a.82.82,0,0,0,.06.19.94.94,0,0,1-.06-.15Z"/&gt;&lt;path class="cls-2" d="M16.38,21.69a10.13,10.13,0,0,0,2.23,1.21A9.73,9.73,0,0,1,16.38,21.69Z"/&gt;&lt;path class="cls-2" d="M49.2,24.25c.73-.17,1.42-.36,2-.55C50.62,23.9,49.93,24.08,49.2,24.25Z"/&gt;&lt;path class="cls-2" d="M55.53,21.85a10.28,10.28,0,0,1-2,1A10.85,10.85,0,0,0,55.53,21.85Z"/&gt;&lt;path class="cls-2" d="M55.17,39.79,56,40l-.27,2-.08.57-2-.26.11-.85.27-2Z"/&gt;&lt;path class="cls-2" d="M56.13,35.39l.46.26-.29,2.14c-.34-.21-.71-.42-1.13-.65L55,37.06l1-1.74Z"/&gt;&lt;path class="cls-2" d="M56.59,20.63v0a.94.94,0,0,1-.06.15A.82.82,0,0,0,56.59,20.63Z"/&gt;&lt;path class="cls-2" d="M61,41.63a2.77,2.77,0,0,1-2.27.82,13.16,13.16,0,0,1-3-.44l-1.11-.3-.84-.24A137.2,137.2,0,0,1,37.46,34.8l-.7-.33.86-1.8.7.33a144,144,0,0,0,15.74,6.46l1.11.33L56,40c2.45.61,3.24.44,3.45.35-.1-.24-.58-1-3.16-2.57-.34-.21-.71-.42-1.13-.65L55,37.06l1-1.74.13.07.46.26c3.12,1.76,4.61,3.13,4.86,4.41A1.89,1.89,0,0,1,61,41.63Z"/&gt;&lt;path class="cls-2" d="M36.07,35.28A2.25,2.25,0,1,1,38.32,33,2.25,2.25,0,0,1,36.07,35.28Zm0-2.5a.25.25,0,0,0-.25.25c0,.27.5.27.5,0A.25.25,0,0,0,36.07,32.78Z"/&gt;&lt;polygon class="cls-2" points="57.67 54.24 53.7 54.24 55.65 57.62 59 58.56 58.46 60.49 55.74 59.72 55 62.5 53.07 61.98 53.95 58.67 51.97 55.24 51.97 55.24 50.02 58.62 50.88 61.99 48.94 62.49 48.24 59.75 45.47 60.49 44.95 58.56 48.26 57.67 50.24 54.24 46.33 54.24 43.84 56.67 42.45 55.24 44.47 53.27 42.44 51.23 43.85 49.82 46.27 52.24 50.24 52.24 48.29 48.86 44.94 47.92 45.48 45.99 48.2 46.76 48.94 43.98 50.87 44.5 49.99 47.81 51.97 51.24 53.92 47.86 53.06 44.49 55 43.99 55.7 46.73 58.47 45.99 58.99 47.92 55.68 48.81 53.7 52.24 57.61 52.24 60.1 49.81 61.49 51.24 59.47 53.21 61.5 55.25 60.09 56.66 57.67 54.24"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="15" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-S3-Glacier_Archive_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;path class="cls-1" d="M23.12,48.5H7.19a1,1,0,0,1-1-1V15.62a1,1,0,0,1,1-1H23.12a1,1,0,0,1,1,1V47.5A1,1,0,0,1,23.12,48.5Zm-14.93-2H22.12V16.62H8.19Z"/&gt;&lt;path class="cls-1" d="M42.81,48.5H26.88a1,1,0,0,1-1-1V15.62a1,1,0,0,1,1-1H42.81a1,1,0,0,1,1,1V47.5A1,1,0,0,1,42.81,48.5Zm-14.93-2H41.81V16.62H27.88Z"/&gt;&lt;path class="cls-1" d="M23.12,12.88H7.19a1,1,0,0,1-.85-1.53L12.13,2A1,1,0,0,1,13,1.5H23.12a1,1,0,0,1,1,1v9.38A1,1,0,0,1,23.12,12.88ZM9,10.88H22.12V3.5H13.54Z"/&gt;&lt;path class="cls-1" d="M42.81,12.88H26.88a1,1,0,0,1-1-1V2.5a1,1,0,0,1,1-1H37a1,1,0,0,1,.85.47l5.79,9.38a1,1,0,0,1-.85,1.53Zm-14.93-2H41L36.46,3.5H27.88Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="16" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-S3-Glacier_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Light_BG" data-name="Green Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="Product_Icon" data-name="Product Icon"&gt;&lt;path class="cls-2" d="M36.07,12.5c-10.68,0-22.57,3.26-22.57,7.93a.57.57,0,0,0,0,.13l.06.44a.59.59,0,0,0,0,.13l4.8,35.74c.13,4.1,10.89,5.63,17.68,5.63A54.91,54.91,0,0,0,43,62.06l-.26-2a52.66,52.66,0,0,1-6.65.42c-9.57,0-15.68-2.44-15.68-3.71a.57.57,0,0,0,0-.13L16,23.8a13.08,13.08,0,0,0,1.3.69,5.8,5.8,0,0,0,.62.27c.21.09.42.18.65.26s.78.29,1.2.42.75.23,1.15.34.79.22,1.2.31l.52.12a54.49,54.49,0,0,0,7.08,1.09c.53.05,1.08.1,1.62.13,1.59.11,3.2.17,4.77.17s3.18-.06,4.77-.17c.56,0,1.12-.08,1.67-.13,2-.19,3.89-.45,5.68-.8l.85-.18.57-.12.44-.11c.62-.14,1.22-.3,1.79-.48l.56-.17q.63-.2,1.2-.42c.23-.08.44-.17.65-.26a5.8,5.8,0,0,0,.62-.27,13.08,13.08,0,0,0,1.3-.69L54.06,39.46l1.11.33L56,40l.29-2.22c-.34-.21-.71-.42-1.13-.65L55,37.06l1-1.74.13.07.46.26,1.95-14.52a0,0,0,0,1,0,0,.36.36,0,0,1,0-.1l0-.44a.57.57,0,0,0,0-.13C58.63,15.76,46.74,12.5,36.07,12.5Zm19.46,9.35a10.28,10.28,0,0,1-2,1,6.07,6.07,0,0,1-.59.24c-.33.13-.68.25-1.06.37l-.62.19c-.63.2-1.32.38-2,.55l-.76.17-1.35.26c-.7.13-1.43.24-2.2.35q-.62.09-1.26.15c-.55.07-1.12.13-1.7.17s-.92.08-1.39.11c-1.42.09-2.91.14-4.47.14s-3-.05-4.47-.14c-.47,0-.94-.06-1.39-.11s-1.15-.1-1.7-.17-.85-.09-1.26-.15c-1.58-.22-3-.48-4.31-.78l-1.41-.36c-.45-.12-.87-.25-1.27-.38l-.59-.2c-.38-.13-.73-.27-1.06-.41a9.73,9.73,0,0,1-2.23-1.21,3.3,3.3,0,0,1-.5-.47,1.27,1.27,0,0,1-.16-.2,1.51,1.51,0,0,1-.12-.2.94.94,0,0,1-.06-.15v0h0l0-.24c.14-2.1,8.58-5.88,20.57-5.88s20.42,3.78,20.56,5.88l0,.24h0v0a.94.94,0,0,1-.06.15,1.51,1.51,0,0,1-.12.2,1.27,1.27,0,0,1-.16.2A3.3,3.3,0,0,1,55.53,21.85Z"/&gt;&lt;path class="cls-2" d="M15.54,20.63a.82.82,0,0,0,.06.19.94.94,0,0,1-.06-.15Z"/&gt;&lt;path class="cls-2" d="M16.38,21.69a10.13,10.13,0,0,0,2.23,1.21A9.73,9.73,0,0,1,16.38,21.69Z"/&gt;&lt;path class="cls-2" d="M49.2,24.25c.73-.17,1.42-.36,2-.55C50.62,23.9,49.93,24.08,49.2,24.25Z"/&gt;&lt;path class="cls-2" d="M55.53,21.85a10.28,10.28,0,0,1-2,1A10.85,10.85,0,0,0,55.53,21.85Z"/&gt;&lt;path class="cls-2" d="M55.17,39.79,56,40l-.27,2-.08.57-2-.26.11-.85.27-2Z"/&gt;&lt;path class="cls-2" d="M56.13,35.39l.46.26-.29,2.14c-.34-.21-.71-.42-1.13-.65L55,37.06l1-1.74Z"/&gt;&lt;path class="cls-2" d="M56.59,20.63v0a.94.94,0,0,1-.06.15A.82.82,0,0,0,56.59,20.63Z"/&gt;&lt;path class="cls-2" d="M61,41.63a2.77,2.77,0,0,1-2.27.82,13.16,13.16,0,0,1-3-.44l-1.11-.3-.84-.24A137.2,137.2,0,0,1,37.46,34.8l-.7-.33.86-1.8.7.33a144,144,0,0,0,15.74,6.46l1.11.33L56,40c2.45.61,3.24.44,3.45.35-.1-.24-.58-1-3.16-2.57-.34-.21-.71-.42-1.13-.65L55,37.06l1-1.74.13.07.46.26c3.12,1.76,4.61,3.13,4.86,4.41A1.89,1.89,0,0,1,61,41.63Z"/&gt;&lt;path class="cls-2" d="M36.07,35.28A2.25,2.25,0,1,1,38.32,33,2.25,2.25,0,0,1,36.07,35.28Zm0-2.5a.25.25,0,0,0-.25.25c0,.27.5.27.5,0A.25.25,0,0,0,36.07,32.78Z"/&gt;&lt;polygon class="cls-2" points="57.67 54.24 53.7 54.24 55.65 57.62 59 58.56 58.46 60.49 55.74 59.72 55 62.5 53.07 61.98 53.95 58.67 51.97 55.24 51.97 55.24 50.02 58.62 50.88 61.99 48.94 62.49 48.24 59.75 45.47 60.49 44.95 58.56 48.26 57.67 50.24 54.24 46.33 54.24 43.84 56.67 42.45 55.24 44.47 53.27 42.44 51.23 43.85 49.82 46.27 52.24 50.24 52.24 48.29 48.86 44.94 47.92 45.48 45.99 48.2 46.76 48.94 43.98 50.87 44.5 49.99 47.81 51.97 51.24 53.92 47.86 53.06 44.49 55 43.99 55.7 46.73 58.47 45.99 58.99 47.92 55.68 48.81 53.7 52.24 57.61 52.24 60.1 49.81 61.49 51.24 59.47 53.21 61.5 55.25 60.09 56.66 57.67 54.24"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="17" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-S3-Glacier_Vault_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;path class="cls-1" d="M42.84,48.5H7.22a1,1,0,0,1-1-1V14.69a1,1,0,0,1,1-1H42.84a1,1,0,0,1,1,1V47.5A1,1,0,0,1,42.84,48.5Zm-34.62-2H41.84V15.69H8.22Z"/&gt;&lt;path class="cls-1" d="M42.84,11.94H7.16a1,1,0,0,1-.9-.56,1,1,0,0,1,.1-1L12.7,1.9a1,1,0,0,1,.8-.4h23a1,1,0,0,1,.8.4l6.34,8.44a1,1,0,0,1,.1,1A1,1,0,0,1,42.84,11.94Zm-33.68-2H40.84L36,3.5H14Z"/&gt;&lt;path class="cls-1" d="M30,24.23a7.12,7.12,0,0,0-9.94,0l-1.4-1.43a9.13,9.13,0,0,1,12.74,0Z"/&gt;&lt;path class="cls-1" d="M22.72,38.16a9.13,9.13,0,0,1-6.84-8.83,9,9,0,0,1,.4-2.64l1.91.59a7.09,7.09,0,0,0,5,8.94Z"/&gt;&lt;path class="cls-1" d="M27.28,38.16l-.5-1.94a7.09,7.09,0,0,0,5-8.94l1.91-.59a9,9,0,0,1,.4,2.64A9.13,9.13,0,0,1,27.28,38.16Z"/&gt;&lt;rect class="cls-1" x="24.03" y="33.44" width="2" height="8.44"/&gt;&lt;rect class="cls-1" x="27.82" y="23.89" width="9.04" height="2" transform="translate(-8.11 19.5) rotate(-29.99)"/&gt;&lt;rect class="cls-1" x="16.66" y="20.38" width="2" height="9.04" transform="matrix(0.5, -0.87, 0.87, 0.5, -12.73, 27.73)"/&gt;&lt;path class="cls-1" d="M25,34.39a5.06,5.06,0,1,1,5.06-5.06A5.07,5.07,0,0,1,25,34.39Zm0-8.12a3.06,3.06,0,1,0,3.06,3.06A3.06,3.06,0,0,0,25,26.27Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="18" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Simple-Storage-Service-S3_Bucket_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;path class="cls-1" d="M24.67,48.5c-6.39,0-16.5-1.45-16.63-5.34L3.51,9.55a1,1,0,0,1,2-.39c.5,1.93,8.05,4.63,19.2,4.63s18.69-2.7,19.19-4.63a1,1,0,0,1,2,.39L41.29,43.16c0,1.32-1.22,2.45-3.51,3.36a22.87,22.87,0,0,1-3.12.94A46.09,46.09,0,0,1,24.67,48.5ZM5.9,12.27,10,43s0,.09,0,.13c0,1.18,5.69,3.42,14.63,3.42a43.75,43.75,0,0,0,9.54-1A21,21,0,0,0,37,44.66c1.85-.73,2.26-1.39,2.26-1.58a.62.62,0,0,1,0-.13l4.13-30.68c-3.86,2.3-11.64,3.52-18.77,3.52S9.75,14.57,5.9,12.27Z"/&gt;&lt;path class="cls-1" d="M24.67,15.79c-9.47,0-20.1-2.15-21.13-6.12a.79.79,0,0,1,0-.13l0-.41a.62.62,0,0,1,0-.13c0-4.42,11.18-7.5,21.22-7.5S45.89,4.58,45.89,9c0,0,0,.08,0,.13l-.06.41a.69.69,0,0,1,0,.13C44.76,13.64,34.13,15.79,24.67,15.79ZM5.48,9.21c.62,1.93,8.14,4.58,19.19,4.58s18.56-2.65,19.18-4.58l0-.27C43.74,7,35.86,3.5,24.67,3.5S5.59,7,5.45,8.94Z"/&gt;&lt;path class="cls-1" d="M45.93,29.62c-4.76,0-15.18-4.71-21.7-7.91l.88-1.8c9,4.43,19.6,8.52,21.41,7.75-.14-.29-.81-1.19-4-2.92l-.16-.1,1-1.74.15.09c3.21,1.77,4.74,3.13,5,4.41a1.82,1.82,0,0,1-.4,1.52A2.77,2.77,0,0,1,45.93,29.62Z"/&gt;&lt;path class="cls-1" d="M24.67,23a2.17,2.17,0,1,1,2.17-2.17A2.18,2.18,0,0,1,24.67,23Zm0-2.34a.17.17,0,0,0-.18.17c0,.19.35.19.35,0A.17.17,0,0,0,24.67,20.64Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="19" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Simple-Storage-Service-S3_Bucket-with-Objects_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;path class="cls-1" d="M21.17,42.88H13.76a1,1,0,0,1-1-1v-7.5a1,1,0,0,1,1-1h7.41a1,1,0,0,1,1,1v7.5A1,1,0,0,1,21.17,42.88Zm-6.41-2h5.41v-5.5H14.76Z"/&gt;&lt;path class="cls-1" d="M31,39.17a5.24,5.24,0,1,1,5.22-5.24A5.23,5.23,0,0,1,31,39.17Zm0-8.48a3.24,3.24,0,1,0,3.22,3.24A3.23,3.23,0,0,0,31,30.69Z"/&gt;&lt;path class="cls-1" d="M20.22,29.75H10.85a1,1,0,0,1-.87-.51,1,1,0,0,1,0-1l4.69-7.82a1,1,0,0,1,1.71,0l4.69,7.82a1,1,0,0,1,0,1A1,1,0,0,1,20.22,29.75Zm-7.61-2h5.85l-2.92-4.87Z"/&gt;&lt;path class="cls-1" d="M23.67,48.5c-6.39,0-16.5-1.45-16.63-5.34L2.51,9.55a1,1,0,0,1,2-.39c.5,1.93,8.05,4.63,19.2,4.63s18.69-2.7,19.19-4.63a1,1,0,0,1,2,.39L40.29,43.16c0,1.32-1.22,2.45-3.51,3.36a22.87,22.87,0,0,1-3.12.94A46,46,0,0,1,23.67,48.5ZM4.9,12.27,9,43s0,.09,0,.13c0,1.18,5.69,3.42,14.63,3.42a43.75,43.75,0,0,0,9.54-1A21,21,0,0,0,36,44.66c1.85-.73,2.26-1.39,2.26-1.58V43l4.14-30.68c-3.86,2.3-11.64,3.52-18.77,3.52S8.75,14.57,4.9,12.27Z"/&gt;&lt;path class="cls-1" d="M23.67,15.79c-9.47,0-20.1-2.15-21.14-6.12,0-.05,0-.09,0-.13l0-.41a.62.62,0,0,1,0-.13c0-4.42,11.18-7.5,21.22-7.5S44.88,4.58,44.88,9v.13l-.06.41a.69.69,0,0,1,0,.13C43.76,13.64,33.13,15.79,23.67,15.79ZM4.48,9.21c.62,1.93,8.14,4.58,19.19,4.58s18.56-2.65,19.18-4.58l0-.27C42.75,7,34.86,3.5,23.67,3.5S4.59,7,4.45,8.94Z"/&gt;&lt;path class="cls-1" d="M44.93,29.62c-4.76,0-15.18-4.71-21.7-7.91l.88-1.8c9,4.42,19.6,8.52,21.41,7.75-.14-.29-.81-1.19-4-2.92l-.16-.1,1-1.74.15.09c3.21,1.77,4.74,3.13,5,4.41a1.82,1.82,0,0,1-.4,1.52A2.77,2.77,0,0,1,44.93,29.62Z"/&gt;&lt;path class="cls-1" d="M23.67,23a2.17,2.17,0,1,1,2.17-2.17A2.18,2.18,0,0,1,23.67,23Zm0-2.34a.17.17,0,0,0-.18.17c0,.19.35.19.35,0A.17.17,0,0,0,23.67,20.64Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="20" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Amazon-Simple-Storage-Service-S3_Object_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;path class="cls-1" d="M25,45.69A20.69,20.69,0,1,1,45.69,25,20.71,20.71,0,0,1,25,45.69ZM25,6.31A18.69,18.69,0,1,0,43.69,25,18.72,18.72,0,0,0,25,6.31Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="21" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#GreenGradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="GreenGradient" x1="-15.54" y1="90.54" x2="90.53" y2="-15.53" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#1b660f"/&gt;&lt;stop offset="1" stop-color="#6cae3e"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;AWS-Backup&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Gradient" data-name="Green Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="Icon_Test" data-name="Icon Test"&gt;&lt;rect class="cls-2" x="19.75" y="34.76" width="1.98" height="20.72" transform="translate(-12.35 8.1) rotate(-17.1)"/&gt;&lt;rect class="cls-2" x="17.54" y="23.56" width="18.59" height="1.98" transform="translate(-9.23 19.83) rotate(-34.99)"/&gt;&lt;rect class="cls-2" x="47.17" y="15.25" width="1.98" height="18.59" transform="translate(0.43 49.93) rotate(-55.01)"/&gt;&lt;rect class="cls-2" x="43.9" y="44.13" width="20.72" height="1.98" transform="matrix(0.29, -0.96, 0.96, 0.29, -4.82, 83.71)"/&gt;&lt;rect class="cls-2" x="28.36" y="56.31" width="18.28" height="1.98"/&gt;&lt;path class="cls-2" d="M37.5,21.73a4,4,0,1,1,4-4A4,4,0,0,1,37.5,21.73Zm0-6.09a2.06,2.06,0,1,0,2.06,2.06A2.06,2.06,0,0,0,37.5,15.64Z"/&gt;&lt;path class="cls-2" d="M25.31,61.34a4,4,0,1,1,4-4A4,4,0,0,1,25.31,61.34Zm0-6.09a2.06,2.06,0,1,0,2.06,2A2.05,2.05,0,0,0,25.31,55.25Z"/&gt;&lt;path class="cls-2" d="M49.69,61.34a4,4,0,1,1,4-4A4,4,0,0,1,49.69,61.34Zm0-6.09a2.06,2.06,0,1,0,2.05,2A2.05,2.05,0,0,0,49.69,55.25Z"/&gt;&lt;path class="cls-2" d="M16.94,36.21a4,4,0,1,1,4-4A4,4,0,0,1,16.94,36.21Zm0-6.1a2.06,2.06,0,1,0,2,2.06A2.06,2.06,0,0,0,16.94,30.11Z"/&gt;&lt;path class="cls-2" d="M58.06,36.21a4,4,0,1,1,4-4A4,4,0,0,1,58.06,36.21Zm0-6.1a2.06,2.06,0,1,0,2.06,2.06A2.06,2.06,0,0,0,58.06,30.11Z"/&gt;&lt;rect class="cls-2" x="36.51" y="20.74" width="1.98" height="5.33"/&gt;&lt;rect class="cls-2" x="21.66" y="31.93" width="1.98" height="5.8" transform="translate(-18.29 41.92) rotate(-66.79)"/&gt;&lt;rect class="cls-2" x="25.61" y="51.74" width="5.49" height="1.98" transform="translate(-31.25 47.08) rotate(-56.31)"/&gt;&lt;rect class="cls-2" x="45.65" y="49.99" width="1.98" height="5.49" transform="translate(-21.42 34.73) rotate(-33.69)"/&gt;&lt;rect class="cls-2" x="49.45" y="33.84" width="5.8" height="1.98" transform="matrix(0.92, -0.39, 0.39, 0.92, -9.49, 23.45)"/&gt;&lt;path class="cls-2" d="M29.58,35.24a1,1,0,0,1-1-.91l-.28-3.8,2-.14.2,2.8L33.3,33l.15,2-3.8.28Z"/&gt;&lt;path class="cls-2" d="M37.49,49.51A10.22,10.22,0,0,1,27.26,39.35l2,0a8.15,8.15,0,0,0,3.32,6.57,8.26,8.26,0,0,0,11.55-1.69,8.25,8.25,0,0,0-1.69-11.55,8.26,8.26,0,0,0-11.55,1.69l-1.59-1.19a10.24,10.24,0,1,1,8.2,16.35Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="22" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;AWS-Backup_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Light_BG" data-name="Green Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="Product_Icon" data-name="Product Icon"&gt;&lt;rect class="cls-2" x="19.75" y="34.76" width="1.98" height="20.72" transform="translate(-12.35 8.1) rotate(-17.1)"/&gt;&lt;rect class="cls-2" x="17.54" y="23.56" width="18.59" height="1.98" transform="translate(-9.23 19.83) rotate(-34.99)"/&gt;&lt;rect class="cls-2" x="47.17" y="15.25" width="1.98" height="18.59" transform="translate(0.43 49.93) rotate(-55.01)"/&gt;&lt;rect class="cls-2" x="43.9" y="44.13" width="20.72" height="1.98" transform="matrix(0.29, -0.96, 0.96, 0.29, -4.82, 83.71)"/&gt;&lt;rect class="cls-2" x="28.36" y="56.31" width="18.28" height="1.98"/&gt;&lt;path class="cls-2" d="M37.5,21.73a4,4,0,1,1,4-4A4,4,0,0,1,37.5,21.73Zm0-6.09a2.06,2.06,0,1,0,2.06,2.06A2.06,2.06,0,0,0,37.5,15.64Z"/&gt;&lt;path class="cls-2" d="M25.31,61.34a4,4,0,1,1,4-4A4,4,0,0,1,25.31,61.34Zm0-6.09a2.06,2.06,0,1,0,2.06,2A2.05,2.05,0,0,0,25.31,55.25Z"/&gt;&lt;path class="cls-2" d="M49.69,61.34a4,4,0,1,1,4-4A4,4,0,0,1,49.69,61.34Zm0-6.09a2.06,2.06,0,1,0,2.05,2A2.05,2.05,0,0,0,49.69,55.25Z"/&gt;&lt;path class="cls-2" d="M16.94,36.21a4,4,0,1,1,4-4A4,4,0,0,1,16.94,36.21Zm0-6.1a2.06,2.06,0,1,0,2,2.06A2.06,2.06,0,0,0,16.94,30.11Z"/&gt;&lt;path class="cls-2" d="M58.06,36.21a4,4,0,1,1,4-4A4,4,0,0,1,58.06,36.21Zm0-6.1a2.06,2.06,0,1,0,2.06,2.06A2.06,2.06,0,0,0,58.06,30.11Z"/&gt;&lt;rect class="cls-2" x="36.51" y="20.74" width="1.98" height="5.33"/&gt;&lt;rect class="cls-2" x="21.66" y="31.93" width="1.98" height="5.8" transform="translate(-18.29 41.92) rotate(-66.79)"/&gt;&lt;rect class="cls-2" x="25.61" y="51.74" width="5.49" height="1.98" transform="translate(-31.25 47.08) rotate(-56.31)"/&gt;&lt;rect class="cls-2" x="45.65" y="49.99" width="1.98" height="5.49" transform="translate(-21.42 34.73) rotate(-33.69)"/&gt;&lt;rect class="cls-2" x="49.45" y="33.84" width="5.8" height="1.98" transform="matrix(0.92, -0.39, 0.39, 0.92, -9.49, 23.45)"/&gt;&lt;path class="cls-2" d="M29.58,35.24a1,1,0,0,1-1-.91l-.28-3.8,2-.14.2,2.8L33.3,33l.15,2-3.8.28Z"/&gt;&lt;path class="cls-2" d="M37.49,49.51A10.22,10.22,0,0,1,27.26,39.35l2,0a8.15,8.15,0,0,0,3.32,6.57,8.26,8.26,0,0,0,11.55-1.69,8.25,8.25,0,0,0-1.69-11.55,8.26,8.26,0,0,0-11.55,1.69l-1.59-1.19a10.24,10.24,0,1,1,8.2,16.35Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="23" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#GreenGradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="GreenGradient" x1="-15.53" y1="90.53" x2="90.53" y2="-15.53" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#1b660f"/&gt;&lt;stop offset="1" stop-color="#6cae3e"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;AWS-Snowball&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Gradient" data-name="Green Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="Icon_Test" data-name="Icon Test"&gt;&lt;path class="cls-2" d="M55.32,53H19.68a3.19,3.19,0,0,1-3.18-3.18V25.18A3.19,3.19,0,0,1,19.68,22H29.5a1,1,0,0,1,.95.68L31.58,26H43.41l1.14-3.32a1,1,0,0,1,1-.68h9.83a3.17,3.17,0,0,1,3.17,3.17V49.82A3.19,3.19,0,0,1,55.32,53ZM19.68,24a1.18,1.18,0,0,0-1.18,1.18V49.82A1.18,1.18,0,0,0,19.68,51H55.32a1.18,1.18,0,0,0,1.18-1.18V25.17A1.18,1.18,0,0,0,55.33,24H46.21l-1.14,3.32a1,1,0,0,1-.94.68H30.87a1,1,0,0,1-.95-.68L28.79,24Z"/&gt;&lt;path class="cls-2" d="M57.12,57H17.88a5.46,5.46,0,0,1-5.38-5.54V23.54A5.46,5.46,0,0,1,17.88,18H57.12a5.46,5.46,0,0,1,5.38,5.54V51.46A5.46,5.46,0,0,1,57.12,57ZM17.88,20a3.47,3.47,0,0,0-3.38,3.54V51.46A3.47,3.47,0,0,0,17.88,55H57.12a3.47,3.47,0,0,0,3.38-3.54V23.54A3.47,3.47,0,0,0,57.12,20Z"/&gt;&lt;path class="cls-2" d="M50.5,46h-26a1,1,0,0,1-1-1V32a1,1,0,0,1,1-1h26a1,1,0,0,1,1,1V45A1,1,0,0,1,50.5,46Zm-25-2h24V33h-24Z"/&gt;&lt;rect class="cls-2" x="33.5" y="22" width="8" height="2"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="24" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#GreenGradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="GreenGradient" x1="-264.95" y1="-643.67" x2="-264.95" y2="-793.67" gradientTransform="translate(-283.33 733.02) rotate(45)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#1b660f"/&gt;&lt;stop offset="1" stop-color="#6cae3e"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;AWS-Snowball-Edge&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Gradient" data-name="Green Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="Icon_Test" data-name="Icon Test"&gt;&lt;path class="cls-2" d="M36.91,48.4H19.08a3.17,3.17,0,0,1-3.17-3.18V20.58a3.18,3.18,0,0,1,3.17-3.18h9.83a1,1,0,0,1,.94.68L31,21.4H42.82L44,18.08a1,1,0,0,1,.95-.68h9.83a3.19,3.19,0,0,1,3.17,3.18V36.4h-2V20.58a1.19,1.19,0,0,0-1.17-1.18H45.62l-1.14,3.33a1,1,0,0,1-.94.67H30.28a1,1,0,0,1-1-.67L28.19,19.4H19.08a1.19,1.19,0,0,0-1.17,1.18V45.22a1.19,1.19,0,0,0,1.17,1.18H36.91Z"/&gt;&lt;path class="cls-2" d="M36.9,52.4H17.28a5.47,5.47,0,0,1-5.38-5.54V18.94a5.48,5.48,0,0,1,5.38-5.54H56.53a5.48,5.48,0,0,1,5.38,5.54V39.4h-2V18.94a3.47,3.47,0,0,0-3.38-3.54H17.28a3.47,3.47,0,0,0-3.38,3.54V46.86a3.46,3.46,0,0,0,3.38,3.54H36.9Z"/&gt;&lt;path class="cls-2" d="M39.91,41.4h-16a1,1,0,0,1-1-1v-13a1,1,0,0,1,1-1h27a1,1,0,0,1,1,1v8h-2v-7h-25v11h15Z"/&gt;&lt;rect class="cls-2" x="32.9" y="17.4" width="8" height="2"/&gt;&lt;path class="cls-2" d="M50.73,39.4l.62.05.63,0,.62,0,.88,2a8.46,8.46,0,0,1,2.31,1.15L58,42.17l.41.47.41.47.41.47-.83,2.08a8,8,0,0,1,.82,2.42l1.93,1.15-.05.62,0,.62,0,.63L58.91,52a8.15,8.15,0,0,1-1.13,2.29l.55,2.18-.47.41-.47.41-.47.41-2.09-.83a8.38,8.38,0,0,1-2.41.82L51.27,59.6l-.62-.05-.62,0-.63,0-.88-2.06a8.2,8.2,0,0,1-2.3-1.13l-2.17.55-.41-.47-.41-.47-.41-.47.82-2.07a8.59,8.59,0,0,1-.83-2.44L40.9,49.77l.05-.62,0-.63,0-.62,2-.88a8,8,0,0,1,1.14-2.31l-.54-2.16.47-.41.47-.41.47-.41,2.06.82a8.16,8.16,0,0,1,2.45-.83l1.14-1.91m0-2a2,2,0,0,0-1.72,1l-.69,1.16a12.9,12.9,0,0,0-1.24.42l-1.26-.5a2.11,2.11,0,0,0-.74-.14,2,2,0,0,0-1.32.49l-.47.42-.47.41-.47.41a2,2,0,0,0-.62,2l.33,1.32a10.6,10.6,0,0,0-.58,1.17l-1.24.54A2,2,0,0,0,39,47.77l0,.62L39,49l0,.62a2,2,0,0,0,1,1.85l1.17.7a8.79,8.79,0,0,0,.42,1.22L41,54.68a2,2,0,0,0,.35,2.06l.42.47.41.47.41.47a2,2,0,0,0,1.5.68,2.05,2.05,0,0,0,.49-.06l1.34-.34A12.12,12.12,0,0,0,47,59l.54,1.26a2,2,0,0,0,1.71,1.21l.62,0,.63,0,.62,0h.13a2,2,0,0,0,1.72-1l.71-1.19A10.46,10.46,0,0,0,54.89,59l1.29.52a2.11,2.11,0,0,0,.74.14,2,2,0,0,0,1.32-.49l.47-.42.47-.41.47-.41a2,2,0,0,0,.62-2l-.34-1.35a10.79,10.79,0,0,0,.56-1.13l1.27-.55A2,2,0,0,0,63,51.23l0-.62,0-.62,0-.63a2,2,0,0,0-1-1.85l-1.18-.7a10.13,10.13,0,0,0-.41-1.21L61,44.32a2,2,0,0,0-.35-2.06l-.42-.47-.41-.47-.41-.47a2,2,0,0,0-1.5-.68,2.05,2.05,0,0,0-.49.06l-1.33.34A10.32,10.32,0,0,0,55,40l-.55-1.25a2,2,0,0,0-1.7-1.21l-.62,0-.62,0-.63,0Z"/&gt;&lt;path class="cls-2" d="M51,54.18a4.68,4.68,0,1,1,4.68-4.68A4.69,4.69,0,0,1,51,54.18Zm0-7.36a2.68,2.68,0,1,0,2.68,2.68A2.68,2.68,0,0,0,51,46.82Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="25" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;AWS-Snowball-Edge_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Light_BG" data-name="Green Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="Product_Icon" data-name="Product Icon"&gt;&lt;path class="cls-2" d="M36.91,48.4H19.08a3.17,3.17,0,0,1-3.17-3.18V20.58a3.18,3.18,0,0,1,3.17-3.18h9.83a1,1,0,0,1,.94.68L31,21.4H42.82L44,18.08a1,1,0,0,1,.95-.68h9.83a3.19,3.19,0,0,1,3.17,3.18V36.4h-2V20.58a1.19,1.19,0,0,0-1.17-1.18H45.62l-1.14,3.33a1,1,0,0,1-.94.67H30.28a1,1,0,0,1-1-.67L28.19,19.4H19.08a1.19,1.19,0,0,0-1.17,1.18V45.22a1.19,1.19,0,0,0,1.17,1.18H36.91Z"/&gt;&lt;path class="cls-2" d="M36.9,52.4H17.28a5.47,5.47,0,0,1-5.38-5.54V18.94a5.48,5.48,0,0,1,5.38-5.54H56.53a5.48,5.48,0,0,1,5.38,5.54V39.4h-2V18.94a3.47,3.47,0,0,0-3.38-3.54H17.28a3.47,3.47,0,0,0-3.38,3.54V46.86a3.46,3.46,0,0,0,3.38,3.54H36.9Z"/&gt;&lt;path class="cls-2" d="M39.91,41.4h-16a1,1,0,0,1-1-1v-13a1,1,0,0,1,1-1h27a1,1,0,0,1,1,1v8h-2v-7h-25v11h15Z"/&gt;&lt;rect class="cls-2" x="32.9" y="17.4" width="8" height="2"/&gt;&lt;path class="cls-2" d="M50.73,39.4l.62.05.63,0,.62,0,.88,2a8.46,8.46,0,0,1,2.31,1.15L58,42.17l.41.47.41.47.41.47-.83,2.08a8,8,0,0,1,.82,2.42l1.93,1.15-.05.62,0,.62,0,.63L58.91,52a8.15,8.15,0,0,1-1.13,2.29l.55,2.18-.47.41-.47.41-.47.41-2.09-.83a8.38,8.38,0,0,1-2.41.82L51.27,59.6l-.62-.05-.62,0-.63,0-.88-2.06a8.2,8.2,0,0,1-2.3-1.13l-2.17.55-.41-.47-.41-.47-.41-.47.82-2.07a8.59,8.59,0,0,1-.83-2.44L40.9,49.77l.05-.62,0-.63,0-.62,2-.88a8,8,0,0,1,1.14-2.31l-.54-2.16.47-.41.47-.41.47-.41,2.06.82a8.16,8.16,0,0,1,2.45-.83l1.14-1.91m0-2a2,2,0,0,0-1.72,1l-.69,1.16a12.9,12.9,0,0,0-1.24.42l-1.26-.5a2.11,2.11,0,0,0-.74-.14,2,2,0,0,0-1.32.49l-.47.42-.47.41-.47.41a2,2,0,0,0-.62,2l.33,1.32a10.6,10.6,0,0,0-.58,1.17l-1.24.54A2,2,0,0,0,39,47.77l0,.62L39,49l0,.62a2,2,0,0,0,1,1.85l1.17.7a8.79,8.79,0,0,0,.42,1.22L41,54.68a2,2,0,0,0,.35,2.06l.42.47.41.47.41.47a2,2,0,0,0,1.5.68,2.05,2.05,0,0,0,.49-.06l1.34-.34A12.12,12.12,0,0,0,47,59l.54,1.26a2,2,0,0,0,1.71,1.21l.62,0,.63,0,.62,0h.13a2,2,0,0,0,1.72-1l.71-1.19A10.46,10.46,0,0,0,54.89,59l1.29.52a2.11,2.11,0,0,0,.74.14,2,2,0,0,0,1.32-.49l.47-.42.47-.41.47-.41a2,2,0,0,0,.62-2l-.34-1.35a10.79,10.79,0,0,0,.56-1.13l1.27-.55A2,2,0,0,0,63,51.23l0-.62,0-.62,0-.63a2,2,0,0,0-1-1.85l-1.18-.7a10.13,10.13,0,0,0-.41-1.21L61,44.32a2,2,0,0,0-.35-2.06l-.42-.47-.41-.47-.41-.47a2,2,0,0,0-1.5-.68,2.05,2.05,0,0,0-.49.06l-1.33.34A10.32,10.32,0,0,0,55,40l-.55-1.25a2,2,0,0,0-1.7-1.21l-.62,0-.62,0-.63,0Z"/&gt;&lt;path class="cls-2" d="M51,54.18a4.68,4.68,0,1,1,4.68-4.68A4.69,4.69,0,0,1,51,54.18Zm0-7.36a2.68,2.68,0,1,0,2.68,2.68A2.68,2.68,0,0,0,51,46.82Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="26" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;AWS-Snowball_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Light_BG" data-name="Green Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="Product_Icon" data-name="Product Icon"&gt;&lt;path class="cls-2" d="M55.32,53H19.68a3.19,3.19,0,0,1-3.18-3.18V25.18A3.19,3.19,0,0,1,19.68,22H29.5a1,1,0,0,1,.95.68L31.58,26H43.41l1.14-3.32a1,1,0,0,1,1-.68h9.83a3.17,3.17,0,0,1,3.17,3.17V49.82A3.19,3.19,0,0,1,55.32,53ZM19.68,24a1.18,1.18,0,0,0-1.18,1.18V49.82A1.18,1.18,0,0,0,19.68,51H55.32a1.18,1.18,0,0,0,1.18-1.18V25.17A1.18,1.18,0,0,0,55.33,24H46.21l-1.14,3.32a1,1,0,0,1-.94.68H30.87a1,1,0,0,1-.95-.68L28.79,24Z"/&gt;&lt;path class="cls-2" d="M57.12,57H17.88a5.46,5.46,0,0,1-5.38-5.54V23.54A5.46,5.46,0,0,1,17.88,18H57.12a5.46,5.46,0,0,1,5.38,5.54V51.46A5.46,5.46,0,0,1,57.12,57ZM17.88,20a3.47,3.47,0,0,0-3.38,3.54V51.46A3.47,3.47,0,0,0,17.88,55H57.12a3.47,3.47,0,0,0,3.38-3.54V23.54A3.47,3.47,0,0,0,57.12,20Z"/&gt;&lt;path class="cls-2" d="M50.5,46h-26a1,1,0,0,1-1-1V32a1,1,0,0,1,1-1h26a1,1,0,0,1,1,1V45A1,1,0,0,1,50.5,46Zm-25-2h24V33h-24Z"/&gt;&lt;rect class="cls-2" x="33.5" y="22" width="8" height="2"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="27" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;AWS-Snow-Family_Snowball-Import-Export_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;path class="cls-1" d="M6.72,23.59h-2V13.45a3,3,0,0,1,3-3H17a1,1,0,0,1,1,.67l1,3.08H30L31,11.08a1,1,0,0,1,.95-.67h9.21a3,3,0,0,1,3,3v5.46h-2V13.45a1,1,0,0,0-1-1h-8.5l-1.05,3.07a1,1,0,0,1-.95.68H18.25a1,1,0,0,1-.94-.68l-1.06-3.07H7.75a1,1,0,0,0-1,1Z"/&gt;&lt;path class="cls-1" d="M41.18,39.59H7.75a3,3,0,0,1-3-3V29.22h2v7.33a1,1,0,0,0,1,1H41.18a1,1,0,0,0,1-1V33.91h2v2.64A3,3,0,0,1,41.18,39.59Z"/&gt;&lt;path class="cls-1" d="M42.86,43.34H6.08A5.18,5.18,0,0,1,1,38.09V29.22H3v8.87a3.18,3.18,0,0,0,3.11,3.25H42.86A3.18,3.18,0,0,0,46,38.09V30.36h2v7.73A5.18,5.18,0,0,1,42.86,43.34ZM3,23.59H1V11.91A5.18,5.18,0,0,1,6.08,6.66H42.86A5.18,5.18,0,0,1,48,11.91V22.45H46V11.91a3.18,3.18,0,0,0-3.11-3.25H6.08A3.18,3.18,0,0,0,3,11.91Z"/&gt;&lt;path class="cls-1" d="M38.59,23.59h-2V20.84H24.47v-2H37.59a1,1,0,0,1,1,1Z"/&gt;&lt;path class="cls-1" d="M13.28,23.59h-2V19.84a1,1,0,0,1,1-1h5.63v2H13.28Z"/&gt;&lt;path class="cls-1" d="M17.91,33H12.28a1,1,0,0,1-1-1V29.22h2V31h4.63Z"/&gt;&lt;path class="cls-1" d="M37.59,33H24.47V31H36.59V29.22h2V32A1,1,0,0,1,37.59,33Z"/&gt;&lt;rect class="cls-1" x="20.72" y="10.41" width="7.5" height="2"/&gt;&lt;path class="cls-1" d="M42.05,32.74l-1.42-1.41,4.89-4.92-4.89-4.92,1.42-1.41,5.59,5.62a1,1,0,0,1,0,1.41Z"/&gt;&lt;rect class="cls-1" x="28.22" y="25.41" width="18.71" height="2"/&gt;&lt;path class="cls-1" d="M20.52,32.74,19.1,31.33,24,26.41l-4.9-4.92,1.42-1.41,5.6,5.62a1,1,0,0,1,0,1.41Z"/&gt;&lt;rect class="cls-1" x="1.03" y="25.41" width="24.34" height="2"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="28" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#GreenGradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="GreenGradient" x1="-2019.02" y1="-871.4" x2="-2169.02" y2="-871.4" gradientTransform="translate(-2059.37 902.02) rotate(135)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#1b660f"/&gt;&lt;stop offset="1" stop-color="#6cae3e"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;AWS-Snowmobile&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Gradient" data-name="Green Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="Icon_Test" data-name="Icon Test"&gt;&lt;path class="cls-2" d="M47.56,29.5H20.48a1,1,0,0,0-1,1V44.54a1,1,0,0,0,1,1H22.4a3.81,3.81,0,0,0,7,.54,3.81,3.81,0,0,0,7-.54H47.56a1,1,0,0,0,.67-.27,3.82,3.82,0,0,0,7.5-.73h.83a1,1,0,0,0,1-1V38.39A5.91,5.91,0,0,0,51.6,32.5H48.52v-2A1,1,0,0,0,47.56,29.5ZM26,46.14a1.92,1.92,0,1,1,1.92-1.92A1.92,1.92,0,0,1,26,46.14Zm6.72,0a1.92,1.92,0,1,1,1.92-1.92A1.92,1.92,0,0,1,32.72,46.14Zm13.8-2.64h-10a3.82,3.82,0,0,0-7.13-1.1,3.82,3.82,0,0,0-7.13,1.1h-.71v-12h25v12Zm5.4,2.64a1.92,1.92,0,1,1,1.92-1.92A1.92,1.92,0,0,1,51.92,46.14ZM51.6,34.5a3.91,3.91,0,0,1,3.92,3.89V42.5h-.19a3.81,3.81,0,0,0-6.81,0v-8Z"/&gt;&lt;rect class="cls-2" x="14.52" y="30.5" width="3" height="2"/&gt;&lt;rect class="cls-2" x="12.52" y="35.5" width="5" height="2"/&gt;&lt;rect class="cls-2" x="13.52" y="40.5" width="4" height="2"/&gt;&lt;path class="cls-2" d="M38.48,13.5a24,24,0,0,0-21.81,14l1.74.8a22.09,22.09,0,1,1-.74,16.56l-1.81.64a24,24,0,1,0,22.62-32Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="29" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;AWS-Snowmobile_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Light_BG" data-name="Green Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="Product_Icon" data-name="Product Icon"&gt;&lt;path class="cls-2" d="M47.56,29.5H20.48a1,1,0,0,0-1,1V44.54a1,1,0,0,0,1,1H22.4a3.81,3.81,0,0,0,7,.54,3.81,3.81,0,0,0,7-.54H47.56a1,1,0,0,0,.67-.27,3.82,3.82,0,0,0,7.5-.73h.83a1,1,0,0,0,1-1V38.39A5.91,5.91,0,0,0,51.6,32.5H48.52v-2A1,1,0,0,0,47.56,29.5ZM26,46.14a1.92,1.92,0,1,1,1.92-1.92A1.92,1.92,0,0,1,26,46.14Zm6.72,0a1.92,1.92,0,1,1,1.92-1.92A1.92,1.92,0,0,1,32.72,46.14Zm13.8-2.64h-10a3.82,3.82,0,0,0-7.13-1.1,3.82,3.82,0,0,0-7.13,1.1h-.71v-12h25v12Zm5.4,2.64a1.92,1.92,0,1,1,1.92-1.92A1.92,1.92,0,0,1,51.92,46.14ZM51.6,34.5a3.91,3.91,0,0,1,3.92,3.89V42.5h-.19a3.81,3.81,0,0,0-6.81,0v-8Z"/&gt;&lt;rect class="cls-2" x="14.52" y="30.5" width="3" height="2"/&gt;&lt;rect class="cls-2" x="12.52" y="35.5" width="5" height="2"/&gt;&lt;rect class="cls-2" x="13.52" y="40.5" width="4" height="2"/&gt;&lt;path class="cls-2" d="M38.48,13.5a24,24,0,0,0-21.81,14l1.74.8a22.09,22.09,0,1,1-.74,16.56l-1.81.64a24,24,0,1,0,22.62-32Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="30" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:url(#GreenGradient);}.cls-2{fill:#fff;}&lt;/style&gt;&lt;linearGradient id="GreenGradient" x1="-2797.47" y1="-41.53" x2="-2903.53" y2="64.53" gradientTransform="translate(-2813 49) rotate(180)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#1b660f"/&gt;&lt;stop offset="1" stop-color="#6cae3e"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;AWS-Storage-Gateway&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Gradient" data-name="Green Gradient" class="cls-1" width="75" height="75"/&gt;&lt;g id="Icon_Test" data-name="Icon Test"&gt;&lt;path class="cls-2" d="M54.61,26.07c-.4-3.12-2.08-5.39-4.59-6.16a5.94,5.94,0,0,0-5.42,1,14.21,14.21,0,0,0-3-4.28A13.2,13.2,0,0,0,19,25.57v.73a8.92,8.92,0,0,0-6.5,9V36a8.9,8.9,0,0,0,8,8.27v-2a7,7,0,0,1-6-6.43v-.55c0-5,3.58-6.66,5.76-7.22a1,1,0,0,0,.83-1.11A9.94,9.94,0,0,1,21,25.57,11.19,11.19,0,0,1,40.2,18.09a13.12,13.12,0,0,1,3.12,5,1,1,0,0,0,1.29.59,1,1,0,0,0,.44-.33,4,4,0,0,1,4.43-1.52c1.9.58,3.08,2.44,3.24,5.11a1,1,0,0,0,.8.92c4.65.94,7,3.45,7,7.46s-2,6.4-6,6.87v2c5.18-.52,8-3.63,8-8.88C62.48,30.59,59.69,27.29,54.61,26.07Z"/&gt;&lt;path class="cls-2" d="M51.48,62.29h-5a1,1,0,0,1-1-1V36.91a16.29,16.29,0,0,0-7.7-2,16.61,16.61,0,0,0-8.3,2.29V61.29a1,1,0,0,1-1,1h-5a1,1,0,0,1-1-1V34.09a1.05,1.05,0,0,1,.34-.75c3.68-3.25,9.14-5.11,15-5.11A23.24,23.24,0,0,1,52.1,32.79a1,1,0,0,1,.38.78V61.29A1,1,0,0,1,51.48,62.29Zm-4-2h3V34.07a21.43,21.43,0,0,0-12.69-3.84,21,21,0,0,0-13.31,4.32V60.29h3V36.61a.93.93,0,0,1,.47-.87,19.22,19.22,0,0,1,9.83-2.84,18.65,18.65,0,0,1,9.13,2.52,1,1,0,0,1,.57.87Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="31" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;AWS-Storage-Gateway_Cached-Volume_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;path class="cls-1" d="M42.81,48.5H31.56a1,1,0,0,1-1-1V41.94H19.44V47.5a1,1,0,0,1-1,1H7.19a1,1,0,0,1-1-1V2.5a1,1,0,0,1,1-1H42.81a1,1,0,0,1,1,1v45A1,1,0,0,1,42.81,48.5Zm-10.25-2h9.25V3.5H8.19v43h9.25V40.94a1,1,0,0,1,1-1H31.56a1,1,0,0,1,1,1Z"/&gt;&lt;path class="cls-1" d="M16.2,14.45a3.65,3.65,0,0,1-1.58.35q-3,0-3-4a4.85,4.85,0,0,1,.78-3,2.66,2.66,0,0,1,2.28-1,3.64,3.64,0,0,1,1.45.31V8a4.7,4.7,0,0,0-1.32-.23,1.76,1.76,0,0,0-1.55.69,3.88,3.88,0,0,0-.49,2.22v.27a4.07,4.07,0,0,0,.47,2.22,1.71,1.71,0,0,0,1.52.68,5.53,5.53,0,0,0,1.46-.28Z"/&gt;&lt;path class="cls-1" d="M21.21,14.69l-.54-2.11H18.32l-.53,2.11H16.67l2.25-7.8h1.19l2.25,7.8Zm-2.69-2.94h1.93l-1-3.81Z"/&gt;&lt;path class="cls-1" d="M27.44,14.45a3.7,3.7,0,0,1-1.59.35q-3,0-3-4a4.85,4.85,0,0,1,.78-3,2.65,2.65,0,0,1,2.28-1,3.64,3.64,0,0,1,1.45.31V8A4.7,4.7,0,0,0,26,7.76a1.75,1.75,0,0,0-1.54.69A3.88,3.88,0,0,0,24,10.67v.27a4,4,0,0,0,.47,2.22,1.7,1.7,0,0,0,1.52.68,5.53,5.53,0,0,0,1.46-.28Z"/&gt;&lt;path class="cls-1" d="M32.58,14.69V11.14H29.75v3.55H28.66V6.89h1.09v3.36h2.83V6.89h1.09v7.8Z"/&gt;&lt;path class="cls-1" d="M35.36,14.69V6.89h4v.88H36.45v2.45h2.36v.88H36.45v2.71h2.86v.88Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="32" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;g id="Working"&gt;&lt;path class="cls-1" d="M45.43,48.88H14.89a1,1,0,0,1-1-1V26.13a1,1,0,0,1,1-1h8.83a1,1,0,0,1,.9.57l1,2H45.43a1,1,0,0,1,1,1V47.88A1,1,0,0,1,45.43,48.88Zm-29.54-2H44.43V29.73H25a1,1,0,0,1-.9-.57l-1-2h-7.2ZM5.57,6.32c4-2.32,8-4.2,14.4-4.2,6.09,0,10.51,2.23,14.41,4.24V25h2V5.75a1,1,0,0,0-.55-.89l-.34-.18C31.55,2.65,26.65.12,20,.12,12.78.12,8.34,2.38,4.06,4.88a1,1,0,0,0-.49.87V48.88h2Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="33" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}.cls-2{fill:#fff;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;AWS-Storage-Gateway_light-bg&lt;/title&gt;&lt;g id="Reference"&gt;&lt;rect id="Green_Light_BG" data-name="Green Light BG" class="cls-1" width="75" height="75"/&gt;&lt;g id="Product_Icon" data-name="Product Icon"&gt;&lt;path class="cls-2" d="M54.61,26.07c-.4-3.12-2.08-5.39-4.59-6.16a5.94,5.94,0,0,0-5.42,1,14.21,14.21,0,0,0-3-4.28A13.2,13.2,0,0,0,19,25.57v.73a8.92,8.92,0,0,0-6.5,9V36a8.9,8.9,0,0,0,8,8.27v-2a7,7,0,0,1-6-6.43v-.55c0-5,3.58-6.66,5.76-7.22a1,1,0,0,0,.83-1.11A9.94,9.94,0,0,1,21,25.57,11.19,11.19,0,0,1,40.2,18.09a13.12,13.12,0,0,1,3.12,5,1,1,0,0,0,1.29.59,1,1,0,0,0,.44-.33,4,4,0,0,1,4.43-1.52c1.9.58,3.08,2.44,3.24,5.11a1,1,0,0,0,.8.92c4.65.94,7,3.45,7,7.46s-2,6.4-6,6.87v2c5.18-.52,8-3.63,8-8.88C62.48,30.59,59.69,27.29,54.61,26.07Z"/&gt;&lt;path class="cls-2" d="M51.48,62.29h-5a1,1,0,0,1-1-1V36.91a16.29,16.29,0,0,0-7.7-2,16.61,16.61,0,0,0-8.3,2.29V61.29a1,1,0,0,1-1,1h-5a1,1,0,0,1-1-1V34.09a1.05,1.05,0,0,1,.34-.75c3.68-3.25,9.14-5.11,15-5.11A23.24,23.24,0,0,1,52.1,32.79a1,1,0,0,1,.38.78V61.29A1,1,0,0,1,51.48,62.29Zm-4-2h3V34.07a21.43,21.43,0,0,0-12.69-3.84,21,21,0,0,0-13.31,4.32V60.29h3V36.61a.93.93,0,0,1,.47-.87,19.22,19.22,0,0,1,9.83-2.84,18.65,18.65,0,0,1,9.13,2.52,1,1,0,0,1,.57.87Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="34" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;AWS-Storage-Gateway_Non-Cached-Volume_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;path class="cls-1" d="M42.81,48.5H31.56a1,1,0,0,1-1-1V41.94H19.44V47.5a1,1,0,0,1-1,1H7.19a1,1,0,0,1-1-1V2.5a1,1,0,0,1,1-1H42.81a1,1,0,0,1,1,1v45A1,1,0,0,1,42.81,48.5Zm-10.25-2h9.25V3.5H8.19v43h9.25V40.94a1,1,0,0,1,1-1H31.56a1,1,0,0,1,1,1Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="35" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;g id="Working"&gt;&lt;path class="cls-1" d="M17.87,2.12C11.43,2.12,7.48,4,3.46,6.32V48.88h-2V5.75A1,1,0,0,1,2,4.88C6.24,2.38,10.67.12,17.87.12c6.68,0,11.58,2.53,15.52,4.56l.34.18a1,1,0,0,1,.54.89V19.62h-2V6.36C28.38,4.35,24,2.12,17.87,2.12Zm7.64,41.13a8,8,0,1,1,8-8A8,8,0,0,1,25.51,43.25Zm0-2a6,6,0,1,0-6-6A6,6,0,0,0,25.51,41.25Zm22.8,3.53-3.88,4.73a1,1,0,0,1-.77.37H25.24l-.09,0a14.62,14.62,0,1,1,15-14.61,14.5,14.5,0,0,1-2.33,7.89h9.73a1,1,0,0,1,.9.58A1,1,0,0,1,48.31,44.78Zm-22.8,3.1A12.63,12.63,0,1,0,12.88,35.25,12.64,12.64,0,0,0,25.51,47.88Zm19.91-2.74H36.25a14.51,14.51,0,0,1-3.39,2.74H43.18Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="36" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;AWS-Storage-Gateway_Virtual-Tape-Library_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;path class="cls-1" d="M42.81,48.5H31.56a1,1,0,0,1-1-1V41.94H19.44V47.5a1,1,0,0,1-1,1H7.19a1,1,0,0,1-1-1V2.5a1,1,0,0,1,1-1H42.81a1,1,0,0,1,1,1v45A1,1,0,0,1,42.81,48.5Zm-10.25-2h9.25V3.5H8.19v43h9.25V40.94a1,1,0,0,1,1-1H31.56a1,1,0,0,1,1,1Z"/&gt;&lt;path class="cls-1" d="M19.1,15.62,16.66,7.18H18l1.78,7.17,1.8-7.17h1.25l-2.44,8.44Z"/&gt;&lt;path class="cls-1" d="M25.41,15.62V8.17h-2.1v-1H28.7v1H26.59v7.45Z"/&gt;&lt;path class="cls-1" d="M29.78,15.62V7.18H31v7.46H34v1Z"/&gt;&lt;path class="cls-1" d="M17,35.38a7.1,7.1,0,1,1,7.09-7.1A7.11,7.11,0,0,1,17,35.38Zm0-12.19a5.1,5.1,0,1,0,5.09,5.09A5.09,5.09,0,0,0,17,23.19Z"/&gt;&lt;path class="cls-1" d="M33,35.38a7.1,7.1,0,1,1,7.09-7.1A7.11,7.11,0,0,1,33,35.38Zm0-12.19a5.1,5.1,0,1,0,5.09,5.09A5.09,5.09,0,0,0,33,23.19Z"/&gt;&lt;rect class="cls-1" x="17.5" y="33.38" width="15.94" height="2"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="37" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#3f8624;}&lt;/style&gt;&lt;/defs&gt;&lt;g id="Working"&gt;&lt;path class="cls-1" d="M32.54,49.88c-6.56,0-13.2-1.73-13.2-5V22.72c0-3.3,6.64-5,13.2-5s13.2,1.72,13.2,5V44.86C45.74,48.15,39.1,49.88,32.54,49.88Zm-11.2-6.42v1.4c0,1,3.95,3,11.2,3s11.2-2,11.2-3v-1.4C38.82,46.41,26.26,46.41,21.34,43.46Zm0-14V40.68c0,1,3.95,3,11.2,3s11.2-2,11.2-3V29.44C38.82,32.39,26.26,32.39,21.34,29.44Zm0-3.94v1.16c0,1,3.95,3,11.2,3s11.2-2,11.2-3V25.5C38.82,28.45,26.26,28.45,21.34,25.5Zm11.2-5.8c-7.25,0-11.2,2-11.2,3s3.95,3,11.2,3,11.2-2,11.2-3S39.79,19.7,32.54,19.7ZM6.26,6.32c4-2.32,8-4.2,14.4-4.2,6.09,0,10.51,2.23,14.41,4.24v9.12h2V5.75a1,1,0,0,0-.55-.89l-.34-.18C32.24,2.65,27.34.12,20.66.12,13.47.12,9,2.38,4.75,4.88a1,1,0,0,0-.49.87V48.88h2Z"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="38" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="75" viewBox="0 0 75 75"&gt;&lt;defs&gt;&lt;linearGradient id="linear-gradient" x1="-190.71" y1="-278.43" x2="-190.71" y2="-428.43" gradientTransform="translate(-77.56 422.26) rotate(45)" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#1b660f"/&gt;&lt;stop offset="1" stop-color="#6cae3e"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;AWS-CloudEndure-Disaster-Recovery&lt;/title&gt;&lt;g id="Example"&gt;&lt;rect id="Green_Gradient" data-name="Green Gradient" width="75" height="75" style="fill:url(#linear-gradient)"/&gt;&lt;/g&gt;&lt;g id="Working"&gt;&lt;rect width="75" height="75" style="fill:none"/&gt;&lt;path id="_64x" data-name="64x" d="M36.06,62.67a1,1,0,0,1-.41-.09,1,1,0,0,1-.58-1.09L37.53,48H32.68a1,1,0,0,1-.86-.49,1,1,0,0,1,0-1l7.64-14a1,1,0,0,1,.88-.52h9.93a1,1,0,0,1,.85,1.53L45.8,42h4.43a1,1,0,0,1,.9.56,1,1,0,0,1-.1,1L36.85,62.27A1,1,0,0,1,36.06,62.67ZM34.37,46h4.35a1,1,0,0,1,.77.36,1,1,0,0,1,.22.82L37.79,57.73,48.22,44H44a1,1,0,0,1-.85-1.53L48.45,34H40.91Zm22,5.94c.1,0,9.93-.92,9.93-10.81,0-7.67-6-10-8.82-10.64-.43-3.66-2.35-6.31-5.23-7.15a6.43,6.43,0,0,0-6,1.29,16.63,16.63,0,0,0-3.42-5.08,14.6,14.6,0,0,0-16.51-3.29c-5,2.11-8.72,7.92-8.72,13.53,0,.32,0,.65,0,1a10.17,10.17,0,0,0-7.35,10.29c0,.36,0,.72,0,1.06.49,6.24,3.73,9.83,8.9,9.83H30V50H19.19c-5.46,0-6.67-5.07-6.9-8a8.77,8.77,0,0,1,0-.9,8.28,8.28,0,0,1,6.59-8.57h0a1,1,0,0,0,.79-1.1,13.82,13.82,0,0,1-.09-1.58c0-4.77,3.29-9.9,7.5-11.69A12.59,12.59,0,0,1,41.38,21a15.29,15.29,0,0,1,3.55,5.83,1,1,0,0,0,1.75.26,4.54,4.54,0,0,1,5-1.79c2.19.63,3.62,2.84,3.86,5.91a1,1,0,0,0,.82,1.13c2.39.41,7.94,2.09,7.94,8.83,0,8-7.77,8.85-8,8.87H53v1.94Z" style="fill:#fff"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="39" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75"&gt;&lt;title&gt;AWS-CloudEndure-Disaster-Recovery_light-bg&lt;/title&gt;&lt;g id="Example"&gt;&lt;rect id="Green_Light_BG" data-name="Green Light BG" width="75" height="75" style="fill:#3f8624"/&gt;&lt;path id="_64x" data-name="64x" d="M35.06,62.67a1,1,0,0,1-.41-.09,1,1,0,0,1-.58-1.09L36.53,48H31.68a1,1,0,0,1-.86-.49,1,1,0,0,1,0-1l7.64-14a1,1,0,0,1,.88-.52h9.93a1,1,0,0,1,.85,1.53L44.8,42h4.43a1,1,0,0,1,.9.56,1,1,0,0,1-.1,1L35.85,62.27A1,1,0,0,1,35.06,62.67ZM33.37,46h4.35a1,1,0,0,1,.77.36,1,1,0,0,1,.22.82L36.79,57.73,47.22,44H43a1,1,0,0,1-.85-1.53L47.45,34H39.91Zm22,5.94c.1,0,9.93-.92,9.93-10.81,0-7.67-6-10-8.82-10.64-.43-3.66-2.35-6.31-5.23-7.15a6.43,6.43,0,0,0-6,1.29,16.63,16.63,0,0,0-3.42-5.08,14.6,14.6,0,0,0-16.51-3.29c-5,2.11-8.72,7.92-8.72,13.53,0,.32,0,.65,0,1A10.17,10.17,0,0,0,9.25,41.05c0,.36,0,.72,0,1.06.49,6.24,3.73,9.83,8.9,9.83H29V50H18.19c-5.46,0-6.67-5.07-6.9-8a8.77,8.77,0,0,1,0-.9,8.28,8.28,0,0,1,6.59-8.57h0a1,1,0,0,0,.79-1.1,13.82,13.82,0,0,1-.09-1.58c0-4.77,3.29-9.9,7.5-11.69A12.59,12.59,0,0,1,40.38,21a15.29,15.29,0,0,1,3.55,5.83,1,1,0,0,0,1.75.26,4.54,4.54,0,0,1,5-1.79c2.19.63,3.62,2.84,3.86,5.91a1,1,0,0,0,.82,1.13c2.39.41,7.94,2.09,7.94,8.83,0,8-7.77,8.85-8,8.87H52v1.94Z" style="fill:#fff"/&gt;&lt;/g&gt;&lt;g id="Working"&gt;&lt;rect width="75" height="75" style="fill:none"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="40" xml:space="preserve">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"&gt;
+    &lt;!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com --&gt;
+    &lt;title&gt;EFS-Standard_light-bg&lt;/title&gt;
+    &lt;desc&gt;Created with Sketch.&lt;/desc&gt;
+    &lt;g id="EFS-Standard_light-bg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"&gt;
+        &lt;g id="Group-7"&gt;
+            &lt;polygon id="Fill-1" fill="#3F8624" points="0 75 75 75 75 0 0 0"&gt;&lt;/polygon&gt;
+            &lt;g id="Group-6" transform="translate(13.000000, 12.000000)" fill="#FFFFFF"&gt;
+                &lt;path d="M36.4419,27.1055 L36.4419,13.5325 L46.4419,8.7965 L46.4419,22.0905 L36.4419,27.1055 Z M24.4419,48.3285 L24.4419,34.8485 C24.4669,34.8395 24.4959,34.8435 24.5209,34.8325 L34.4419,30.3915 L34.4419,43.3285 L24.4419,48.3285 Z M13.4419,29.9705 L22.4419,34.2335 L22.4419,48.0795 L13.4419,43.3425 L13.4419,29.9705 Z M2.4419,9.1085 L11.4419,13.3715 L11.4419,26.5895 L2.4419,22.0895 L2.4419,9.1085 Z M47.9079,6.4825 L36.6969,0.5825 C36.4139,0.4315 36.0749,0.4275 35.7879,0.5705 L27.6369,4.5965 L28.5239,6.3895 L36.2159,2.5885 L45.0549,7.2415 L35.9019,11.5765 L31.1179,9.4345 L30.3009,11.2605 L34.4419,13.1145 L34.4419,26.9945 L30.6079,25.0785 L29.7129,26.8675 L33.3539,28.6865 L24.1249,32.8185 L14.8999,28.4495 L18.3459,26.6355 L17.4149,24.8665 L13.4419,26.9565 L13.4419,13.2665 L18.7309,10.9005 L17.9149,9.0745 L12.3239,11.5765 L3.5169,7.4055 L12.6679,2.5885 L21.1239,6.7655 L22.0079,4.9725 L13.0949,0.5705 C12.8079,0.4285 12.4699,0.4325 12.1869,0.5825 L0.9759,6.4825 C0.6479,6.6555 0.4419,6.9965 0.4419,7.3675 L0.4419,22.7085 C0.4419,23.0865 0.6559,23.4325 0.9949,23.6025 L11.4419,28.8265 L11.4419,29.0195 L11.4419,43.9465 C11.4419,44.3175 11.6479,44.6585 11.9759,44.8315 L23.1809,50.7285 C23.3269,50.8055 23.4869,50.8435 23.6469,50.8435 C23.7999,50.8435 23.9539,50.8085 24.0939,50.7385 L35.8889,44.8405 C36.2279,44.6705 36.4419,44.3255 36.4419,43.9465 L36.4419,29.3425 L47.8899,23.6015 C48.2279,23.4325 48.4419,23.0855 48.4419,22.7085 L48.4419,7.3675 C48.4419,6.9965 48.2359,6.6555 47.9079,6.4825 L47.9079,6.4825 Z" id="Fill-2"&gt;&lt;/path&gt;
+                &lt;path d="M27.8442,21.9062 C27.8442,23.3912 26.8192,24.6322 25.4422,24.9832 L25.4422,18.9632 C26.6922,19.4132 27.8442,20.3502 27.8442,21.9062 M21.4722,13.5342 C21.4722,12.2082 22.2872,11.0712 23.4422,10.5922 L23.4422,16.2992 C22.3722,15.7982 21.4722,14.9082 21.4722,13.5342 M19.4722,13.5342 C19.4722,15.8102 21.0292,17.6892 23.4422,18.4542 L23.4422,24.8492 C22.2872,24.3702 21.4722,23.2322 21.4722,21.9062 C21.4722,21.3532 21.0252,20.9062 20.4722,20.9062 C19.9192,20.9062 19.4722,21.3532 19.4722,21.9062 C19.4722,24.3442 21.1702,26.3832 23.4422,26.9332 L23.4422,29.0192 C23.4422,29.5722 23.8892,30.0192 24.4422,30.0192 C24.9942,30.0192 25.4422,29.5722 25.4422,29.0192 L25.4422,27.0132 C27.9282,26.6322 29.8442,24.4972 29.8442,21.9062 C29.8442,19.5002 28.0932,17.5532 25.4422,16.8842 L25.4422,10.4582 C26.8192,10.8092 27.8442,12.0502 27.8442,13.5342 C27.8442,14.0872 28.2912,14.5342 28.8442,14.5342 C29.3972,14.5342 29.8442,14.0872 29.8442,13.5342 C29.8442,10.9432 27.9282,8.8092 25.4422,8.4272 L25.4422,5.0192 C25.4422,4.4672 24.9942,4.0192 24.4422,4.0192 C23.8892,4.0192 23.4422,4.4672 23.4422,5.0192 L23.4422,8.5082 C21.1702,9.0582 19.4722,11.0952 19.4722,13.5342" id="Fill-4"&gt;&lt;/path&gt;
+            &lt;/g&gt;
+        &lt;/g&gt;
     &lt;/g&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="6">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="76.47 19.7 76.47 82.78 57.74 82.78 57.74 72.68 42.26 72.68 42.26 82.78 23.53 82.78 23.53 19.7 76.47 19.7" fill="#8c3123"/&gt;
-    &lt;polygon points="76.47 17.22 76.47 80.3 57.74 80.3 57.74 70.2 42.26 70.2 42.26 80.3 23.53 80.3 23.53 17.22 76.47 17.22" fill="#e05243"/&gt;
-    &lt;path d="M67.63,44.5a13.1,13.1,0,0,0-3.75-1.09c-.75-.08-2,1.36-2.75,1.43a10.7,10.7,0,0,0-8.64,6.06,10.88,10.88,0,0,0,.09,9.39c.24.49-6.52,1.46-6.14.94a10.65,10.65,0,0,0-8.09-16.92c-.18,0-1.37-1.56-1.56-1.56a7.16,7.16,0,0,0-4.19,1.16c-.31.17-.57,2.07-.86,2.27A10.7,10.7,0,0,0,37.79,65.7,10.11,10.11,0,0,0,43,64.3a11.49,11.49,0,0,0,1.9.1,33.6,33.6,0,0,0,10.5-.7,16.44,16.44,0,0,0,2.2,1.4A10.79,10.79,0,0,0,71.89,60a10.65,10.65,0,0,0-3.36-13.19C68,46.43,68.25,44.79,67.63,44.5ZM35,60.6l-1.5,1.2c-.8.7-3.34-1.92-3-2.6a2.17,2.17,0,0,1,.48-.6l1.5-1.3a2,2,0,0,1,2.8.3v.2A2,2,0,0,1,35,60.6ZM34,50.2l-.6-1.9a1.93,1.93,0,0,1,1.2-2.5l.2-.1a1.93,1.93,0,0,1,2.5,1.2l.6,1.9a1.93,1.93,0,0,1-1.2,2.5l-.2.1A1.93,1.93,0,0,1,34,50.2Zm3.7,6.3a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,37.69,56.5Zm5.5,1.2a1.92,1.92,0,0,1-1.9-2v-.2a1.92,1.92,0,0,1,2-1.9h2a1.92,1.92,0,0,1,1.9,2v.2a1.92,1.92,0,0,1-2,1.9Zm15.2-2.9V55a2,2,0,0,1-2.2,1.7l-1.9-.2a2,2,0,0,1-1.7-2.2v-.2a2,2,0,0,1,2.2-1.7l1.9.2A2,2,0,0,1,58.39,54.8ZM61,56.25a1.51,1.51,0,0,1,1.93-2.15,1.63,1.63,0,0,1,.72.89C63.74,55.35,61.11,56.49,61,56.25Zm1.63,6.85-.5-1.9a2,2,0,0,1,1.4-2.4h.2a2,2,0,0,1,2.4,1.4l.5,1.8C66.62,62.11,62.89,64.1,62.59,63.1Zm5.2-13.2-.9,1.8a1.89,1.89,0,0,1-2.6.9l-.2-.1a1.89,1.89,0,0,1-.9-2.6l.9-1.8a1.89,1.89,0,0,1,2.6-.9l.2.1A1.89,1.89,0,0,1,67.79,49.9Z" fill="#8c3123"/&gt;
-    &lt;path d="M66.79,43.32a10.79,10.79,0,0,0-14.3,5.1,10.94,10.94,0,0,0,.9,10.8,35.41,35.41,0,0,1-8.2,1,10.9,10.9,0,0,0,3.3-7.7,10.7,10.7,0,1,0-10.7,10.7,10.11,10.11,0,0,0,5.2-1.4,11.49,11.49,0,0,0,1.9.1,33.6,33.6,0,0,0,10.5-.7,16.44,16.44,0,0,0,2.2,1.4,10.79,10.79,0,0,0,14.3-5.1A10.63,10.63,0,0,0,66.79,43.32ZM35,58.12l-1.5,1.2a1.92,1.92,0,0,1-2.7-.3l-.1-.2a1.92,1.92,0,0,1,.3-2.7l1.5-1.3a2,2,0,0,1,2.8.3v.2A2,2,0,0,1,35,58.12Zm-1-10.4-.6-1.9a1.93,1.93,0,0,1,1.2-2.5l.2-.1a1.93,1.93,0,0,1,2.5,1.2l.6,1.9a1.93,1.93,0,0,1-1.2,2.5l-.2.1A1.93,1.93,0,0,1,34,47.72Zm3.7,6.3a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,37.69,54Zm5.5,1.2a1.92,1.92,0,0,1-1.9-2V53a1.92,1.92,0,0,1,2-1.9h2a1.92,1.92,0,0,1,1.9,2v.2a1.92,1.92,0,0,1-2,1.9Zm15.2-2.9v.2a2,2,0,0,1-2.2,1.7l-1.9-.2a2,2,0,0,1-1.7-2.2v-.2a2,2,0,0,1,2.2-1.7l1.9.2A2,2,0,0,1,58.39,52.32Zm3.2,2a1.5,1.5,0,0,1,1.3-2.7,1.63,1.63,0,0,1,.7,2A1.47,1.47,0,0,1,61.59,54.32Zm3.6,7.6L65,62a2,2,0,0,1-2.4-1.4l-.5-1.9a2,2,0,0,1,1.4-2.4h.2a2,2,0,0,1,2.4,1.4l.5,1.8A2,2,0,0,1,65.19,61.92Zm2.6-14.5-.9,1.8a1.89,1.89,0,0,1-2.6.9l-.2-.1a1.89,1.89,0,0,1-.9-2.6l.9-1.8a1.89,1.89,0,0,1,2.6-.9l.2.1A1.89,1.89,0,0,1,67.79,47.42Z" fill="#fff"/&gt;
-    &lt;g style="isolation: isolate"&gt;
-      &lt;path d="M40.89,33.67H39.16l-4-11.43h1.65L40,32.15h0l3.3-9.91H45Z" fill="#fff"/&gt;
+&lt;/svg&gt;</y:Resource>
+      <y:Resource id="41" xml:space="preserve">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"&gt;
+    &lt;!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com --&gt;
+    &lt;title&gt;EFS-Standard_primary&lt;/title&gt;
+    &lt;desc&gt;Created with Sketch.&lt;/desc&gt;
+    &lt;defs&gt;
+        &lt;linearGradient x1="-20.7106756%" y1="120.710676%" x2="120.710681%" y2="-20.7106807%" id="linearGradient-1"&gt;
+            &lt;stop stop-color="#1A660E" offset="0%"&gt;&lt;/stop&gt;
+            &lt;stop stop-color="#6BAE3D" offset="100%"&gt;&lt;/stop&gt;
+        &lt;/linearGradient&gt;
+    &lt;/defs&gt;
+    &lt;g id="EFS-Standard_primary" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"&gt;
+        &lt;g id="Group-8"&gt;
+            &lt;polygon id="Fill-1" fill="url(#linearGradient-1)" points="0 75 75 75 75 0 0 0"&gt;&lt;/polygon&gt;
+            &lt;g id="Group-7" transform="translate(13.000000, 12.000000)" fill="#FFFFFF"&gt;
+                &lt;path d="M36.4419,27.0859 L36.4419,13.5129 L46.4419,8.7769 L46.4419,22.0709 L36.4419,27.0859 Z M24.4419,48.3079 L24.4419,34.8279 C24.4669,34.8189 24.4959,34.8219 24.5209,34.8109 L34.4419,30.3709 L34.4419,43.3079 L24.4419,48.3079 Z M13.4419,29.9509 L22.4419,34.2129 L22.4419,48.0599 L13.4419,43.3229 L13.4419,29.9509 Z M2.4419,9.0889 L11.4419,13.3519 L11.4419,26.5699 L2.4419,22.0699 L2.4419,9.0889 Z M47.9079,6.4619 L36.6969,0.5619 C36.4139,0.4139 36.0749,0.4089 35.7879,0.5499 L27.6369,4.5769 L28.5239,6.3699 L36.2159,2.5689 L45.0549,7.2209 L35.9019,11.5559 L31.1179,9.4149 L30.3009,11.2399 L34.4419,13.0939 L34.4419,26.9749 L30.6079,25.0579 L29.7129,26.8469 L33.3539,28.6669 L24.1249,32.7969 L14.9009,28.4289 L18.3459,26.6159 L17.4149,24.8459 L13.4419,26.9369 L13.4419,13.2469 L18.7309,10.8799 L17.9149,9.0539 L12.3239,11.5559 L3.5169,7.3849 L12.6679,2.5689 L21.1229,6.7459 L22.0089,4.9529 L13.0959,0.5499 C12.8069,0.4079 12.4699,0.4139 12.1869,0.5619 L0.9759,6.4619 C0.6479,6.6349 0.4419,6.9759 0.4419,7.3469 L0.4419,22.6879 C0.4419,23.0669 0.6559,23.4129 0.9949,23.5829 L11.4419,28.8059 L11.4419,28.9999 L11.4419,43.9259 C11.4419,44.2969 11.6479,44.6379 11.9759,44.8109 L23.1809,50.7089 C23.3269,50.7849 23.4869,50.8239 23.6469,50.8239 C23.7999,50.8239 23.9539,50.7889 24.0939,50.7179 L35.8889,44.8209 C36.2279,44.6509 36.4419,44.3049 36.4419,43.9259 L36.4419,29.3229 L47.8899,23.5819 C48.2279,23.4119 48.4419,23.0659 48.4419,22.6879 L48.4419,7.3469 C48.4419,6.9759 48.2359,6.6349 47.9079,6.4619 L47.9079,6.4619 Z" id="Fill-3"&gt;&lt;/path&gt;
+                &lt;path d="M27.8442,21.8867 C27.8442,23.3717 26.8192,24.6117 25.4422,24.9637 L25.4422,18.9437 C26.6922,19.3927 27.8442,20.3307 27.8442,21.8867 M21.4722,13.5147 C21.4722,12.1887 22.2872,11.0517 23.4422,10.5727 L23.4422,16.2797 C22.3722,15.7787 21.4722,14.8877 21.4722,13.5147 M19.4722,13.5147 C19.4722,15.7917 21.0292,17.6707 23.4422,18.4337 L23.4422,24.8287 C22.2872,24.3497 21.4722,23.2127 21.4722,21.8867 C21.4722,21.3347 21.0252,20.8867 20.4722,20.8867 C19.9192,20.8867 19.4722,21.3347 19.4722,21.8867 C19.4722,24.3247 21.1702,26.3627 23.4422,26.9137 L23.4422,28.9997 C23.4422,29.5527 23.8892,29.9997 24.4422,29.9997 C24.9942,29.9997 25.4422,29.5527 25.4422,28.9997 L25.4422,26.9937 C27.9282,26.6117 29.8442,24.4777 29.8442,21.8867 C29.8442,19.4807 28.0932,17.5337 25.4422,16.8637 L25.4422,10.4377 C26.8192,10.7897 27.8442,12.0297 27.8442,13.5147 C27.8442,14.0667 28.2912,14.5147 28.8442,14.5147 C29.3972,14.5147 29.8442,14.0667 29.8442,13.5147 C29.8442,10.9237 27.9282,8.7897 25.4422,8.4077 L25.4422,4.9997 C25.4422,4.4477 24.9942,3.9997 24.4422,3.9997 C23.8892,3.9997 23.4422,4.4477 23.4422,4.9997 L23.4422,8.4877 C21.1702,9.0387 19.4722,11.0757 19.4722,13.5147" id="Fill-5"&gt;&lt;/path&gt;
+            &lt;/g&gt;
+        &lt;/g&gt;
     &lt;/g&gt;
-    &lt;g style="isolation: isolate"&gt;
-      &lt;path d="M49.8,23.53H46V22.25h9.14v1.28H51.32V33.67H49.8Z" fill="#fff"/&gt;
+&lt;/svg&gt;</y:Resource>
+      <y:Resource id="42" xml:space="preserve">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"&gt;
+    &lt;!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com --&gt;
+    &lt;title&gt;EFS-Standard_light-bg&lt;/title&gt;
+    &lt;desc&gt;Created with Sketch.&lt;/desc&gt;
+    &lt;g id="EFS-Standard_light-bg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"&gt;
+        &lt;g id="Group-17"&gt;
+            &lt;polygon id="Fill-1" fill="#3F8624" points="0 75 75 75 75 0 0 0"&gt;&lt;/polygon&gt;
+            &lt;g id="Group-16" transform="translate(11.000000, 11.000000)" fill="#FFFFFF"&gt;
+                &lt;path d="M41,30.3691 L41,18.6341 L49,14.8451 L49,26.1581 L41,30.3691 Z M31,48.7601 L31,37.1141 L39,33.5331 L39,44.7601 L31,48.7601 Z M21,33.6731 L29,37.4621 L29,48.9841 L21,44.7741 L21,33.6731 Z M10,14.7461 L18,18.5341 L18,30.1991 L10,26.1991 L10,14.7461 Z M18.839,9.3241 L27.119,13.4151 L19.274,16.9261 L11.443,13.2171 L18.839,9.3241 Z M29,14.7651 L29,26.1781 L20,30.9141 L20,18.7931 L29,14.7651 Z M39,30.4261 L31,26.4271 L31,15.1181 L39,18.6981 L39,30.4261 Z M29.616,35.5421 L22.188,32.0221 L29.755,28.0401 L37.606,31.9661 L29.616,35.5421 Z M40.242,9.4231 L47.601,13.2961 L39.936,16.9261 L32.128,13.4321 L40.242,9.4231 Z M50.466,12.5441 L40.723,7.4161 C40.439,7.2651 40.103,7.2621 39.813,7.4041 L29.59,12.4551 L29.61,12.4141 L19.268,7.3061 C18.981,7.1631 18.643,7.1681 18.359,7.3171 L8.534,12.4881 C8.206,12.6611 8,13.0021 8,13.3731 L8,26.8171 C8,27.1961 8.214,27.5421 8.553,27.7121 L18.895,32.8831 L19,32.6731 L19,45.3781 C19,45.7491 19.206,46.0901 19.534,46.2631 L29.277,51.3901 C29.423,51.4681 29.583,51.5061 29.743,51.5061 C29.896,51.5061 30.05,51.4711 30.19,51.4001 L30.993,50.9991 L31,50.9991 L31,50.9961 L40.447,46.2721 C40.786,46.1021 41,45.7571 41,45.3781 L41,32.6291 L50.466,27.6461 C50.794,27.4731 51,27.1331 51,26.7621 L51,13.4291 C51,13.0571 50.794,12.7171 50.466,12.5441 L50.466,12.5441 Z" id="Fill-2"&gt;&lt;/path&gt;
+                &lt;polygon id="Fill-4" points="17.189 4.2461 11.539 0.9491 10.531 2.6761 16.181 5.9731"&gt;&lt;/polygon&gt;
+                &lt;polygon id="Fill-6" points="12.5679 6.5869 7.2809 3.6629 6.3139 5.4129 11.5999 8.3369"&gt;&lt;/polygon&gt;
+                &lt;polygon id="Fill-8" points="8.4131 10.1523 2.1741 6.5623 1.1771 8.2973 7.4161 11.8863"&gt;&lt;/polygon&gt;
+                &lt;polygon id="Fill-10" points="5.4766 17.6318 6.4686 15.8958 3.5846 14.2468 2.5926 15.9838"&gt;&lt;/polygon&gt;
+                &lt;polygon id="Fill-12" points="3.3569 29.7959 11.3569 33.9829 12.2849 32.2109 4.2849 28.0249"&gt;&lt;/polygon&gt;
+                &lt;polygon id="Fill-14" points="6.7866 23.4268 1.6146 20.5048 0.6316 22.2468 5.8036 25.1688"&gt;&lt;/polygon&gt;
+            &lt;/g&gt;
+        &lt;/g&gt;
     &lt;/g&gt;
-    &lt;g style="isolation: isolate"&gt;
-      &lt;path d="M57.3,22.25h1.52V32.39h6v1.28H57.3Z" fill="#fff"/&gt;
+&lt;/svg&gt;</y:Resource>
+      <y:Resource id="43" xml:space="preserve">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"&gt;
+    &lt;!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com --&gt;
+    &lt;title&gt;EFS-Standard_primary&lt;/title&gt;
+    &lt;desc&gt;Created with Sketch.&lt;/desc&gt;
+    &lt;defs&gt;
+        &lt;linearGradient x1="-20.7106756%" y1="120.710676%" x2="120.710681%" y2="-20.7106807%" id="linearGradient-1"&gt;
+            &lt;stop stop-color="#1A660E" offset="0%"&gt;&lt;/stop&gt;
+            &lt;stop stop-color="#6BAE3D" offset="100%"&gt;&lt;/stop&gt;
+        &lt;/linearGradient&gt;
+    &lt;/defs&gt;
+    &lt;g id="EFS-Standard_primary" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"&gt;
+        &lt;g id="Group-18"&gt;
+            &lt;polygon id="Fill-1" fill="url(#linearGradient-1)" points="0 75 75 75 75 0 0 0"&gt;&lt;/polygon&gt;
+            &lt;g id="Group-17" transform="translate(11.000000, 11.000000)" fill="#FFFFFF"&gt;
+                &lt;path d="M41,30.3491 L41,18.6151 L49,14.8251 L49,26.1391 L41,30.3491 Z M31,48.7401 L31,37.0931 L39,33.5131 L39,44.7401 L31,48.7401 Z M21,33.6531 L29,37.4421 L29,48.9651 L21,44.7541 L21,33.6531 Z M10,14.7261 L18,18.5161 L18,30.1801 L10,26.1801 L10,14.7261 Z M18.839,9.3051 L27.119,13.3951 L19.274,16.9061 L11.444,13.1971 L18.839,9.3051 Z M29,14.7441 L29,26.1581 L20,30.8941 L20,18.7721 L29,14.7441 Z M39,30.4061 L31,26.4071 L31,15.0981 L39,18.6781 L39,30.4061 Z M29.616,35.5211 L22.188,32.0031 L29.755,28.0201 L37.606,31.9461 L29.616,35.5211 Z M40.242,9.4031 L47.6,13.2751 L39.936,16.9061 L32.128,13.4121 L40.242,9.4031 Z M50.466,12.5241 L40.723,7.3951 C40.439,7.2471 40.101,7.2421 39.813,7.3841 L29.591,12.4331 L29.61,12.3941 L19.268,7.2861 C18.981,7.1431 18.643,7.1481 18.359,7.2971 L8.534,12.4681 C8.206,12.6411 8,12.9821 8,13.3531 L8,26.7981 C8,27.1771 8.214,27.5231 8.553,27.6921 L18.895,32.8631 L19,32.6531 L19,45.3581 C19,45.7291 19.206,46.0701 19.534,46.2431 L29.277,51.3711 C29.423,51.4481 29.583,51.4861 29.743,51.4861 C29.896,51.4861 30.05,51.4511 30.19,51.3811 L30.952,51.0001 L31,51.0001 L31,50.9761 L40.447,46.2521 C40.786,46.0831 41,45.7371 41,45.3581 L41,32.6091 L50.466,27.6271 C50.794,27.4541 51,27.1131 51,26.7421 L51,13.4091 C51,13.0371 50.794,12.6971 50.466,12.5241 L50.466,12.5241 Z" id="Fill-3"&gt;&lt;/path&gt;
+                &lt;polygon id="Fill-5" points="17.189 4.2256 11.539 0.9296 10.531 2.6566 16.181 5.9536"&gt;&lt;/polygon&gt;
+                &lt;polygon id="Fill-7" points="12.5679 6.5674 7.2809 3.6434 6.3139 5.3934 11.5999 8.3174"&gt;&lt;/polygon&gt;
+                &lt;polygon id="Fill-9" points="8.4131 10.1333 2.1741 6.5433 1.1771 8.2763 7.4161 11.8663"&gt;&lt;/polygon&gt;
+                &lt;polygon id="Fill-11" points="5.4766 17.6118 6.4686 15.8758 3.5846 14.2278 2.5926 15.9638"&gt;&lt;/polygon&gt;
+                &lt;polygon id="Fill-13" points="3.3574 29.7769 11.3574 33.9629 12.2844 32.1909 4.2844 28.0049"&gt;&lt;/polygon&gt;
+                &lt;polygon id="Fill-15" points="6.7866 23.4072 1.6146 20.4852 0.6316 22.2262 5.8036 25.1482"&gt;&lt;/polygon&gt;
+            &lt;/g&gt;
+        &lt;/g&gt;
     &lt;/g&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="7">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="25.57 78.79 16.04 74.03 16.04 25.97 25.57 21.21 42.53 51.66 25.57 78.79" fill="#8c3123"/&gt;
-    &lt;polygon points="31.91 76.9 25.57 78.79 25.57 21.21 31.91 22.93 44.52 51.16 31.91 76.9" fill="#e05243"/&gt;
-    &lt;polygon points="49.99 69.19 79.62 76.19 82.54 29.75 44.52 30.91 49.99 69.19" fill="#8c3123"/&gt;
-    &lt;polygon points="51.76 36.15 58.34 37.28 79.62 34.29 59.13 20.12 51.95 29.57 51.76 36.15" fill="#5e1f18"/&gt;
-    &lt;polygon points="31.91 81.96 50 91 55.76 51.49 50 9 31.91 18.04 31.91 81.96" fill="#8c3123"/&gt;
-    &lt;polygon points="83.96 25.98 83.94 25.97 79.62 23.81 50 9 50 25.4 50 91 60.16 85.92 60.16 28.45 79.62 34.29 79.62 76.19 83.94 74.03 83.94 35.58 83.96 35.59 83.96 25.98" fill="#e05243"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="8">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="72.33 23.42 72.33 25.91 27.21 25.91 27.21 23.42 49.77 17.33 72.33 23.42" fill="#8c3123"/&gt;
-    &lt;rect x="26.6" y="31.41" width="46.79" height="51.59" fill="#8c3123"/&gt;
-    &lt;rect x="26.6" y="29.14" width="46.79" height="51.37" fill="#e05243"/&gt;
-    &lt;polygon points="65.96 17 34.07 17 27.21 23.42 27.7 23.42 72.33 23.42 65.96 17" fill="#e05243"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="9">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;rect x="24.99" y="31.41" width="23.4" height="51.59" fill="#8c3123"/&gt;
-    &lt;rect x="51.62" y="31.41" width="23.4" height="51.59" fill="#8c3123"/&gt;
-    &lt;polygon points="48.15 17.33 25.59 23.42 25.59 25.91 48.38 25.91 48.38 17.39 48.15 17.33" fill="#8c3123"/&gt;
-    &lt;polygon points="73.94 23.42 51.62 17.39 51.62 25.91 73.94 25.91 73.94 23.42" fill="#8c3123"/&gt;
-    &lt;polygon points="67.58 17 51.62 17 51.62 23.42 73.94 23.42 67.58 17" fill="#e05243"/&gt;
-    &lt;polygon points="32.45 17 25.59 23.42 26.09 23.42 48.38 23.42 48.38 17 32.45 17" fill="#e05243"/&gt;
-    &lt;rect x="24.99" y="29.14" width="23.4" height="51.37" fill="#e05243"/&gt;
-    &lt;rect x="51.62" y="29.14" width="23.4" height="51.37" fill="#e05243"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="10">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="72.33 23.42 72.33 25.91 27.21 25.91 27.21 23.42 49.77 17.33 72.33 23.42" fill="#8c3123"/&gt;
-    &lt;rect x="26.6" y="31.41" width="46.79" height="51.59" fill="#8c3123"/&gt;
-    &lt;rect x="26.6" y="29.14" width="46.79" height="51.37" fill="#e05243"/&gt;
-    &lt;polygon points="65.96 17 34.07 17 27.21 23.42 27.7 23.42 72.33 23.42 65.96 17" fill="#e05243"/&gt;
-    &lt;g&gt;
-      &lt;path d="M46.19,50.75a6.4,6.4,0,0,1,8.41.7l3.53-1.69v-2S52.78,45.67,50,45.67a61.42,61.42,0,0,0-7,.79v2Z" fill="#8c3123"/&gt;
-      &lt;path d="M56.36,55a6.26,6.26,0,0,1,.06.86c0,3.11-2.56,7.48-5.53,8.05v2a10.57,10.57,0,0,0,9.47-10.37,29.58,29.58,0,0,0-.51-4.22Z" fill="#8c3123"/&gt;
-      &lt;path d="M47.25,61.7v-2a1.77,1.77,0,0,1-1.33,0C44.84,59,43,57.37,43,56.16a8.76,8.76,0,0,1,0-2.25L43.87,52l-3.17-2.28a14.52,14.52,0,0,0-1,5.88,10.54,10.54,0,0,0,7.16,9.92Z" fill="#8c3123"/&gt;
-    &lt;/g&gt;
-    &lt;path d="M66.1,47.15l-.87-1.8-11,5.26a5.4,5.4,0,0,0-8.1-.67l-9.38-6.76L35.61,44.8,45,51.57A5.4,5.4,0,0,0,48.23,59l-1,11.2,2,.18,1-11.12a5.39,5.39,0,0,0,4.93-6.83Z" fill="#fff"/&gt;
-    &lt;g&gt;
-      &lt;path d="M46.19,48.75a6.4,6.4,0,0,1,8.41.7l3.53-1.69A10.14,10.14,0,0,0,43,46.46Z" fill="#fff"/&gt;
-      &lt;path d="M56.36,53a6.26,6.26,0,0,1,.06.86,6.41,6.41,0,0,1-5.2,6.29L50.88,64a10.12,10.12,0,0,0,9-12.59Z" fill="#fff"/&gt;
-      &lt;path d="M47.25,59.7a6.4,6.4,0,0,1-3.66-5.79,6.33,6.33,0,0,1,.29-1.9l-3.17-2.28a10.16,10.16,0,0,0,6.2,13.8Z" fill="#fff"/&gt;
-    &lt;/g&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="11">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="24.16 38.78 31.84 37.24 40.98 46.09 31.84 53.06 24.16 52.69 24.16 38.78" fill="#8c3123"/&gt;
-    &lt;polygon points="57.49 57.23 74.56 78.73 84.06 57.18 68.12 56.2 57.49 57.23" fill="#f2b0a9"/&gt;
-    &lt;polygon points="42.51 57.23 25.44 78.73 15.94 57.18 31.88 56.2 42.51 57.23" fill="#f2b0a9"/&gt;
-    &lt;polygon points="84.06 57.18 74.56 58.59 74.56 78.73 84.06 73.98 84.06 57.18" fill="#e05243"/&gt;
-    &lt;polygon points="43.82 38.82 31.84 37.24 31.84 53.06 43.82 52.7 43.82 38.82" fill="#e05243"/&gt;
-    &lt;polygon points="56.06 38.82 68.04 37.22 74.56 45.71 68.04 53.07 56.06 52.7 56.06 38.82" fill="#8c3123"/&gt;
-    &lt;polygon points="75.72 38.76 68.04 37.22 68.04 53.07 75.72 52.7 75.72 38.76" fill="#e05243"/&gt;
-    &lt;polygon points="37.71 36.06 50 33.6 59.02 45.14 50 53.94 37.71 53.34 37.71 36.06" fill="#8c3123"/&gt;
-    &lt;polygon points="60.1 28.45 49.94 30.82 39.78 28.45 50 9 60.1 28.45" fill="#5e1f18"/&gt;
-    &lt;polygon points="57.49 57.23 74.56 58.59 74.56 78.73 57.49 74.13 57.49 57.23" fill="#8c3123"/&gt;
-    &lt;polygon points="15.94 57.18 25.44 58.59 25.44 78.73 15.94 73.98 15.94 57.18" fill="#8c3123"/&gt;
-    &lt;polygon points="42.51 57.23 25.44 58.59 25.44 78.73 42.51 74.13 42.51 57.23" fill="#e05243"/&gt;
-    &lt;polygon points="68.04 59.56 50 57.85 31.96 59.56 50 91 68.04 59.56" fill="#f2b0a9"/&gt;
-    &lt;polygon points="68.04 59.56 50 62.25 50 91 68.04 81.99 68.04 59.56" fill="#e05243"/&gt;
-    &lt;polygon points="31.96 59.56 50 62.25 50 91 31.96 81.99 31.96 59.56" fill="#8c3123"/&gt;
-    &lt;polygon points="62.17 36.05 50 33.6 50 53.94 62.17 53.35 62.17 36.05" fill="#e05243"/&gt;
-    &lt;polygon points="60.1 14.08 50 9 50 25.4 60.1 28.45 60.1 14.08" fill="#e05243"/&gt;
-    &lt;polygon points="39.78 14.08 50 9 50 25.4 39.78 28.45 39.78 14.08" fill="#8c3123"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="12">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;circle cx="50" cy="51.24" r="18.76" fill="#8c3123"/&gt;
-    &lt;rect x="31.24" y="48.76" width="37.53" height="2.48" fill="#8c3123"/&gt;
-    &lt;circle cx="50" cy="48.76" r="18.76" fill="#e05243"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="13">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="21.51 23.25 16.03 25.98 16.03 74.02 21.51 76.75 34.38 50 21.51 23.25" fill="#8c3123"/&gt;
-    &lt;polygon points="50 69.84 78.49 76.75 83.22 50 78.49 23.25 50 30.14 50 69.84" fill="#8c3123"/&gt;
-    &lt;polygon points="78.49 23.25 83.97 25.98 83.97 74.02 78.49 76.75 78.49 23.25" fill="#e05243"/&gt;
-    &lt;polygon points="50 69.84 21.51 76.75 21.51 23.25 50 30.14 50 69.84" fill="#e05243"/&gt;
-    &lt;polygon points="50 91 61.74 51.63 50 9 37.58 15.21 37.58 84.79 50 91" fill="#8c3123"/&gt;
-    &lt;polygon points="50 91 50 9 62.42 15.21 62.42 84.79 50 91" fill="#e05243"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="14">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="76.47 19.7 76.47 82.78 57.74 82.78 57.74 72.68 42.26 72.68 42.26 82.78 23.53 82.78 23.53 19.7 76.47 19.7" fill="#8c3123"/&gt;
-    &lt;polygon points="76.47 17.22 76.47 80.3 57.74 80.3 57.74 70.2 42.26 70.2 42.26 80.3 23.53 80.3 23.53 17.22 76.47 17.22" fill="#e05243"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="15">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="21.54 23.23 16.08 25.96 16.08 73.93 21.54 76.66 34.94 49.94 21.54 23.23" fill="#8c3123"/&gt;
-    &lt;polygon points="50 69.76 21.54 76.65 21.54 23.23 50 30.12 63.45 50.02 50 69.76" fill="#e05243"/&gt;
-    &lt;polygon points="50 69.76 78.45 76.65 83.37 50.62 78.45 23.23 50 30.12 50 69.76" fill="#8c3123"/&gt;
-    &lt;polygon points="78.45 23.23 83.92 25.96 83.92 73.93 78.45 76.66 78.45 23.23" fill="#e05243"/&gt;
-    &lt;polygon points="37.59 58.78 50 60.37 59.84 50.02 50 39.68 37.59 41.24 37.59 58.78" fill="#8c3123"/&gt;
-    &lt;polygon points="62.41 32.75 50 35.01 37.59 32.75 50 9 62.41 32.75" fill="#5e1f18"/&gt;
-    &lt;polygon points="62.41 67.25 50 64.97 37.59 67.25 50 91 62.41 67.25" fill="#f2b0a9"/&gt;
-    &lt;polygon points="62.41 32.75 50 29.68 50 9 62.41 15.2 62.41 32.75" fill="#e05243"/&gt;
-    &lt;polygon points="37.59 32.75 50 29.68 50 9 37.59 15.2 37.59 32.75" fill="#8c3123"/&gt;
-    &lt;polygon points="50 91 62.41 84.8 62.41 67.25 50 70.32 50 91" fill="#e05243"/&gt;
-    &lt;polygon points="50 91 37.59 84.8 37.59 67.25 50 70.32 50 91" fill="#8c3123"/&gt;
-    &lt;polygon points="62.41 58.78 50 60.37 50 39.68 62.41 41.24 62.41 58.78" fill="#e05243"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="16">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;polygon points="50 45.56 74.43 28.41 83.97 45.2 60.88 46.15 50 45.56" fill="#5e1f18"/&gt;
-    &lt;polygon points="50 45.56 25.57 31.45 16.04 45.2 39.12 46.15 50 45.56" fill="#5e1f18"/&gt;
-    &lt;polygon points="50 54.44 25.57 73.49 16.04 54.8 39.12 53.85 50 54.44" fill="#f2b0a9"/&gt;
-    &lt;polygon points="50 54.44 74.43 73.49 83.97 54.8 60.88 53.85 50 54.44" fill="#f2b0a9"/&gt;
-    &lt;polygon points="74.43 44.24 83.97 45.2 83.97 25.98 74.43 28.41 74.43 44.24" fill="#e05243"/&gt;
-    &lt;polygon points="39.86 29.45 74.43 29.12 74.43 44.24 50 45.56 39.86 29.45" fill="#8c3123"/&gt;
-    &lt;polygon points="74.43 55.76 83.97 54.8 83.97 74.02 74.43 73.16 74.43 55.76" fill="#e05243"/&gt;
-    &lt;polygon points="41.38 70.26 74.43 67.31 74.43 55.76 50 54.44 41.38 70.26" fill="#8c3123"/&gt;
-    &lt;polygon points="50 29.12 21.49 29.31 25.57 44.24 50 45.56 50 29.12" fill="#e05243"/&gt;
-    &lt;polygon points="25.57 44.24 16.04 45.2 16.04 25.98 25.57 26.61 25.57 44.24" fill="#8c3123"/&gt;
-    &lt;polygon points="25.57 55.76 16.04 54.8 16.04 74.02 25.57 73.02 25.57 55.76" fill="#8c3123"/&gt;
-    &lt;polygon points="50 71.64 25.57 67.31 25.57 55.76 50 54.44 50 71.64" fill="#e05243"/&gt;
-    &lt;polygon points="64.35 39.91 50 37.77 36.44 50.52 50 62.37 64.35 60.2 64.35 39.91" fill="#e05243"/&gt;
-    &lt;polygon points="35.65 39.91 50 37.77 50 62.37 35.65 60.2 35.65 39.91" fill="#8c3123"/&gt;
-    &lt;polygon points="74.43 32.69 50 36.66 25.57 32.69 50 9 74.43 32.69" fill="#5e1f18"/&gt;
-    &lt;polygon points="74.43 67.31 50 63.34 25.57 67.31 50 91 74.43 67.31" fill="#f2b0a9"/&gt;
-    &lt;polygon points="83.97 64.41 50 74.6 50 91 83.97 74.02 83.97 64.41" fill="#e05243"/&gt;
-    &lt;polygon points="16.04 64.41 50 74.6 50 91 16.04 74.02 16.04 64.41" fill="#8c3123"/&gt;
-    &lt;polygon points="83.97 35.59 50 25.4 50 9 83.97 25.98 83.97 35.59" fill="#e05243"/&gt;
-    &lt;polygon points="16.04 35.59 50 25.4 50 9 16.04 25.98 16.04 35.59" fill="#8c3123"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
-      <y:Resource id="17">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"&gt;
-  &lt;title&gt;Storage&lt;/title&gt;
-  &lt;g&gt;
-    &lt;path d="M50,25.06,76.5,29v2.32c0,3.45-11.87,6.23-26.51,6.23s-26.5-2.78-26.5-6.23V28.8Z" fill="#8c3123"/&gt;
-    &lt;path d="M50,41.8c11.07,0,20.55-1.59,24.52-3.85l1.3-2.2.53-2v2.48l-8.67,37c0,2.3-7.91,4.15-17.67,4.15s-17.66-1.85-17.66-4.15l-8.67-37V33.8l2,4.23C29.66,40.25,39.05,41.8,50,41.8Z" fill="#8c3123"/&gt;
-    &lt;path d="M50,22.58c14.64,0,26.51,2.79,26.51,6.22S64.63,35,50,35,23.5,32.25,23.5,28.8,35.36,22.58,50,22.58Z" fill="#e05243"/&gt;
-    &lt;path d="M50,39.32c13.65,0,24.88-2.41,26.34-5.53l-8.67,37c0,2.3-7.91,4.15-17.67,4.15S32.33,73.1,32.33,70.8l-8.67-37C25.13,36.91,36.36,39.32,50,39.32Z" fill="#e05243"/&gt;
-    &lt;rect x="43.76" y="42.85" width="11.48" height="11.4" fill="#fff"/&gt;
-    &lt;ellipse cx="40.29" cy="63.9" rx="5.66" ry="5.62" fill="#fff"/&gt;
-    &lt;polygon points="64.09 69.26 52.75 69.26 58.42 58.78 64.09 69.26" fill="#fff" fill-rule="evenodd"/&gt;
-  &lt;/g&gt;
-&lt;/svg&gt;
-</y:Resource>
+&lt;/svg&gt;</y:Resource>
+      <y:Resource id="44" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"&gt;&lt;title&gt;Amazon-CodeGuru_Icon&lt;/title&gt;&lt;g id="Guides_Padding" data-name="Guides &amp;amp; Padding"&gt;&lt;path d="M42,20A18,18,0,0,1,27,37.73v-2a16,16,0,1,0-6,0v2A18,18,0,1,1,42,20ZM25,42.59V30H23V42.59l-3.29-3.3-1.42,1.42,5,5a1,1,0,0,0,1.42,0l5-5-1.42-1.42ZM19,16a1,1,0,0,1,1,1v6a1,1,0,0,1-1,1H13a1,1,0,0,1-1-1V17a1,1,0,0,1,1-1Zm-1,2H14v4h4Zm12.5,2A4.5,4.5,0,1,1,26,24.5,4.51,4.51,0,0,1,30.5,20Zm0,2A2.5,2.5,0,1,0,33,24.5,2.5,2.5,0,0,0,30.5,22Zm2.37-6.5a1,1,0,0,1,0,1A1,1,0,0,1,32,17H24a1,1,0,0,1-.86-.5,1,1,0,0,1,0-1l4-7a1,1,0,0,1,1.74,0ZM30.28,15,28,11l-2.28,4Z" style="fill:#6cae3e"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="45" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"&gt;&lt;title&gt;Multiple-Volume_Resource-Icon_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;path d="M6.8,6.12.38,14.62l31.43-.15L26.25,6.12ZM4.41,12.6,7.8,8.12H25.18l2.91,4.36ZM.69,43.88H31.55V15.7H.69Zm2-26.18H29.55V41.88H2.69ZM35.9,9.16l5.5,7.28-8.28,0v-2h4.24l-2.46-3.26H31.76l-1.34-2Zm6.88,7.14h2.81l-1.55-2H42.25l-1.55-2H45l4.58,6.07-6.84,0Zm-9.6,1.2h8V41.22h-8v-2h6V19.5h-6Zm9.64,1.93h6.59V38.62h-6.6v-2h4.6V21.43H42.82Z" style="fill:#3f8624"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="46" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{opacity:0.5;}.cls-2{fill:url(#Green_Gradient);}.cls-3{fill:#fff;}.cls-4{fill:none;}&lt;/style&gt;&lt;linearGradient id="Green_Gradient" x1="8.5" y1="90.5" x2="90.5" y2="8.5" gradientUnits="userSpaceOnUse"&gt;&lt;stop offset="0" stop-color="#1b660f"/&gt;&lt;stop offset="1" stop-color="#6cae3e"/&gt;&lt;/linearGradient&gt;&lt;/defs&gt;&lt;title&gt;Storage&lt;/title&gt;&lt;g id="Working"&gt;&lt;image class="cls-1" width="97" height="97" transform="translate(1 2)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAABhCAYAAADGBs+jAAAACXBIWXMAAAsSAAALEgHS3X78AAADRklEQVR4Xu2dy04bQRBFTzsYIhIU5bFASTb5//+KsggohIcCBncW1TVuxmM8kCzu4h6pZOjxbO6Z6h6vqtRamaKUUiYvmBdTd4Rdxust/BTQ/21eTm0F4eJR6IOE7slfTBRYxkvIsNcTNXTGweimRVtbdnWARbyEXsA9sOrqvq0DTULrghRwBBwDb1odsRFhCfOpbATcAtetbtr1+1LKutZasxNSwpIQ8AH42D5PCBGv8BkxlzwDHggBl8A5cNau55ZUgXowOguWwFvgE/AV+EyIOG7Xclsy+1kTW88NIeA78QDfEWJWwEMppTzVCZ+Bb8Ap0Q2HeEuaS25Fd0QX/GjrN8Av4DebLLe2ozwT3hIiToEvwDvgNZYwl5TwB7hoaxdErltn7K63ozycTwgB73l8Lpin6c8DiCf/mMcCBnoJeeguiLCXxBZ01Oo1ljCXlACR3SGR5ys2HTDkOO4E2IjohfRlCfvJ3wiZWZ/nVn5TEpLyRJn9zM7Nr5wCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUI8NSwu7qjzH6eld2UhJygmp8PXYEnDs4hZ29m9XluyeglpK0MfsVmgHNOU/XszXn0U2hviRxXPBYyyBh3Qj9T/oYY6JzzhD2PeT7jecyXRJ63RL7r/sspIW9KAVfESPOcqP0bTyZ/DlOTyc+JXHsRFbYljGfKQ5g8JuYJ+21qPlN5nrf/V/QSaq21lFK6m66An+0L18R08n4quTthP7nn57lwSQg4I/JNCdRa665OoN18wcRMeTOL8RZ/3WqrE0qtcUi3blgQgS+76mfKW8J88u0nRay6ugfWtYW/6+0ou2KBBfwLvYhxDQydMCxER2TgPgP+D/3vglpHoW9JGC6EDPMfGYef/AXAiw24l2MbQgAAAABJRU5ErkJggg=="/&gt;&lt;rect class="cls-2" x="8.5" y="8.5" width="82" height="82"/&gt;&lt;path class="cls-3" d="M89,10V89H10V10H89m3-3H7V92H92V7Z"/&gt;&lt;rect class="cls-4" width="100" height="100"/&gt;&lt;g id="ICONS_-_EDIT" data-name="ICONS - EDIT"&gt;&lt;path class="cls-3" d="M72,51H65V38.9a.37.37,0,0,0-.1-.3c0-.1-.1-.2-.2-.3h0l-14-13A.91.91,0,0,0,50,25H36a1,1,0,0,0-1,1V51H28a1,1,0,0,0-1,1V71.4A3.59,3.59,0,0,0,30.6,75H69.4A3.59,3.59,0,0,0,73,71.4h0V52A1,1,0,0,0,72,51ZM51,28.3,61.4,38H51ZM37,27H49V40H63V51H37ZM71,71.4A1.58,1.58,0,0,1,69.4,73H30.6A1.58,1.58,0,0,1,29,71.4h0V53H71Z"/&gt;&lt;rect class="cls-3" x="41" y="38" width="4" height="2"/&gt;&lt;rect class="cls-3" x="41" y="32" width="4" height="2"/&gt;&lt;rect class="cls-3" x="41" y="45" width="18" height="2"/&gt;&lt;path class="cls-3" d="M59,62.6A2.41,2.41,0,0,1,56.6,65H43.4A2.43,2.43,0,0,1,41,62.6h0V59.4A2.43,2.43,0,0,1,43.4,57H56.6A2.41,2.41,0,0,1,59,59.4ZM43,59.4v3.2a.4.4,0,0,0,.4.4H56.6a.4.4,0,0,0,.4-.4V59.4a.4.4,0,0,0-.4-.4H43.4A.4.4,0,0,0,43,59.4Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="47" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{opacity:0.5;}.cls-2{fill:#3f8624;}.cls-3{fill:#fff;}.cls-4{fill:none;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;Storage_light-bg&lt;/title&gt;&lt;g id="Working"&gt;&lt;image class="cls-1" width="97" height="97" transform="translate(1 2)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAABhCAYAAADGBs+jAAAACXBIWXMAAAsSAAALEgHS3X78AAADRklEQVR4Xu2dy04bQRBFTzsYIhIU5bFASTb5//+KsggohIcCBncW1TVuxmM8kCzu4h6pZOjxbO6Z6h6vqtRamaKUUiYvmBdTd4Rdxust/BTQ/21eTm0F4eJR6IOE7slfTBRYxkvIsNcTNXTGweimRVtbdnWARbyEXsA9sOrqvq0DTULrghRwBBwDb1odsRFhCfOpbATcAtetbtr1+1LKutZasxNSwpIQ8AH42D5PCBGv8BkxlzwDHggBl8A5cNau55ZUgXowOguWwFvgE/AV+EyIOG7Xclsy+1kTW88NIeA78QDfEWJWwEMppTzVCZ+Bb8Ap0Q2HeEuaS25Fd0QX/GjrN8Av4DebLLe2ozwT3hIiToEvwDvgNZYwl5TwB7hoaxdErltn7K63ozycTwgB73l8Lpin6c8DiCf/mMcCBnoJeeguiLCXxBZ01Oo1ljCXlACR3SGR5ys2HTDkOO4E2IjohfRlCfvJ3wiZWZ/nVn5TEpLyRJn9zM7Nr5wCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUIYAkCWIIAliCAJQhgCQJYggCWIIAlCGAJAliCAJYggCUI8NSwu7qjzH6eld2UhJygmp8PXYEnDs4hZ29m9XluyeglpK0MfsVmgHNOU/XszXn0U2hviRxXPBYyyBh3Qj9T/oYY6JzzhD2PeT7jecyXRJ63RL7r/sspIW9KAVfESPOcqP0bTyZ/DlOTyc+JXHsRFbYljGfKQ5g8JuYJ+21qPlN5nrf/V/QSaq21lFK6m66An+0L18R08n4quTthP7nn57lwSQg4I/JNCdRa665OoN18wcRMeTOL8RZ/3WqrE0qtcUi3blgQgS+76mfKW8J88u0nRay6ugfWtYW/6+0ou2KBBfwLvYhxDQydMCxER2TgPgP+D/3vglpHoW9JGC6EDPMfGYef/AXAiw24l2MbQgAAAABJRU5ErkJggg=="/&gt;&lt;rect class="cls-2" x="8.5" y="8.5" width="82" height="82"/&gt;&lt;path class="cls-3" d="M89,10V89H10V10H89m3-3H7V92H92V7Z"/&gt;&lt;rect class="cls-4" width="100" height="100"/&gt;&lt;g id="ICONS_-_EDIT" data-name="ICONS - EDIT"&gt;&lt;path class="cls-3" d="M72,51H65V38.9a.37.37,0,0,0-.1-.3c0-.1-.1-.2-.2-.3h0l-14-13A.91.91,0,0,0,50,25H36a1,1,0,0,0-1,1V51H28a1,1,0,0,0-1,1V71.4A3.59,3.59,0,0,0,30.6,75H69.4A3.59,3.59,0,0,0,73,71.4h0V52A1,1,0,0,0,72,51ZM51,28.3,61.4,38H51ZM37,27H49V40H63V51H37ZM71,71.4A1.58,1.58,0,0,1,69.4,73H30.6A1.58,1.58,0,0,1,29,71.4h0V53H71Z"/&gt;&lt;rect class="cls-3" x="41" y="38" width="4" height="2"/&gt;&lt;rect class="cls-3" x="41" y="32" width="4" height="2"/&gt;&lt;rect class="cls-3" x="41" y="45" width="18" height="2"/&gt;&lt;path class="cls-3" d="M59,62.6A2.41,2.41,0,0,1,56.6,65H43.4A2.43,2.43,0,0,1,41,62.6h0V59.4A2.43,2.43,0,0,1,43.4,57H56.6A2.41,2.41,0,0,1,59,59.4ZM43,59.4v3.2a.4.4,0,0,0,.4.4H56.6a.4.4,0,0,0,.4-.4V59.4a.4.4,0,0,0-.4-.4H43.4A.4.4,0,0,0,43,59.4Z"/&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
+      <y:Resource id="48" xml:space="preserve">&lt;svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"&gt;&lt;title&gt;Amazon-CodeGuru_Icon&lt;/title&gt;&lt;g id="Guides_Padding" data-name="Guides &amp;amp; Padding"&gt;&lt;path d="M20,17H14a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1h6a1,1,0,0,0,1-1V18A1,1,0,0,0,20,17Zm-1,6H15V19h4Zm10.5-2A4.5,4.5,0,1,0,34,25.5,4.51,4.51,0,0,0,29.5,21Zm0,7A2.5,2.5,0,1,1,32,25.5,2.5,2.5,0,0,1,29.5,28ZM28.87,9.5a1,1,0,0,0-1.74,0l-4,7a1,1,0,0,0,0,1A1,1,0,0,0,24,18h8a1,1,0,0,0,.86-.5,1,1,0,0,0,0-1ZM25.72,16,28,12l2.28,4ZM39,8V23c0,8.48-4.33,13.73-12,14.79v-2C35.16,34.56,37,28.33,37,23V8.71L24,4.06,11,8.71V23c0,5.33,1.84,11.56,10,12.77v2C13.33,36.73,9,31.48,9,23V8a1,1,0,0,1,.66-.94l14-5a1,1,0,0,1,.68,0l14,5A1,1,0,0,1,39,8ZM28.29,39.29l1.42,1.42-5,5a1,1,0,0,1-1.42,0l-5-5,1.42-1.42L23,42.59V30h2V42.59Z" style="fill:#6cae3e"/&gt;&lt;/g&gt;&lt;/svg&gt;</y:Resource>
     </y:Resources>
   </data>
 </graphml>
