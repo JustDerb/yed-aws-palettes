@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
   <!-- Created by yEd AWS Simple Icons Generator (https://github.com/JustDerb/yed-aws-palettes) -->
+  <!-- AWS Simple Icon Version: {{{asi-version}}} -->
+  <!-- AWS Simple Icon URL: {{{asi-url}}} -->
   <key for="port" id="d0" yfiles.type="portgraphics"/>
   <key for="port" id="d1" yfiles.type="portgeometry"/>
   <key for="port" id="d2" yfiles.type="portuserdata"/>
@@ -16,14 +18,13 @@
   <key attr.name="description" attr.type="string" for="edge" id="d12"/>
   <key for="edge" id="d13" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
-    {{#nodes}}
-    <node id="{{id}}">
-      <data key="d3"><![CDATA[{{{name}}}]]></data>
-      <data key="d4"><![CDATA[{{{tooltip}}}]]></data>
-      <data key="d6"><![CDATA[{{{filename}}}]]></data>
+    {{#nodes}}<node id="{{id}}">
+      <data key="d3" xml:space="preserve"><![CDATA[{{{uuid}}}]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[{{{tooltip}}}]]></data>
+      <data key="d6" xml:space="preserve"><![CDATA[{{{filename}}}]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="{{height}}" width="{{width}}" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -31,20 +32,17 @@
               hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center"
               iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000"
               verticalTextPosition="bottom" visible="true" width="4" x="0" y="0">{{{textName}}}</y:NodeLabel>
-          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGNodeProperties usingVisualBounds="false"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="{{resourceId}}"/>
           </y:SVGModel>
         </y:SVGNode>
       </data>
-    </node>
-    {{/nodes}}
+    </node>{{/nodes}}
   </graph>
   <data key="d8">
     <y:Resources>
-      {{#resources}}
-      <y:Resource id="{{id}}">{{{encodedContent}}}</y:Resource>
-      {{/resources}}
+      {{#resources}}<y:Resource id="{{id}}" xml:space="preserve">{{encodedContent}}</y:Resource>{{/resources}}
     </y:Resources>
   </data>
 </graphml>
