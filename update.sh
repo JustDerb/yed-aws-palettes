@@ -64,9 +64,12 @@ find "${ICON_DIR}/SVG Light/" -mindepth 1 -type d | sort | while read section; d
       "${section}/"*.svg
 done
 
+echo "ASI_version=${ICON_VERSION}" > "${DIR}/metadata.config"
+echo "ASI_url=${URL}" >> "${DIR}/metadata.config"
+
 if [[ -n "${COMMIT}" ]]; then
-  pushd "${DIR}"
-  git add *.graphml
+  git add "${DIR}/"*.graphml
+  git add "${DIR}/metadata.config"
   git commit -m "Updating .graphml files to version ${ICON_VERSION}"
   echo "git: Updating .graphml files to version ${ICON_VERSION}"
 fi
