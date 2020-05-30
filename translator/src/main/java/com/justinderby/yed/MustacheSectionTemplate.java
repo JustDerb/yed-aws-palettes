@@ -11,6 +11,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.Reader;
 import java.io.Writer;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -34,7 +35,8 @@ public class MustacheSectionTemplate {
 
     private Map<String, String> transformToNodes(Icon icon, int id, int resourceId) {
         Map<String, String> node = new HashMap<>();
-        node.put("uuid", UUID.randomUUID().toString());
+        // Generate consistent UUIDs based on the icon name
+        node.put("uuid", UUID.nameUUIDFromBytes(icon.getName().getBytes(StandardCharsets.UTF_8)).toString());
         node.put("tooltip", icon.getName());
         node.put("filename", icon.getName());
         node.put("id", String.valueOf(id));

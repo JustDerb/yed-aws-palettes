@@ -1,22 +1,11 @@
 package com.justinderby.yed;
 
-import org.apache.batik.swing.JSVGCanvas;
-import org.apache.batik.swing.svg.GVTTreeBuilderAdapter;
-import org.apache.batik.swing.svg.GVTTreeBuilderEvent;
-import org.apache.batik.swing.svg.JSVGComponent;
 import org.kohsuke.args4j.Argument;
 import org.kohsuke.args4j.CmdLineException;
 import org.kohsuke.args4j.CmdLineParser;
 import org.kohsuke.args4j.Option;
 import org.kohsuke.args4j.OptionHandlerFilter;
 
-import javax.swing.JFrame;
-import javax.swing.border.Border;
-import javax.swing.border.LineBorder;
-import java.awt.BorderLayout;
-import java.awt.Color;
-import java.awt.Dimension;
-import java.awt.geom.Dimension2D;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
