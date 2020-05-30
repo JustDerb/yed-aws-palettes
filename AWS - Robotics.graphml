@@ -19,7 +19,7 @@
   <key for="edge" id="d13" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
 <node id="0">
-      <data key="d3" xml:space="preserve"><![CDATA[cf0d736a-bfc7-4392-a8ad-3299b165b1b1]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[0da98bf5-bcb8-3c5f-a6b9-7a46dfbd0850]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS RoboMaker Cloud Extension ROS]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS RoboMaker Cloud Extension ROS]]></data>
       <data key="d7">
@@ -39,7 +39,7 @@
         </y:SVGNode>
       </data>
     </node><node id="1">
-      <data key="d3" xml:space="preserve"><![CDATA[c1883762-3358-4c70-a346-a95906537e40]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[dbd2df35-773a-3429-9ba0-19923e6003d9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS RoboMaker Development Environment]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS RoboMaker Development Environment]]></data>
       <data key="d7">
@@ -59,7 +59,7 @@
         </y:SVGNode>
       </data>
     </node><node id="2">
-      <data key="d3" xml:space="preserve"><![CDATA[cd84083d-3b7b-4be4-b4c4-5dcc161ae313]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[9786a667-8912-3918-bf81-16b9c35ac3d6]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS RoboMaker Fleet Management]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS RoboMaker Fleet Management]]></data>
       <data key="d7">
@@ -79,7 +79,7 @@
         </y:SVGNode>
       </data>
     </node><node id="3">
-      <data key="d3" xml:space="preserve"><![CDATA[d4da3446-e382-4e9e-8f8d-8acc5c4550c1]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[b06118aa-fe69-378c-bf33-e3fe886a30ca]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS RoboMaker]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS RoboMaker]]></data>
       <data key="d7">
@@ -99,7 +99,7 @@
         </y:SVGNode>
       </data>
     </node><node id="4">
-      <data key="d3" xml:space="preserve"><![CDATA[cef26581-5d1d-4286-897f-2bf77e857c20]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[a25de2fd-e149-350b-a20a-0501031696ea]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS RoboMaker Simulation]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS RoboMaker Simulation]]></data>
       <data key="d7">
@@ -119,7 +119,7 @@
         </y:SVGNode>
       </data>
     </node><node id="5">
-      <data key="d3" xml:space="preserve"><![CDATA[31a294e3-9640-440f-9c2c-a9f82ec3d0aa]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[b06118aa-fe69-378c-bf33-e3fe886a30ca]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS RoboMaker]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS RoboMaker]]></data>
       <data key="d7">
@@ -139,7 +139,7 @@
         </y:SVGNode>
       </data>
     </node><node id="6">
-      <data key="d3" xml:space="preserve"><![CDATA[59c22e89-8bfb-42ef-b309-4a254f1d9d28]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[c98c1972-7b6a-3b8f-8f6b-4bf5ded39488]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Robotics]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Robotics]]></data>
       <data key="d7">
@@ -159,7 +159,7 @@
         </y:SVGNode>
       </data>
     </node><node id="7">
-      <data key="d3" xml:space="preserve"><![CDATA[4fcb9928-a4a9-4468-bd5c-60b4b9f672bc]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[c98c1972-7b6a-3b8f-8f6b-4bf5ded39488]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Robotics]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Robotics]]></data>
       <data key="d7">

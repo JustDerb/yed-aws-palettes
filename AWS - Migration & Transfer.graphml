@@ -19,7 +19,7 @@
   <key for="edge" id="d13" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
 <node id="0">
-      <data key="d3" xml:space="preserve"><![CDATA[1871ac88-bd5a-41b3-84f3-0d14ed78b1ae]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[b59a3e47-d727-3ea4-b24d-91b7c8b07c2e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Application Discovery Service]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Application Discovery Service]]></data>
       <data key="d7">
@@ -39,7 +39,7 @@
         </y:SVGNode>
       </data>
     </node><node id="1">
-      <data key="d3" xml:space="preserve"><![CDATA[c94a2a7b-0d65-4b62-8db7-b1ae7e75a3e8]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[b59a3e47-d727-3ea4-b24d-91b7c8b07c2e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Application Discovery Service]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Application Discovery Service]]></data>
       <data key="d7">
@@ -59,7 +59,7 @@
         </y:SVGNode>
       </data>
     </node><node id="2">
-      <data key="d3" xml:space="preserve"><![CDATA[c957e7db-8ccd-484c-9e56-479818989edf]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[e30020a3-e07c-3d84-a925-df2ca76a2af5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Database Migration Service]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Database Migration Service]]></data>
       <data key="d7">
@@ -79,7 +79,7 @@
         </y:SVGNode>
       </data>
     </node><node id="3">
-      <data key="d3" xml:space="preserve"><![CDATA[e8621462-f438-4141-9f8c-902467f1f45d]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[e30020a3-e07c-3d84-a925-df2ca76a2af5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Database Migration Service]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Database Migration Service]]></data>
       <data key="d7">
@@ -99,7 +99,7 @@
         </y:SVGNode>
       </data>
     </node><node id="4">
-      <data key="d3" xml:space="preserve"><![CDATA[12bcf6a7-3233-42b5-a7e7-d42598378667]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[87d2495a-930b-3df9-955b-70530045a8ec]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS DataSync Agent]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS DataSync Agent]]></data>
       <data key="d7">
@@ -119,7 +119,7 @@
         </y:SVGNode>
       </data>
     </node><node id="5">
-      <data key="d3" xml:space="preserve"><![CDATA[31a00db0-faba-4c7f-8bb4-5cc380421e9b]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[2ef7d986-fded-3e3b-9462-ca838c4ef7bd]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS DataSync]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS DataSync]]></data>
       <data key="d7">
@@ -139,7 +139,7 @@
         </y:SVGNode>
       </data>
     </node><node id="6">
-      <data key="d3" xml:space="preserve"><![CDATA[41c67587-46f6-4210-b6c5-f420723a6dd5]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[2ef7d986-fded-3e3b-9462-ca838c4ef7bd]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS DataSync]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS DataSync]]></data>
       <data key="d7">
@@ -159,7 +159,7 @@
         </y:SVGNode>
       </data>
     </node><node id="7">
-      <data key="d3" xml:space="preserve"><![CDATA[7cac3e5c-af10-44e6-9dbe-4ffc0cae8a0b]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[2d7d177a-fd8a-3304-ba18-4effc922586a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Migration Hub]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Migration Hub]]></data>
       <data key="d7">
@@ -179,7 +179,7 @@
         </y:SVGNode>
       </data>
     </node><node id="8">
-      <data key="d3" xml:space="preserve"><![CDATA[2db704f0-2f75-4f19-9ec1-6501a8ca7662]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[2d7d177a-fd8a-3304-ba18-4effc922586a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Migration Hub]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Migration Hub]]></data>
       <data key="d7">
@@ -199,7 +199,7 @@
         </y:SVGNode>
       </data>
     </node><node id="9">
-      <data key="d3" xml:space="preserve"><![CDATA[92427c94-493e-4b0a-b561-344f9b6188a0]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[75fe7732-8968-3374-a73e-38127bdc5ef4]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Server Migration Service]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Server Migration Service]]></data>
       <data key="d7">
@@ -219,7 +219,7 @@
         </y:SVGNode>
       </data>
     </node><node id="10">
-      <data key="d3" xml:space="preserve"><![CDATA[f7af2a9f-e8b6-4912-b079-e7ce8d916e59]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[75fe7732-8968-3374-a73e-38127bdc5ef4]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Server Migration Service]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Server Migration Service]]></data>
       <data key="d7">
@@ -239,7 +239,7 @@
         </y:SVGNode>
       </data>
     </node><node id="11">
-      <data key="d3" xml:space="preserve"><![CDATA[5beece3c-69ef-46a4-b261-d3d299a9b531]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[0d9da8d9-32c0-312c-90d8-19af40de0ba8]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Snowball Edge]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Snowball Edge]]></data>
       <data key="d7">
@@ -259,7 +259,7 @@
         </y:SVGNode>
       </data>
     </node><node id="12">
-      <data key="d3" xml:space="preserve"><![CDATA[bcc11e41-0aa6-484e-a617-410dcd9e5b8a]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[0d9da8d9-32c0-312c-90d8-19af40de0ba8]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Snowball Edge]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Snowball Edge]]></data>
       <data key="d7">
@@ -279,7 +279,7 @@
         </y:SVGNode>
       </data>
     </node><node id="13">
-      <data key="d3" xml:space="preserve"><![CDATA[3c65569b-13d5-411f-b71e-3cf5e9ecf55d]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[c2d838ea-2b90-33be-a161-255da328dc60]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Snowball]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Snowball]]></data>
       <data key="d7">
@@ -299,7 +299,7 @@
         </y:SVGNode>
       </data>
     </node><node id="14">
-      <data key="d3" xml:space="preserve"><![CDATA[ddf50ecc-3ac7-42da-bcf1-e37f87f73903]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[c2d838ea-2b90-33be-a161-255da328dc60]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Snowball]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Snowball]]></data>
       <data key="d7">
@@ -319,7 +319,7 @@
         </y:SVGNode>
       </data>
     </node><node id="15">
-      <data key="d3" xml:space="preserve"><![CDATA[3ea4d641-7aa9-4365-8654-976bd65fb874]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[6d2cef71-437a-3d77-80c4-1e7dce4cda65]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Snowmobile]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Snowmobile]]></data>
       <data key="d7">
@@ -339,7 +339,7 @@
         </y:SVGNode>
       </data>
     </node><node id="16">
-      <data key="d3" xml:space="preserve"><![CDATA[6b6c26ba-332f-41f6-ae7c-aba35f39d549]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[6d2cef71-437a-3d77-80c4-1e7dce4cda65]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Snowmobile]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Snowmobile]]></data>
       <data key="d7">
@@ -359,7 +359,7 @@
         </y:SVGNode>
       </data>
     </node><node id="17">
-      <data key="d3" xml:space="preserve"><![CDATA[7bd9e00b-0f79-4eed-858a-ccff7b2ec4d4]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[b87efaec-b1e2-39a2-a4eb-a912cdf6dab9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Transfer Family]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Transfer Family]]></data>
       <data key="d7">
@@ -379,7 +379,7 @@
         </y:SVGNode>
       </data>
     </node><node id="18">
-      <data key="d3" xml:space="preserve"><![CDATA[bac2041e-edd5-4b2a-b270-c0333c251216]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[b87efaec-b1e2-39a2-a4eb-a912cdf6dab9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Transfer Family]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Transfer Family]]></data>
       <data key="d7">
@@ -399,7 +399,7 @@
         </y:SVGNode>
       </data>
     </node><node id="19">
-      <data key="d3" xml:space="preserve"><![CDATA[25803cc5-81ab-4ecd-ba78-f6365396a986]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[7b5b9b48-89bb-3f3a-ba19-b3ddd550cec6]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Transfer for FTP Resource Icon]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Transfer for FTP Resource Icon]]></data>
       <data key="d7">
@@ -419,7 +419,7 @@
         </y:SVGNode>
       </data>
     </node><node id="20">
-      <data key="d3" xml:space="preserve"><![CDATA[48f4abbb-94ca-47f9-a996-7ddfcd3f0435]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[fe69ddb3-c049-3748-919e-0efab6a87f2b]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Transfer for FTPS Resource Icon]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Transfer for FTPS Resource Icon]]></data>
       <data key="d7">
@@ -439,7 +439,7 @@
         </y:SVGNode>
       </data>
     </node><node id="21">
-      <data key="d3" xml:space="preserve"><![CDATA[981b069e-a31e-4072-83b5-5418512e9c53]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[af2a339a-87a8-3f58-b54e-f7626555b88e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Transfer for SFTP Resource Icon]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Transfer for SFTP Resource Icon]]></data>
       <data key="d7">
@@ -459,7 +459,7 @@
         </y:SVGNode>
       </data>
     </node><node id="22">
-      <data key="d3" xml:space="preserve"><![CDATA[50e37994-73e0-439e-8b1e-79cfa0968125]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[a752c5f3-e29f-308f-a87c-f03090ea7335]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[CloudEndure Migration]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[CloudEndure Migration]]></data>
       <data key="d7">
@@ -479,7 +479,7 @@
         </y:SVGNode>
       </data>
     </node><node id="23">
-      <data key="d3" xml:space="preserve"><![CDATA[bc913ca7-d35f-4e5a-8415-44ed60e75db5]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[a752c5f3-e29f-308f-a87c-f03090ea7335]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[CloudEndure Migration]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[CloudEndure Migration]]></data>
       <data key="d7">
@@ -499,7 +499,7 @@
         </y:SVGNode>
       </data>
     </node><node id="24">
-      <data key="d3" xml:space="preserve"><![CDATA[6e94ce53-9acc-475b-80d4-5bd39e219137]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[e9a86c35-4aaf-36a2-a678-148d3d2b9817]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Migration and Transfer]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Migration and Transfer]]></data>
       <data key="d7">
@@ -519,7 +519,7 @@
         </y:SVGNode>
       </data>
     </node><node id="25">
-      <data key="d3" xml:space="preserve"><![CDATA[4ab2964d-0255-4bb9-b4b6-e0f0389693c9]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[e9a86c35-4aaf-36a2-a678-148d3d2b9817]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Migration and Transfer]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Migration and Transfer]]></data>
       <data key="d7">

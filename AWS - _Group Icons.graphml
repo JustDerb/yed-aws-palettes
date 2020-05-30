@@ -19,7 +19,7 @@
   <key for="edge" id="d13" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
 <node id="0">
-      <data key="d3" xml:space="preserve"><![CDATA[0cf9fe65-130a-4f20-bcc5-ad8046eb57a0]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[afd14eb3-f151-384e-aef7-ab63812b4fbc]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Auto Scaling]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Auto Scaling]]></data>
       <data key="d7">
@@ -39,7 +39,7 @@
         </y:SVGNode>
       </data>
     </node><node id="1">
-      <data key="d3" xml:space="preserve"><![CDATA[155e828c-0526-4e7c-b8ba-ca10ef5b967f]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[294efe4c-bd44-3828-b324-7f04e4c7c806]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Cloud alt]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Cloud alt]]></data>
       <data key="d7">
@@ -59,7 +59,7 @@
         </y:SVGNode>
       </data>
     </node><node id="2">
-      <data key="d3" xml:space="preserve"><![CDATA[3031007d-dd09-4adf-b09c-dea2ebe2d40c]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[7971b657-56ed-3daa-bdb3-7d67874e0dbb]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Cloud]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Cloud]]></data>
       <data key="d7">
@@ -79,7 +79,7 @@
         </y:SVGNode>
       </data>
     </node><node id="3">
-      <data key="d3" xml:space="preserve"><![CDATA[fec218f0-0af4-42c6-97c0-d2b8e4e07578]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[bb2bdc39-bd4a-3654-8c90-83220dfccff1]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Step Function]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Step Function]]></data>
       <data key="d7">
@@ -99,7 +99,7 @@
         </y:SVGNode>
       </data>
     </node><node id="4">
-      <data key="d3" xml:space="preserve"><![CDATA[74c79aaf-0143-46a7-9642-02762af359cb]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[0f85db11-7f01-326a-828c-42c6b1f6c859]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Corporate data center]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Corporate data center]]></data>
       <data key="d7">
@@ -119,7 +119,7 @@
         </y:SVGNode>
       </data>
     </node><node id="5">
-      <data key="d3" xml:space="preserve"><![CDATA[afddc879-917e-4b59-b936-b357f1849f7d]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[aa967ab1-a4e7-3a1f-ad4d-701582a18b8d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[EC2 instance container]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[EC2 instance container]]></data>
       <data key="d7">
@@ -139,7 +139,7 @@
         </y:SVGNode>
       </data>
     </node><node id="6">
-      <data key="d3" xml:space="preserve"><![CDATA[ce61bca2-9946-48bf-80cb-e7f06d1ac7cf]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[8bf0403d-4ea8-3c1c-8228-7eae79ea2e72]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Elastic Beanstalk container]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Elastic Beanstalk container]]></data>
       <data key="d7">
@@ -159,7 +159,7 @@
         </y:SVGNode>
       </data>
     </node><node id="7">
-      <data key="d3" xml:space="preserve"><![CDATA[a5c6de64-f4dd-4d08-be40-241ff749ef4c]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[f447ac85-6e7e-3243-9904-956e3b15f433]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Region]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Region]]></data>
       <data key="d7">
@@ -179,7 +179,7 @@
         </y:SVGNode>
       </data>
     </node><node id="8">
-      <data key="d3" xml:space="preserve"><![CDATA[59f26fde-2deb-42af-aa06-37212ab68a22]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[629fec78-d854-3dae-886d-7db34be84c24]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Server contents]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Server contents]]></data>
       <data key="d7">
@@ -199,7 +199,7 @@
         </y:SVGNode>
       </data>
     </node><node id="9">
-      <data key="d3" xml:space="preserve"><![CDATA[7a05463f-3fa5-427b-83b9-4d345b788368]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[8a0e2c84-d4c2-3d41-b8b8-920cb3b5d7b5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Spot fleet]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Spot fleet]]></data>
       <data key="d7">
@@ -219,7 +219,7 @@
         </y:SVGNode>
       </data>
     </node><node id="10">
-      <data key="d3" xml:space="preserve"><![CDATA[5f08ec85-f084-4026-ac52-dc401c30a8e7]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[4d6650bd-1da4-35e0-90a2-200d48c0143e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Virtual private cloud VPC]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Virtual private cloud VPC]]></data>
       <data key="d7">
@@ -239,7 +239,7 @@
         </y:SVGNode>
       </data>
     </node><node id="11">
-      <data key="d3" xml:space="preserve"><![CDATA[ae1ed6c4-5377-4d9e-8cc6-2384ad0a23ef]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[135c1d8a-8a7c-3289-bce5-ab00f647c41d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[VPC subnet private]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[VPC subnet private]]></data>
       <data key="d7">
@@ -259,7 +259,7 @@
         </y:SVGNode>
       </data>
     </node><node id="12">
-      <data key="d3" xml:space="preserve"><![CDATA[42422a19-1d53-489d-9cba-cec499ed39b5]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[24e1d34f-25da-32c3-b94e-e70519ebc614]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[VPC subnet public]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[VPC subnet public]]></data>
       <data key="d7">

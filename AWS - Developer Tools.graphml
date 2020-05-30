@@ -19,7 +19,7 @@
   <key for="edge" id="d13" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
 <node id="0">
-      <data key="d3" xml:space="preserve"><![CDATA[c5117b38-374c-40c9-8a65-f02d126bd4e0]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[af3e5a12-e3ed-31a7-8376-ef5d487363da]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon DynamoDB DAX]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon DynamoDB DAX]]></data>
       <data key="d7">
@@ -39,7 +39,7 @@
         </y:SVGNode>
       </data>
     </node><node id="1">
-      <data key="d3" xml:space="preserve"><![CDATA[039034e6-735b-41a4-a728-06841ec2aa73]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[3ace8755-f194-34ed-9c62-a7c021c2f09c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Cloud9]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Cloud9]]></data>
       <data key="d7">
@@ -59,7 +59,7 @@
         </y:SVGNode>
       </data>
     </node><node id="2">
-      <data key="d3" xml:space="preserve"><![CDATA[fbf92fde-6c70-46d6-9d52-2d48e3317d92]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[3ace8755-f194-34ed-9c62-a7c021c2f09c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Cloud9]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Cloud9]]></data>
       <data key="d7">
@@ -79,7 +79,7 @@
         </y:SVGNode>
       </data>
     </node><node id="3">
-      <data key="d3" xml:space="preserve"><![CDATA[a108dee7-d2f2-4987-b214-6cb52476926f]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[d5164c42-c512-39be-ad9a-7a91f239f8ee]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Cloud Development Kit]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Cloud Development Kit]]></data>
       <data key="d7">
@@ -99,7 +99,7 @@
         </y:SVGNode>
       </data>
     </node><node id="4">
-      <data key="d3" xml:space="preserve"><![CDATA[f04a8f49-d32f-4817-a8b6-8a16faff07a7]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[d5164c42-c512-39be-ad9a-7a91f239f8ee]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Cloud Development Kit]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Cloud Development Kit]]></data>
       <data key="d7">
@@ -119,7 +119,7 @@
         </y:SVGNode>
       </data>
     </node><node id="5">
-      <data key="d3" xml:space="preserve"><![CDATA[18aaab2a-6cfc-4549-a8b1-dfec9d2630a0]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[ff02d3f0-7f94-3ff5-aa3b-dd045211b9e2]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS CodeBuild]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS CodeBuild]]></data>
       <data key="d7">
@@ -139,7 +139,7 @@
         </y:SVGNode>
       </data>
     </node><node id="6">
-      <data key="d3" xml:space="preserve"><![CDATA[e7ad01c2-d9b6-48cb-a408-fee67f26ff49]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[ff02d3f0-7f94-3ff5-aa3b-dd045211b9e2]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS CodeBuild]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS CodeBuild]]></data>
       <data key="d7">
@@ -159,7 +159,7 @@
         </y:SVGNode>
       </data>
     </node><node id="7">
-      <data key="d3" xml:space="preserve"><![CDATA[944614fc-1d6e-4980-a382-9d5b7c2687ec]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[0e8e73fd-3243-3296-9d4b-8e65def913f6]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS CodeCommit]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS CodeCommit]]></data>
       <data key="d7">
@@ -179,7 +179,7 @@
         </y:SVGNode>
       </data>
     </node><node id="8">
-      <data key="d3" xml:space="preserve"><![CDATA[13b1daa9-8d9b-4cc2-a7b5-f671133b9709]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[0e8e73fd-3243-3296-9d4b-8e65def913f6]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS CodeCommit]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS CodeCommit]]></data>
       <data key="d7">
@@ -199,7 +199,7 @@
         </y:SVGNode>
       </data>
     </node><node id="9">
-      <data key="d3" xml:space="preserve"><![CDATA[88dafcf1-5708-47ad-8b90-dce37070066c]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[7be6a0f1-73a9-3581-8e92-c1df46c6626e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS CodeDeploy]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS CodeDeploy]]></data>
       <data key="d7">
@@ -219,7 +219,7 @@
         </y:SVGNode>
       </data>
     </node><node id="10">
-      <data key="d3" xml:space="preserve"><![CDATA[6791a69e-664f-41db-9951-b79718307f8a]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[7be6a0f1-73a9-3581-8e92-c1df46c6626e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS CodeDeploy]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS CodeDeploy]]></data>
       <data key="d7">
@@ -239,7 +239,7 @@
         </y:SVGNode>
       </data>
     </node><node id="11">
-      <data key="d3" xml:space="preserve"><![CDATA[73f6e581-e7d8-49cd-995b-25403844b4ed]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[ebf976da-fc56-3e09-a501-509079ba441c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS CodePipeline]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS CodePipeline]]></data>
       <data key="d7">
@@ -259,7 +259,7 @@
         </y:SVGNode>
       </data>
     </node><node id="12">
-      <data key="d3" xml:space="preserve"><![CDATA[d77224ce-b95f-451c-9db9-c7a23c970bda]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[ebf976da-fc56-3e09-a501-509079ba441c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS CodePipeline]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS CodePipeline]]></data>
       <data key="d7">
@@ -279,7 +279,7 @@
         </y:SVGNode>
       </data>
     </node><node id="13">
-      <data key="d3" xml:space="preserve"><![CDATA[8911c748-5de6-4e0c-922b-ecbf557cb95d]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[7340eef1-6f5b-3c74-8215-59ea54a6acdf]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS CodeStar]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS CodeStar]]></data>
       <data key="d7">
@@ -299,7 +299,7 @@
         </y:SVGNode>
       </data>
     </node><node id="14">
-      <data key="d3" xml:space="preserve"><![CDATA[be317183-7b4e-488e-9950-66120d4ae1fa]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[7340eef1-6f5b-3c74-8215-59ea54a6acdf]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS CodeStar]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS CodeStar]]></data>
       <data key="d7">
@@ -319,7 +319,7 @@
         </y:SVGNode>
       </data>
     </node><node id="15">
-      <data key="d3" xml:space="preserve"><![CDATA[e801eeb3-fcd1-4839-8d5c-0cc329e96981]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[319675fc-c100-3953-ad9c-131fa6a74d18]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Command Line Interface]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Command Line Interface]]></data>
       <data key="d7">
@@ -339,7 +339,7 @@
         </y:SVGNode>
       </data>
     </node><node id="16">
-      <data key="d3" xml:space="preserve"><![CDATA[ded6c180-2408-48e4-b06a-bcab5ee04935]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[319675fc-c100-3953-ad9c-131fa6a74d18]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Command Line Interface]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Command Line Interface]]></data>
       <data key="d7">
@@ -359,7 +359,7 @@
         </y:SVGNode>
       </data>
     </node><node id="17">
-      <data key="d3" xml:space="preserve"><![CDATA[a7f452f6-9da6-46e0-89f2-8d931dbc1a46]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[76da9eec-a086-3c3e-9490-ec1b6ef207b1]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Tools And SDKs]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Tools And SDKs]]></data>
       <data key="d7">
@@ -379,7 +379,7 @@
         </y:SVGNode>
       </data>
     </node><node id="18">
-      <data key="d3" xml:space="preserve"><![CDATA[194a1559-2f7c-4a54-a8df-431562c0e089]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[76da9eec-a086-3c3e-9490-ec1b6ef207b1]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Tools And SDKs]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Tools And SDKs]]></data>
       <data key="d7">
@@ -399,7 +399,7 @@
         </y:SVGNode>
       </data>
     </node><node id="19">
-      <data key="d3" xml:space="preserve"><![CDATA[6a7af80b-7e56-4ab9-ad1a-56f8a8b211ce]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[743de4b1-c8de-3dbc-8274-28fba8322ced]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS X Ray]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS X Ray]]></data>
       <data key="d7">
@@ -419,7 +419,7 @@
         </y:SVGNode>
       </data>
     </node><node id="20">
-      <data key="d3" xml:space="preserve"><![CDATA[5c98fdd5-c47a-4827-9b8d-df58ac283121]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[743de4b1-c8de-3dbc-8274-28fba8322ced]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS X Ray]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS X Ray]]></data>
       <data key="d7">
@@ -439,7 +439,7 @@
         </y:SVGNode>
       </data>
     </node><node id="21">
-      <data key="d3" xml:space="preserve"><![CDATA[8bdbcb3c-cbff-4863-90b9-ba32ec8d48df]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[cd0af423-87d0-38b0-8c9d-f0581a6e2ae7]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Cloud9 Resource]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Cloud9 Resource]]></data>
       <data key="d7">
@@ -459,7 +459,7 @@
         </y:SVGNode>
       </data>
     </node><node id="22">
-      <data key="d3" xml:space="preserve"><![CDATA[2f9a7f74-8fc0-49ec-9d60-c402f5c57ef7]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[974d3fd5-5759-3379-bb24-f8a3694bd849]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Developer Tools]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Developer Tools]]></data>
       <data key="d7">
@@ -479,7 +479,7 @@
         </y:SVGNode>
       </data>
     </node><node id="23">
-      <data key="d3" xml:space="preserve"><![CDATA[1455a735-a397-4d97-a525-5b131c350ee6]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[974d3fd5-5759-3379-bb24-f8a3694bd849]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Developer Tools]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Developer Tools]]></data>
       <data key="d7">

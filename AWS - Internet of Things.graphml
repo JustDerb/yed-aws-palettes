@@ -19,7 +19,7 @@
   <key for="edge" id="d13" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
 <node id="0">
-      <data key="d3" xml:space="preserve"><![CDATA[67e462ac-95e9-49f0-a5f5-a3f2855fe5bf]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[e25ad3e0-304e-33ef-aa6a-ac582532e220]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon FreeRTOS]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon FreeRTOS]]></data>
       <data key="d7">
@@ -39,7 +39,7 @@
         </y:SVGNode>
       </data>
     </node><node id="1">
-      <data key="d3" xml:space="preserve"><![CDATA[4fba5566-be87-489c-8ce2-43bbbeae8efd]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[e25ad3e0-304e-33ef-aa6a-ac582532e220]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon FreeRTOS]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon FreeRTOS]]></data>
       <data key="d7">
@@ -59,7 +59,7 @@
         </y:SVGNode>
       </data>
     </node><node id="2">
-      <data key="d3" xml:space="preserve"><![CDATA[303b30bb-6023-4e77-8b9a-f867f85797e8]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[f3cfa850-f9d3-3c8e-ae47-24d56f2bd5f3]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT 1 Click]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT 1 Click]]></data>
       <data key="d7">
@@ -79,7 +79,7 @@
         </y:SVGNode>
       </data>
     </node><node id="3">
-      <data key="d3" xml:space="preserve"><![CDATA[d8caea43-06ea-4c1d-82a6-2bebe0687d95]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[f3cfa850-f9d3-3c8e-ae47-24d56f2bd5f3]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT 1 Click]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT 1 Click]]></data>
       <data key="d7">
@@ -99,7 +99,7 @@
         </y:SVGNode>
       </data>
     </node><node id="4">
-      <data key="d3" xml:space="preserve"><![CDATA[4aac3139-38c7-42df-a874-6827bf3f466c]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[16dea7a4-6194-395e-9902-46a38b2c3475]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Analytics Channel]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Analytics Channel]]></data>
       <data key="d7">
@@ -119,7 +119,7 @@
         </y:SVGNode>
       </data>
     </node><node id="5">
-      <data key="d3" xml:space="preserve"><![CDATA[5eb018f4-5e12-47c3-bf31-6c0c2eb5c144]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[790a4c4e-586c-3eae-97f7-5460119fbd32]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Analytics Data Set]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Analytics Data Set]]></data>
       <data key="d7">
@@ -139,7 +139,7 @@
         </y:SVGNode>
       </data>
     </node><node id="6">
-      <data key="d3" xml:space="preserve"><![CDATA[6702a68f-c24e-410e-ad79-10d71ba12ad3]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[b299d68d-fd7d-3817-968f-91fd79f809b4]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Analytics Data Store]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Analytics Data Store]]></data>
       <data key="d7">
@@ -159,7 +159,7 @@
         </y:SVGNode>
       </data>
     </node><node id="7">
-      <data key="d3" xml:space="preserve"><![CDATA[5a6b395c-cba7-4d44-8a2b-e8e383aab6d6]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[b7fd0342-bd62-3652-9e4c-f55f8d8b6675]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Analytics]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Analytics]]></data>
       <data key="d7">
@@ -179,7 +179,7 @@
         </y:SVGNode>
       </data>
     </node><node id="8">
-      <data key="d3" xml:space="preserve"><![CDATA[e505c564-abad-4328-9912-c87e17c40f6e]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[3f7c7992-98db-3f04-bb2d-ec75ee29f10c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Analytics Notebook]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Analytics Notebook]]></data>
       <data key="d7">
@@ -199,7 +199,7 @@
         </y:SVGNode>
       </data>
     </node><node id="9">
-      <data key="d3" xml:space="preserve"><![CDATA[66c5263a-2773-4127-8574-0adc161d4097]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[cb6d4829-8e03-3c47-9c7d-0ea77b5da9a3]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Analytics Pipeline]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Analytics Pipeline]]></data>
       <data key="d7">
@@ -219,7 +219,7 @@
         </y:SVGNode>
       </data>
     </node><node id="10">
-      <data key="d3" xml:space="preserve"><![CDATA[3e54360b-958d-4b76-854a-20c6a38ba11e]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[b7fd0342-bd62-3652-9e4c-f55f8d8b6675]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Analytics]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Analytics]]></data>
       <data key="d7">
@@ -239,7 +239,7 @@
         </y:SVGNode>
       </data>
     </node><node id="11">
-      <data key="d3" xml:space="preserve"><![CDATA[f1bcf793-5b70-4446-b376-e5d06424210f]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[aa3a5f67-e365-33ad-b4bf-4f05bae810f2]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Button]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Button]]></data>
       <data key="d7">
@@ -259,7 +259,7 @@
         </y:SVGNode>
       </data>
     </node><node id="12">
-      <data key="d3" xml:space="preserve"><![CDATA[29801a50-e8c8-4be8-b4a1-0d1aa9c7d2fd]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[aa3a5f67-e365-33ad-b4bf-4f05bae810f2]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Button]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Button]]></data>
       <data key="d7">
@@ -279,7 +279,7 @@
         </y:SVGNode>
       </data>
     </node><node id="13">
-      <data key="d3" xml:space="preserve"><![CDATA[662ddf81-c59c-4bc1-89a1-97075b363e75]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[4a0271e9-00b9-3065-9922-b486816447db]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Core]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Core]]></data>
       <data key="d7">
@@ -299,7 +299,7 @@
         </y:SVGNode>
       </data>
     </node><node id="14">
-      <data key="d3" xml:space="preserve"><![CDATA[07863811-b778-4a7b-be64-788734e17f04]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[4a0271e9-00b9-3065-9922-b486816447db]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Core]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Core]]></data>
       <data key="d7">
@@ -319,7 +319,7 @@
         </y:SVGNode>
       </data>
     </node><node id="15">
-      <data key="d3" xml:space="preserve"><![CDATA[f36b5caa-8f5c-477e-bb21-d48c75089572]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[2fb1493d-8836-3565-8ba0-711981c45c90]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Device Defender]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Device Defender]]></data>
       <data key="d7">
@@ -339,7 +339,7 @@
         </y:SVGNode>
       </data>
     </node><node id="16">
-      <data key="d3" xml:space="preserve"><![CDATA[c9240699-b836-4908-b7e6-0c0010386e2a]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[2fb1493d-8836-3565-8ba0-711981c45c90]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Device Defender]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Device Defender]]></data>
       <data key="d7">
@@ -359,7 +359,7 @@
         </y:SVGNode>
       </data>
     </node><node id="17">
-      <data key="d3" xml:space="preserve"><![CDATA[335ddcbf-cd70-458e-b57d-c49094f5965b]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[5fa50048-2e52-3f99-ab6c-84ad23810601]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Device Management]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Device Management]]></data>
       <data key="d7">
@@ -379,7 +379,7 @@
         </y:SVGNode>
       </data>
     </node><node id="18">
-      <data key="d3" xml:space="preserve"><![CDATA[4ac1fe51-edfb-4366-8ed0-dfb7f128e6ad]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[5fa50048-2e52-3f99-ab6c-84ad23810601]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Device Management]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Device Management]]></data>
       <data key="d7">
@@ -399,7 +399,7 @@
         </y:SVGNode>
       </data>
     </node><node id="19">
-      <data key="d3" xml:space="preserve"><![CDATA[8e4aa19a-9a08-4111-9025-efe6c59b1bbf]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[21e3ce66-8e57-3342-a284-3027bdc83969]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Events]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Events]]></data>
       <data key="d7">
@@ -419,7 +419,7 @@
         </y:SVGNode>
       </data>
     </node><node id="20">
-      <data key="d3" xml:space="preserve"><![CDATA[eb27a072-3c75-4df1-9325-d1caa3122027]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[21e3ce66-8e57-3342-a284-3027bdc83969]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Events]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Events]]></data>
       <data key="d7">
@@ -439,7 +439,7 @@
         </y:SVGNode>
       </data>
     </node><node id="21">
-      <data key="d3" xml:space="preserve"><![CDATA[306b9cef-f519-4fe5-ab8e-518242f83494]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[c2b46b1d-853b-335c-8b67-70d8b39862d0]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Greengrass Connector]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Greengrass Connector]]></data>
       <data key="d7">
@@ -459,7 +459,7 @@
         </y:SVGNode>
       </data>
     </node><node id="22">
-      <data key="d3" xml:space="preserve"><![CDATA[e56e3355-14a9-4171-84ef-258ef0c308a9]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[bf4cd575-af10-39f9-969d-651b0efa21bf]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Greengrass]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Greengrass]]></data>
       <data key="d7">
@@ -479,7 +479,7 @@
         </y:SVGNode>
       </data>
     </node><node id="23">
-      <data key="d3" xml:space="preserve"><![CDATA[7ac4800b-ec7b-4c05-b949-3210760219bd]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[bf4cd575-af10-39f9-969d-651b0efa21bf]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Greengrass]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Greengrass]]></data>
       <data key="d7">
@@ -499,7 +499,7 @@
         </y:SVGNode>
       </data>
     </node><node id="24">
-      <data key="d3" xml:space="preserve"><![CDATA[71ed8848-22aa-42f6-bf06-79d8fb006142]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[aabfc6f6-2772-340f-bfa9-1e4c113a0328]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT SiteWise]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT SiteWise]]></data>
       <data key="d7">
@@ -519,7 +519,7 @@
         </y:SVGNode>
       </data>
     </node><node id="25">
-      <data key="d3" xml:space="preserve"><![CDATA[65991724-a3a7-4d40-9dcc-3f7127d8227f]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[aabfc6f6-2772-340f-bfa9-1e4c113a0328]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT SiteWise]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT SiteWise]]></data>
       <data key="d7">
@@ -539,7 +539,7 @@
         </y:SVGNode>
       </data>
     </node><node id="26">
-      <data key="d3" xml:space="preserve"><![CDATA[2292196c-cc29-419d-bb13-6d33cd2968eb]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[d8fc6397-8770-30a5-a609-bfa908c7c8ac]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Things Graph]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Things Graph]]></data>
       <data key="d7">
@@ -559,7 +559,7 @@
         </y:SVGNode>
       </data>
     </node><node id="27">
-      <data key="d3" xml:space="preserve"><![CDATA[19d51cb2-74b6-4042-83ee-d70f2911e55a]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[d8fc6397-8770-30a5-a609-bfa908c7c8ac]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS IoT Things Graph]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS IoT Things Graph]]></data>
       <data key="d7">
@@ -579,7 +579,7 @@
         </y:SVGNode>
       </data>
     </node><node id="28">
-      <data key="d3" xml:space="preserve"><![CDATA[3a07bd5e-f59a-4d84-b521-bd6b11e444ad]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[cc0b6e54-16ee-3cc9-a562-5207b5fb8241]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Internet of Things]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Internet of Things]]></data>
       <data key="d7">
@@ -599,7 +599,7 @@
         </y:SVGNode>
       </data>
     </node><node id="29">
-      <data key="d3" xml:space="preserve"><![CDATA[a9838f74-5ee9-4688-8b72-04d488708fb5]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[cc0b6e54-16ee-3cc9-a562-5207b5fb8241]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Internet of Things]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Internet of Things]]></data>
       <data key="d7">
@@ -619,7 +619,7 @@
         </y:SVGNode>
       </data>
     </node><node id="30">
-      <data key="d3" xml:space="preserve"><![CDATA[ad7dd0df-72cb-4f19-aa38-544891e63549]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[61da4e04-6ebf-35f5-b884-e349aaa5dfca]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Action]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Action]]></data>
       <data key="d7">
@@ -639,7 +639,7 @@
         </y:SVGNode>
       </data>
     </node><node id="31">
-      <data key="d3" xml:space="preserve"><![CDATA[a12910ce-5393-46d7-8d54-d6968dc78033]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[3ce8e7c1-4e91-34f9-b882-98fdf1903b8c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Actuator]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Actuator]]></data>
       <data key="d7">
@@ -659,7 +659,7 @@
         </y:SVGNode>
       </data>
     </node><node id="32">
-      <data key="d3" xml:space="preserve"><![CDATA[d70ebac7-4846-4072-85e2-48ae446861c9]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[ab725be6-dc7f-39bc-af42-a74a06cce955]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Alexa enabled device]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Alexa enabled device]]></data>
       <data key="d7">
@@ -679,7 +679,7 @@
         </y:SVGNode>
       </data>
     </node><node id="33">
-      <data key="d3" xml:space="preserve"><![CDATA[e830f594-cb42-44ef-bba6-a0341f71466b]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[af261d93-16f7-3bcd-a746-db3ddb45b626]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Alexa skill]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Alexa skill]]></data>
       <data key="d7">
@@ -699,7 +699,7 @@
         </y:SVGNode>
       </data>
     </node><node id="34">
-      <data key="d3" xml:space="preserve"><![CDATA[77f5d629-1e53-42be-82e5-8b97e893758e]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[8db6aef3-42e6-3ae2-9baf-55284d214b32]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Alexa voice service]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Alexa voice service]]></data>
       <data key="d7">
@@ -719,7 +719,7 @@
         </y:SVGNode>
       </data>
     </node><node id="35">
-      <data key="d3" xml:space="preserve"><![CDATA[d5bf5e63-adf0-467a-acd5-ba4df82918e9]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[2d1e087e-61e1-3f1b-9c9e-89a1f436eba7]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Bank]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Bank]]></data>
       <data key="d7">
@@ -739,7 +739,7 @@
         </y:SVGNode>
       </data>
     </node><node id="36">
-      <data key="d3" xml:space="preserve"><![CDATA[8f04fec9-7f2b-41fc-959b-54580376df28]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[03e474a7-d246-335a-a735-0304a6684489]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Bicycle]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Bicycle]]></data>
       <data key="d7">
@@ -759,7 +759,7 @@
         </y:SVGNode>
       </data>
     </node><node id="37">
-      <data key="d3" xml:space="preserve"><![CDATA[97b1f65c-5a84-4558-b30f-e094daad1dd3]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[02745cc8-9d34-3052-9b7b-df2a5d3bd758]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Camera]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Camera]]></data>
       <data key="d7">
@@ -779,7 +779,7 @@
         </y:SVGNode>
       </data>
     </node><node id="38">
-      <data key="d3" xml:space="preserve"><![CDATA[e095ccd9-5399-4681-80ce-776b1063e065]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[15e61d97-1815-3db0-9d29-cff6f652a44f]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Car]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Car]]></data>
       <data key="d7">
@@ -799,7 +799,7 @@
         </y:SVGNode>
       </data>
     </node><node id="39">
-      <data key="d3" xml:space="preserve"><![CDATA[ec557525-128f-4907-8c35-28ca5b541f7c]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[4007a387-ed2f-3b12-b002-ac4a4c306a56]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Cart]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Cart]]></data>
       <data key="d7">
@@ -819,7 +819,7 @@
         </y:SVGNode>
       </data>
     </node><node id="40">
-      <data key="d3" xml:space="preserve"><![CDATA[307cdde1-ccfc-4011-aa8b-8f2183426d13]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[14042a5b-21a3-3730-aeb2-c6725d2bd9fa]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Certificate manager]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Certificate manager]]></data>
       <data key="d7">
@@ -839,7 +839,7 @@
         </y:SVGNode>
       </data>
     </node><node id="41">
-      <data key="d3" xml:space="preserve"><![CDATA[b6a48aea-8e2d-47e0-967d-51e4659073bb]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[7d66b71f-4d10-330c-a310-945f310604dd]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Coffee pot]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Coffee pot]]></data>
       <data key="d7">
@@ -859,7 +859,7 @@
         </y:SVGNode>
       </data>
     </node><node id="42">
-      <data key="d3" xml:space="preserve"><![CDATA[6db92139-24e7-4a4e-91a4-e9e1db61a1a3]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[ec128ea5-4405-3834-bc4b-bfaa8fbf5a8e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Desired state]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Desired state]]></data>
       <data key="d7">
@@ -879,7 +879,7 @@
         </y:SVGNode>
       </data>
     </node><node id="43">
-      <data key="d3" xml:space="preserve"><![CDATA[4959bdea-3e1e-4fa8-9602-116f0ca94421]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[df730dd6-54a4-3e09-bedb-fc73876d76ea]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Device gateway]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Device gateway]]></data>
       <data key="d7">
@@ -899,7 +899,7 @@
         </y:SVGNode>
       </data>
     </node><node id="44">
-      <data key="d3" xml:space="preserve"><![CDATA[eea5fc13-e38e-4d85-a12a-7d73b79b8cfa]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[ae76a746-8a97-39d4-a1db-7d225ded8d62]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Device Jobs Resource]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Device Jobs Resource]]></data>
       <data key="d7">
@@ -919,7 +919,7 @@
         </y:SVGNode>
       </data>
     </node><node id="45">
-      <data key="d3" xml:space="preserve"><![CDATA[56e2de77-3696-4f41-bac4-575415434920]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[1fdf265a-3cb3-3483-ae16-9c2c737a0895]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Door lock]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Door lock]]></data>
       <data key="d7">
@@ -939,7 +939,7 @@
         </y:SVGNode>
       </data>
     </node><node id="46">
-      <data key="d3" xml:space="preserve"><![CDATA[b9906b8c-84c1-41c0-afcb-3722739d68ee]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[eddbbbc5-51b6-3fba-982f-6a53ac5b6655]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Echo]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Echo]]></data>
       <data key="d7">
@@ -959,7 +959,7 @@
         </y:SVGNode>
       </data>
     </node><node id="47">
-      <data key="d3" xml:space="preserve"><![CDATA[e54c0858-7d6d-479e-a7c9-6bf6ccd5ad81]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[3c14a921-9b81-39cf-bb80-5a5a29fd4f38]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Factory]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Factory]]></data>
       <data key="d7">
@@ -979,7 +979,7 @@
         </y:SVGNode>
       </data>
     </node><node id="48">
-      <data key="d3" xml:space="preserve"><![CDATA[c2213459-a793-40fc-8102-534ec95f47ff]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[e04c707a-f059-334f-ae71-572249fd5f76]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Fire TV]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Fire TV]]></data>
       <data key="d7">
@@ -999,7 +999,7 @@
         </y:SVGNode>
       </data>
     </node><node id="49">
-      <data key="d3" xml:space="preserve"><![CDATA[18d909a8-1b89-4296-9bec-6a429b315075]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[51a285ca-ddc3-3ddf-8c2d-8e6950571ff6]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Fire TV stick]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Fire TV stick]]></data>
       <data key="d7">
@@ -1019,7 +1019,7 @@
         </y:SVGNode>
       </data>
     </node><node id="50">
-      <data key="d3" xml:space="preserve"><![CDATA[55a2d56d-c93e-4559-ae7b-cb867a37976a]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[47c5620b-bbbd-321f-a89b-1ab845746a68]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Generic]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Generic]]></data>
       <data key="d7">
@@ -1039,7 +1039,7 @@
         </y:SVGNode>
       </data>
     </node><node id="51">
-      <data key="d3" xml:space="preserve"><![CDATA[23c06d02-7bc0-4e6d-a41a-d24bdad4c185]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[6fab559a-1b37-3038-a936-3e417fb310a5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Hardware board]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Hardware board]]></data>
       <data key="d7">
@@ -1059,7 +1059,7 @@
         </y:SVGNode>
       </data>
     </node><node id="52">
-      <data key="d3" xml:space="preserve"><![CDATA[b6cf35af-9bf6-4976-afcd-39952cb1285b]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[9cf1df95-6f89-3919-b33f-01e81aa26378]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT House]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT House]]></data>
       <data key="d7">
@@ -1079,7 +1079,7 @@
         </y:SVGNode>
       </data>
     </node><node id="53">
-      <data key="d3" xml:space="preserve"><![CDATA[4aedc44f-7502-4adb-8cbb-ce300a55d0bf]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[2d2113c7-84b1-3605-8962-e43028e3ef92]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT HTTP 2 protocol]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT HTTP 2 protocol]]></data>
       <data key="d7">
@@ -1099,7 +1099,7 @@
         </y:SVGNode>
       </data>
     </node><node id="54">
-      <data key="d3" xml:space="preserve"><![CDATA[18e77548-7ddf-45f4-a0a6-e2e712a6043f]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[74a94e05-b892-30f4-879f-8054fde8c379]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT HTTP protocol]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT HTTP protocol]]></data>
       <data key="d7">
@@ -1119,7 +1119,7 @@
         </y:SVGNode>
       </data>
     </node><node id="55">
-      <data key="d3" xml:space="preserve"><![CDATA[40fdcf4a-84f9-405f-bbd5-fdf8c9c923e5]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[d2508602-8a9f-3d7f-8d35-c0783ed407e0]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Lambda function]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Lambda function]]></data>
       <data key="d7">
@@ -1139,7 +1139,7 @@
         </y:SVGNode>
       </data>
     </node><node id="56">
-      <data key="d3" xml:space="preserve"><![CDATA[d2d7b2e1-6c4d-4fae-a21b-2533ba4b6312]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[39d23f8d-c685-3f54-bbc2-1245d0ad03a6]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Lightbulb]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Lightbulb]]></data>
       <data key="d7">
@@ -1159,7 +1159,7 @@
         </y:SVGNode>
       </data>
     </node><node id="57">
-      <data key="d3" xml:space="preserve"><![CDATA[d0e563a3-8e94-4a04-928b-245047ba6ed5]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[5e2bce81-81e8-3ade-97ee-780fee6b8eaa]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Medical emergency]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Medical emergency]]></data>
       <data key="d7">
@@ -1179,7 +1179,7 @@
         </y:SVGNode>
       </data>
     </node><node id="58">
-      <data key="d3" xml:space="preserve"><![CDATA[226770ff-8418-499a-b143-a1d18c394b77]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[d396b80a-187d-3a5a-a6dd-3a49145c3281]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT MQTT protocol]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT MQTT protocol]]></data>
       <data key="d7">
@@ -1199,7 +1199,7 @@
         </y:SVGNode>
       </data>
     </node><node id="59">
-      <data key="d3" xml:space="preserve"><![CDATA[9eb51a3c-c686-4250-86aa-195f1c08f77a]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[dbe7f3fe-b235-3b71-b360-ee0b064be72a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Over the air update]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Over the air update]]></data>
       <data key="d7">
@@ -1219,7 +1219,7 @@
         </y:SVGNode>
       </data>
     </node><node id="60">
-      <data key="d3" xml:space="preserve"><![CDATA[280fa323-3658-45e5-8263-dc838772b2cd]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[062c4f15-55ec-3b2a-b1cb-2d185c1e7133]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Police emergency]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Police emergency]]></data>
       <data key="d7">
@@ -1239,7 +1239,7 @@
         </y:SVGNode>
       </data>
     </node><node id="61">
-      <data key="d3" xml:space="preserve"><![CDATA[f093f475-4a53-4733-9b02-4e0d3367c29b]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[3f6d93fb-9e14-393e-b0e3-6196409fbdfd]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Policy]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Policy]]></data>
       <data key="d7">
@@ -1259,7 +1259,7 @@
         </y:SVGNode>
       </data>
     </node><node id="62">
-      <data key="d3" xml:space="preserve"><![CDATA[c23b08e5-2394-4952-886d-1bd9000c6f5e]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[398bab91-670f-3e11-ab7f-e8597d23820a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Reported state]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Reported state]]></data>
       <data key="d7">
@@ -1279,7 +1279,7 @@
         </y:SVGNode>
       </data>
     </node><node id="63">
-      <data key="d3" xml:space="preserve"><![CDATA[f6cd2b19-413c-4e22-a3e0-45b6253cefaf]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[427e247e-1de2-3bf8-a01e-99f815b97662]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Rule]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Rule]]></data>
       <data key="d7">
@@ -1299,7 +1299,7 @@
         </y:SVGNode>
       </data>
     </node><node id="64">
-      <data key="d3" xml:space="preserve"><![CDATA[ac1b6925-1a53-4a7b-b26f-ea350dfc8f3b]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[b53fb7ef-da8b-3720-96d6-99a34e86e4a7]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Sensor]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Sensor]]></data>
       <data key="d7">
@@ -1319,7 +1319,7 @@
         </y:SVGNode>
       </data>
     </node><node id="65">
-      <data key="d3" xml:space="preserve"><![CDATA[96c95a06-8149-4e31-aad5-5811a8750615]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[8d57c658-f198-3b63-8a12-9a95a9897932]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Servo]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Servo]]></data>
       <data key="d7">
@@ -1339,7 +1339,7 @@
         </y:SVGNode>
       </data>
     </node><node id="66">
-      <data key="d3" xml:space="preserve"><![CDATA[9d9af9ba-284d-4ab2-b731-3cac8c78427f]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[ef7c2de3-0449-3e94-a118-84e42bd20509]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Shadow]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Shadow]]></data>
       <data key="d7">
@@ -1359,7 +1359,7 @@
         </y:SVGNode>
       </data>
     </node><node id="67">
-      <data key="d3" xml:space="preserve"><![CDATA[5ae2993a-808f-4af1-a161-82cf830e6da6]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[b9a71d3d-05f5-338f-8ef7-de78296f7de1]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Simulator]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Simulator]]></data>
       <data key="d7">
@@ -1379,7 +1379,7 @@
         </y:SVGNode>
       </data>
     </node><node id="68">
-      <data key="d3" xml:space="preserve"><![CDATA[e6425835-18eb-47d1-bc38-994371da326b]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[a0ac6e7b-3d78-3e7e-96ab-a4f3a20ecfaf]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Thermostat]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Thermostat]]></data>
       <data key="d7">
@@ -1399,7 +1399,7 @@
         </y:SVGNode>
       </data>
     </node><node id="69">
-      <data key="d3" xml:space="preserve"><![CDATA[44777528-8b42-4434-9694-5d1e2f19f911]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[88541815-8de9-3a2e-9f73-a623a7f2390a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Topic]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Topic]]></data>
       <data key="d7">
@@ -1419,7 +1419,7 @@
         </y:SVGNode>
       </data>
     </node><node id="70">
-      <data key="d3" xml:space="preserve"><![CDATA[605e3909-f7bd-4e7a-97e1-6850067f5e82]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[bc7c08c4-54a2-3360-87a3-cb3cb05af613]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Travel]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Travel]]></data>
       <data key="d7">
@@ -1439,7 +1439,7 @@
         </y:SVGNode>
       </data>
     </node><node id="71">
-      <data key="d3" xml:space="preserve"><![CDATA[7d90049e-040f-46cf-a0af-5ef1201fa851]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[69dd6deb-5495-3795-8838-13040383e9d0]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Utility]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Utility]]></data>
       <data key="d7">
@@ -1459,7 +1459,7 @@
         </y:SVGNode>
       </data>
     </node><node id="72">
-      <data key="d3" xml:space="preserve"><![CDATA[313a5f4a-ca39-4ade-8bf0-955633d7cdfb]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[df84fc15-d526-3d2b-ab61-307ae7c40fe9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IoT Windfarm]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[IoT Windfarm]]></data>
       <data key="d7">

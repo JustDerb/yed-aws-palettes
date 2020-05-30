@@ -19,7 +19,7 @@
   <key for="edge" id="d13" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
 <node id="0">
-      <data key="d3" xml:space="preserve"><![CDATA[a3de16ea-d6a3-4354-b868-ef8f0dfcf23f]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[e90446dc-a94c-32b6-96ea-bbf121bfbc64]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AD Connector]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AD Connector]]></data>
       <data key="d7">
@@ -39,7 +39,7 @@
         </y:SVGNode>
       </data>
     </node><node id="1">
-      <data key="d3" xml:space="preserve"><![CDATA[817b51c3-9009-4701-acea-2ec4428bedac]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[2e5f50f9-4b23-3906-908f-9e6d35859b85]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon Cloud Directory]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon Cloud Directory]]></data>
       <data key="d7">
@@ -59,7 +59,7 @@
         </y:SVGNode>
       </data>
     </node><node id="2">
-      <data key="d3" xml:space="preserve"><![CDATA[90b2a140-4c80-4985-bb60-817f68743bc6]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[2e5f50f9-4b23-3906-908f-9e6d35859b85]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon Cloud Directory]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon Cloud Directory]]></data>
       <data key="d7">
@@ -79,7 +79,7 @@
         </y:SVGNode>
       </data>
     </node><node id="3">
-      <data key="d3" xml:space="preserve"><![CDATA[de383bb1-89ce-4c96-8ec9-5b191e748d23]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[160f078c-1bac-35e2-8bd5-2d270b9274d4]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon Cognito]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon Cognito]]></data>
       <data key="d7">
@@ -99,7 +99,7 @@
         </y:SVGNode>
       </data>
     </node><node id="4">
-      <data key="d3" xml:space="preserve"><![CDATA[c480d35d-ae55-44dd-9518-b1a604831a17]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[160f078c-1bac-35e2-8bd5-2d270b9274d4]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon Cognito]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon Cognito]]></data>
       <data key="d7">
@@ -119,7 +119,7 @@
         </y:SVGNode>
       </data>
     </node><node id="5">
-      <data key="d3" xml:space="preserve"><![CDATA[df24c521-6775-4aa6-a8aa-803e29c0b890]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[12fc352b-40e2-3021-a085-72ca0f5d2b11]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon Detective]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon Detective]]></data>
       <data key="d7">
@@ -139,7 +139,7 @@
         </y:SVGNode>
       </data>
     </node><node id="6">
-      <data key="d3" xml:space="preserve"><![CDATA[0a4ed516-c231-475a-8001-40b4cd2c96d3]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[12fc352b-40e2-3021-a085-72ca0f5d2b11]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon Detective]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon Detective]]></data>
       <data key="d7">
@@ -159,7 +159,7 @@
         </y:SVGNode>
       </data>
     </node><node id="7">
-      <data key="d3" xml:space="preserve"><![CDATA[e36a3e5e-e2b7-4615-b032-5bc84fa0a0b8]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[621f4719-cc9f-3743-ac4c-095f76df474e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon GuardDuty]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon GuardDuty]]></data>
       <data key="d7">
@@ -179,7 +179,7 @@
         </y:SVGNode>
       </data>
     </node><node id="8">
-      <data key="d3" xml:space="preserve"><![CDATA[86ed736a-6070-4126-a2ff-e21c6577834d]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[621f4719-cc9f-3743-ac4c-095f76df474e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon GuardDuty]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon GuardDuty]]></data>
       <data key="d7">
@@ -199,7 +199,7 @@
         </y:SVGNode>
       </data>
     </node><node id="9">
-      <data key="d3" xml:space="preserve"><![CDATA[f44c8b56-d433-4da9-a9dc-b1fcabfd727e]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[4f3b3134-bc38-33bc-9a0d-7516153fc5ac]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon Inspector Agent]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon Inspector Agent]]></data>
       <data key="d7">
@@ -219,7 +219,7 @@
         </y:SVGNode>
       </data>
     </node><node id="10">
-      <data key="d3" xml:space="preserve"><![CDATA[73cd9a84-b975-4026-9257-e2b3cd78c20b]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[54309664-3aa6-328d-9fac-278e9257783d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon Inspector]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon Inspector]]></data>
       <data key="d7">
@@ -239,7 +239,7 @@
         </y:SVGNode>
       </data>
     </node><node id="11">
-      <data key="d3" xml:space="preserve"><![CDATA[f5addb6f-82e3-4c20-a1f2-60148bb36fc0]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[54309664-3aa6-328d-9fac-278e9257783d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon Inspector]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon Inspector]]></data>
       <data key="d7">
@@ -259,7 +259,7 @@
         </y:SVGNode>
       </data>
     </node><node id="12">
-      <data key="d3" xml:space="preserve"><![CDATA[9b63b108-3b68-4fec-8323-33312d241128]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[1f7efb5a-61d1-3625-b5c8-3917dd086ad7]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon Macie]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon Macie]]></data>
       <data key="d7">
@@ -279,7 +279,7 @@
         </y:SVGNode>
       </data>
     </node><node id="13">
-      <data key="d3" xml:space="preserve"><![CDATA[3b107755-34cc-4cdc-9002-7ef2ebf9aee8]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[1f7efb5a-61d1-3625-b5c8-3917dd086ad7]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon Macie]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon Macie]]></data>
       <data key="d7">
@@ -299,7 +299,7 @@
         </y:SVGNode>
       </data>
     </node><node id="14">
-      <data key="d3" xml:space="preserve"><![CDATA[f2141867-4586-4249-9648-c0c4b0c5171e]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[60b01877-2cea-338a-b5a8-c452ed694734]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Artifact]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Artifact]]></data>
       <data key="d7">
@@ -319,7 +319,7 @@
         </y:SVGNode>
       </data>
     </node><node id="15">
-      <data key="d3" xml:space="preserve"><![CDATA[ee72de46-e85f-4320-aaba-c21c3771de02]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[60b01877-2cea-338a-b5a8-c452ed694734]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Artifact]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Artifact]]></data>
       <data key="d7">
@@ -339,7 +339,7 @@
         </y:SVGNode>
       </data>
     </node><node id="16">
-      <data key="d3" xml:space="preserve"><![CDATA[18fdc947-d57c-44df-bf63-996a45c8e15a]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[7bac2fa0-8e92-3e3b-a9b7-bc878685f0dc]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Certificate Authority]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Certificate Authority]]></data>
       <data key="d7">
@@ -359,7 +359,7 @@
         </y:SVGNode>
       </data>
     </node><node id="17">
-      <data key="d3" xml:space="preserve"><![CDATA[d5310454-5436-4f39-a3c8-423d0e34003e]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[cf25885d-406b-3387-a4dd-4b2ae94bdbe9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Certificate Manager]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Certificate Manager]]></data>
       <data key="d7">
@@ -379,7 +379,7 @@
         </y:SVGNode>
       </data>
     </node><node id="18">
-      <data key="d3" xml:space="preserve"><![CDATA[86731219-a81a-4640-9e04-5c0b898dd4a6]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[cf25885d-406b-3387-a4dd-4b2ae94bdbe9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Certificate Manager]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Certificate Manager]]></data>
       <data key="d7">
@@ -399,7 +399,7 @@
         </y:SVGNode>
       </data>
     </node><node id="19">
-      <data key="d3" xml:space="preserve"><![CDATA[2b022f51-f5a5-48ec-990a-7324b0bb3f2d]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[86c553e8-cbde-31ff-bf5c-ec452adf710d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS CloudHSM]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS CloudHSM]]></data>
       <data key="d7">
@@ -419,7 +419,7 @@
         </y:SVGNode>
       </data>
     </node><node id="20">
-      <data key="d3" xml:space="preserve"><![CDATA[b1271794-01b5-4b47-a120-347e8462e47a]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[86c553e8-cbde-31ff-bf5c-ec452adf710d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS CloudHSM]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS CloudHSM]]></data>
       <data key="d7">
@@ -439,7 +439,7 @@
         </y:SVGNode>
       </data>
     </node><node id="21">
-      <data key="d3" xml:space="preserve"><![CDATA[f7acdd4c-f53d-4a50-94d7-4cfbf2f8f1b2]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[8e79aeaf-cd7d-35e6-8b84-cba871cfa34e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Directory Service]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Directory Service]]></data>
       <data key="d7">
@@ -459,7 +459,7 @@
         </y:SVGNode>
       </data>
     </node><node id="22">
-      <data key="d3" xml:space="preserve"><![CDATA[7d2ffe56-b02a-440d-ba68-d3fb1eba1b77]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[8e79aeaf-cd7d-35e6-8b84-cba871cfa34e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Directory Service]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Directory Service]]></data>
       <data key="d7">
@@ -479,7 +479,7 @@
         </y:SVGNode>
       </data>
     </node><node id="23">
-      <data key="d3" xml:space="preserve"><![CDATA[58bd7d6d-be6f-4a9a-908a-a96cb304f787]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[145bdf97-ed89-3889-af47-47b4b64867ae]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Firewall Manager]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Firewall Manager]]></data>
       <data key="d7">
@@ -499,7 +499,7 @@
         </y:SVGNode>
       </data>
     </node><node id="24">
-      <data key="d3" xml:space="preserve"><![CDATA[df91ee15-df08-4e37-9e99-0bf4e473f74d]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[145bdf97-ed89-3889-af47-47b4b64867ae]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Firewall Manager]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Firewall Manager]]></data>
       <data key="d7">
@@ -519,7 +519,7 @@
         </y:SVGNode>
       </data>
     </node><node id="25">
-      <data key="d3" xml:space="preserve"><![CDATA[e002601a-1301-4f84-b69a-f72443572351]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[45f5c34f-988d-3954-9325-cf7c08f5810e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Access Analyzer]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Access Analyzer]]></data>
       <data key="d7">
@@ -539,7 +539,7 @@
         </y:SVGNode>
       </data>
     </node><node id="26">
-      <data key="d3" xml:space="preserve"><![CDATA[0bce94ad-50ca-4803-8d4a-761094d20019]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[abdf87fa-c80b-350d-88d9-19179fbe41a8]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Add on]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Add on]]></data>
       <data key="d7">
@@ -559,7 +559,7 @@
         </y:SVGNode>
       </data>
     </node><node id="27">
-      <data key="d3" xml:space="preserve"><![CDATA[79fb373d-6553-4afe-a6c1-0924d6c04d5e]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[9120f45f-6898-36c0-bb15-61f9fa6c69db]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM AWS STS Alternate]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM AWS STS Alternate]]></data>
       <data key="d7">
@@ -579,7 +579,7 @@
         </y:SVGNode>
       </data>
     </node><node id="28">
-      <data key="d3" xml:space="preserve"><![CDATA[254c8dc3-471f-486e-945d-bbda387c0f6d]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[d89caf3d-5afe-3daa-87d4-8e385fcef51e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM AWS STS]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM AWS STS]]></data>
       <data key="d7">
@@ -599,7 +599,7 @@
         </y:SVGNode>
       </data>
     </node><node id="29">
-      <data key="d3" xml:space="preserve"><![CDATA[4fcec2ad-aeb8-4e8d-90a2-57ade44d8336]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[2235c9d1-f8d7-327b-ad27-12bba6ea0daa]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Data Encryption Key]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Data Encryption Key]]></data>
       <data key="d7">
@@ -619,7 +619,7 @@
         </y:SVGNode>
       </data>
     </node><node id="30">
-      <data key="d3" xml:space="preserve"><![CDATA[d7424c40-e797-4f37-b9b0-5cb40d8ac04e]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[8aa78363-fc10-3776-9b31-710980fbff0d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Encrypted Data]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Encrypted Data]]></data>
       <data key="d7">
@@ -639,7 +639,7 @@
         </y:SVGNode>
       </data>
     </node><node id="31">
-      <data key="d3" xml:space="preserve"><![CDATA[353ed6a8-0bed-4d2a-a37a-71d6db0a184f]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[39c2152a-ea0c-36be-a946-a4899b1b1144]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM]]></data>
       <data key="d7">
@@ -659,7 +659,7 @@
         </y:SVGNode>
       </data>
     </node><node id="32">
-      <data key="d3" xml:space="preserve"><![CDATA[56eaff88-1ed1-40c6-b4f8-b1002e9f0456]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[d1cfbdf5-7d2f-3228-89df-5b1088d0b5bb]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Long term Security Credential]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Long term Security Credential]]></data>
       <data key="d7">
@@ -679,7 +679,7 @@
         </y:SVGNode>
       </data>
     </node><node id="33">
-      <data key="d3" xml:space="preserve"><![CDATA[33c706e9-5ee2-4ab7-ada8-cc1e9c5f5fd1]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[1dbcea18-1017-3a13-ad7b-42d2d4d79d98]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM MFA Token]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM MFA Token]]></data>
       <data key="d7">
@@ -699,7 +699,7 @@
         </y:SVGNode>
       </data>
     </node><node id="34">
-      <data key="d3" xml:space="preserve"><![CDATA[391141d3-f2cb-4af6-ada6-65eceb3ae6f9]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[03056469-dc13-3355-8294-67ecf52b8b16]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Permissions]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Permissions]]></data>
       <data key="d7">
@@ -719,7 +719,7 @@
         </y:SVGNode>
       </data>
     </node><node id="35">
-      <data key="d3" xml:space="preserve"><![CDATA[833d43ba-28a0-482f-98f1-9aa469727144]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[0b0e86eb-25f3-366a-b86b-e981f7847040]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Role]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Role]]></data>
       <data key="d7">
@@ -739,7 +739,7 @@
         </y:SVGNode>
       </data>
     </node><node id="36">
-      <data key="d3" xml:space="preserve"><![CDATA[990198fd-1b5b-48c8-ab77-b33d130fbf05]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[39c2152a-ea0c-36be-a946-a4899b1b1144]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM]]></data>
       <data key="d7">
@@ -759,7 +759,7 @@
         </y:SVGNode>
       </data>
     </node><node id="37">
-      <data key="d3" xml:space="preserve"><![CDATA[79dc7a28-e405-4d30-baf7-20a154ed5921]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[40b3c7ec-aa88-343f-99cd-a4a334ffe1d9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Temporary Security Credential]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Identity and Access Management IAM Temporary Security Credential]]></data>
       <data key="d7">
@@ -779,7 +779,7 @@
         </y:SVGNode>
       </data>
     </node><node id="38">
-      <data key="d3" xml:space="preserve"><![CDATA[2844f6c7-b5fd-4b82-8c3c-62f8053a33e8]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[fcba7bd4-74eb-3fdf-8970-5827bbb6f28c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Key Management Service]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Key Management Service]]></data>
       <data key="d7">
@@ -799,7 +799,7 @@
         </y:SVGNode>
       </data>
     </node><node id="39">
-      <data key="d3" xml:space="preserve"><![CDATA[4684e0f7-e72a-4688-bf47-947150a4d2a1]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[fcba7bd4-74eb-3fdf-8970-5827bbb6f28c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Key Management Service]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Key Management Service]]></data>
       <data key="d7">
@@ -819,7 +819,7 @@
         </y:SVGNode>
       </data>
     </node><node id="40">
-      <data key="d3" xml:space="preserve"><![CDATA[989a7096-9296-497c-9926-6efc596f208d]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[670463cd-d347-3c41-bb84-c0cdfe2c3de2]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Managed Microsoft AD]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Managed Microsoft AD]]></data>
       <data key="d7">
@@ -839,7 +839,7 @@
         </y:SVGNode>
       </data>
     </node><node id="41">
-      <data key="d3" xml:space="preserve"><![CDATA[b6297e54-7aa8-4ece-b0a0-ecbc4566ddef]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[7c09430f-eea9-3f5b-9f65-7bd178ce574c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Resource Access Manager]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Resource Access Manager]]></data>
       <data key="d7">
@@ -859,7 +859,7 @@
         </y:SVGNode>
       </data>
     </node><node id="42">
-      <data key="d3" xml:space="preserve"><![CDATA[bec3e3a1-f87a-414b-950e-b199c7313df8]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[7c09430f-eea9-3f5b-9f65-7bd178ce574c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Resource Access Manager]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Resource Access Manager]]></data>
       <data key="d7">
@@ -879,7 +879,7 @@
         </y:SVGNode>
       </data>
     </node><node id="43">
-      <data key="d3" xml:space="preserve"><![CDATA[d556f1d4-9f9f-436f-b17e-744bcfa8f011]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[7898cb92-c418-3eed-a974-ede9cb146462]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Secrets Manager]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Secrets Manager]]></data>
       <data key="d7">
@@ -899,7 +899,7 @@
         </y:SVGNode>
       </data>
     </node><node id="44">
-      <data key="d3" xml:space="preserve"><![CDATA[c586ad7d-fbb8-44ec-8f37-22a9548ec12a]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[7898cb92-c418-3eed-a974-ede9cb146462]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Secrets Manager]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Secrets Manager]]></data>
       <data key="d7">
@@ -919,7 +919,7 @@
         </y:SVGNode>
       </data>
     </node><node id="45">
-      <data key="d3" xml:space="preserve"><![CDATA[ca2d22d2-0efe-4cfb-a816-db6b03f9da92]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[03883d80-013d-30b2-b972-eccd5b93b56f]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Security Hub]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Security Hub]]></data>
       <data key="d7">
@@ -939,7 +939,7 @@
         </y:SVGNode>
       </data>
     </node><node id="46">
-      <data key="d3" xml:space="preserve"><![CDATA[c57a68b9-d8ea-4fc4-a943-2bec5ed16747]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[03883d80-013d-30b2-b972-eccd5b93b56f]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Security Hub]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Security Hub]]></data>
       <data key="d7">
@@ -959,7 +959,7 @@
         </y:SVGNode>
       </data>
     </node><node id="47">
-      <data key="d3" xml:space="preserve"><![CDATA[50bd0d41-7dc6-4d9f-ab31-9f0c45b3bb66]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[637d82e8-a720-3e87-b441-61109cf7112d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Shield]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Shield]]></data>
       <data key="d7">
@@ -979,7 +979,7 @@
         </y:SVGNode>
       </data>
     </node><node id="48">
-      <data key="d3" xml:space="preserve"><![CDATA[825ee95d-5bdf-4dfc-99cc-3d47f1453eca]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[67665213-97a3-3dfc-ab3f-d5bfc047dd53]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Shield Shield Advanced]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Shield Shield Advanced]]></data>
       <data key="d7">
@@ -999,7 +999,7 @@
         </y:SVGNode>
       </data>
     </node><node id="49">
-      <data key="d3" xml:space="preserve"><![CDATA[3a045cd1-fe45-43c5-b05d-46c6fb3fd483]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[637d82e8-a720-3e87-b441-61109cf7112d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Shield]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Shield]]></data>
       <data key="d7">
@@ -1019,7 +1019,7 @@
         </y:SVGNode>
       </data>
     </node><node id="50">
-      <data key="d3" xml:space="preserve"><![CDATA[640b9be7-6864-441b-adde-2e24a4c0f6ee]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[470bfee0-3191-3450-b356-04f7f6af8aea]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Single Sign On]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Single Sign On]]></data>
       <data key="d7">
@@ -1039,7 +1039,7 @@
         </y:SVGNode>
       </data>
     </node><node id="51">
-      <data key="d3" xml:space="preserve"><![CDATA[8cb8dd8a-31ad-418b-a42d-0ef1c3b73cf0]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[470bfee0-3191-3450-b356-04f7f6af8aea]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Single Sign On]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Single Sign On]]></data>
       <data key="d7">
@@ -1059,7 +1059,7 @@
         </y:SVGNode>
       </data>
     </node><node id="52">
-      <data key="d3" xml:space="preserve"><![CDATA[bb94eba1-b254-4f16-aa06-0d3d5822131e]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[680e8511-066a-36ee-92e2-760333a685ef]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS WAF Filtering rule]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS WAF Filtering rule]]></data>
       <data key="d7">
@@ -1079,7 +1079,7 @@
         </y:SVGNode>
       </data>
     </node><node id="53">
-      <data key="d3" xml:space="preserve"><![CDATA[26477fba-5e6a-4218-a925-4dbd3ec60ef3]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[32685c9f-0403-3413-81bf-5f88788ad995]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS WAF]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS WAF]]></data>
       <data key="d7">
@@ -1099,7 +1099,7 @@
         </y:SVGNode>
       </data>
     </node><node id="54">
-      <data key="d3" xml:space="preserve"><![CDATA[721079ff-da25-4a1d-bb52-b7092defda17]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[32685c9f-0403-3413-81bf-5f88788ad995]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS WAF]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS WAF]]></data>
       <data key="d7">
@@ -1119,7 +1119,7 @@
         </y:SVGNode>
       </data>
     </node><node id="55">
-      <data key="d3" xml:space="preserve"><![CDATA[822f7c8b-08a9-43c8-8351-000e2d19bde4]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[40e3f3f3-493e-3a9c-b53f-2e1a2166d713]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Security Hub Finding]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Security Hub Finding]]></data>
       <data key="d7">
@@ -1139,7 +1139,7 @@
         </y:SVGNode>
       </data>
     </node><node id="56">
-      <data key="d3" xml:space="preserve"><![CDATA[d9a53c4f-a961-43d3-bffb-5ef8d5c48c80]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[dd32e0f4-9c4c-3e10-be0b-5a594f531775]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Security Identity and Compliance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Security Identity and Compliance]]></data>
       <data key="d7">
@@ -1159,7 +1159,7 @@
         </y:SVGNode>
       </data>
     </node><node id="57">
-      <data key="d3" xml:space="preserve"><![CDATA[780602bb-2b8c-4cc9-ac55-cb38e596fafa]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[dd32e0f4-9c4c-3e10-be0b-5a594f531775]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Security Identity and Compliance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Security Identity and Compliance]]></data>
       <data key="d7">
@@ -1179,7 +1179,7 @@
         </y:SVGNode>
       </data>
     </node><node id="58">
-      <data key="d3" xml:space="preserve"><![CDATA[b9370192-78f7-40b7-9070-b78c85b0d552]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[8ca2adfa-c6d2-3275-bb4a-b1396c3cb602]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Simple AD]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Simple AD]]></data>
       <data key="d7">

@@ -19,7 +19,7 @@
   <key for="edge" id="d13" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
 <node id="0">
-      <data key="d3" xml:space="preserve"><![CDATA[b93b8103-acc4-4650-af0c-9caaf6d4e4c2]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[8452eeac-b701-3a63-aa3b-c561c565853f]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 A1 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 A1 Instance]]></data>
       <data key="d7">
@@ -39,7 +39,7 @@
         </y:SVGNode>
       </data>
     </node><node id="1">
-      <data key="d3" xml:space="preserve"><![CDATA[715e3858-da4f-4845-9111-50f3aee51585]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[18318142-845d-3983-8b50-00ebb7f4fdae]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 C4 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 C4 Instance]]></data>
       <data key="d7">
@@ -59,7 +59,7 @@
         </y:SVGNode>
       </data>
     </node><node id="2">
-      <data key="d3" xml:space="preserve"><![CDATA[af4033c2-9da8-4129-ba51-1d3478902940]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[8d914308-18e7-383a-b338-5e1eb3bb70fa]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 C5 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 C5 Instance]]></data>
       <data key="d7">
@@ -79,7 +79,7 @@
         </y:SVGNode>
       </data>
     </node><node id="3">
-      <data key="d3" xml:space="preserve"><![CDATA[ea58b3e4-6599-4a34-b01f-1732d56f62da]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[dc7264f7-b6af-3775-9013-f16e80e44400]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 C5n Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 C5n Instance]]></data>
       <data key="d7">
@@ -99,7 +99,7 @@
         </y:SVGNode>
       </data>
     </node><node id="4">
-      <data key="d3" xml:space="preserve"><![CDATA[0c9ca119-6b6c-4350-9386-a7c92b0a19cb]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[63ceb303-19d9-35be-a313-2b0c145e715c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 D2 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 D2 Instance]]></data>
       <data key="d7">
@@ -119,7 +119,7 @@
         </y:SVGNode>
       </data>
     </node><node id="5">
-      <data key="d3" xml:space="preserve"><![CDATA[fd281c73-0366-4f34-b255-126c045d3d85]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[3457a5ef-6b4e-37be-bef3-3d072850ca0d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 DB on Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 DB on Instance]]></data>
       <data key="d7">
@@ -139,7 +139,7 @@
         </y:SVGNode>
       </data>
     </node><node id="6">
-      <data key="d3" xml:space="preserve"><![CDATA[0fffd5a7-c4f7-44ea-90ee-a6004669a559]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[b396f315-661a-3ec5-88c7-31433cba92ef]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 F1 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 F1 Instance]]></data>
       <data key="d7">
@@ -159,7 +159,7 @@
         </y:SVGNode>
       </data>
     </node><node id="7">
-      <data key="d3" xml:space="preserve"><![CDATA[aa2f7763-84f5-49c2-b0e3-7282cd02b81d]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[0cb99050-129a-3c2a-860f-110eb84889c8]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 G3 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 G3 Instance]]></data>
       <data key="d7">
@@ -179,7 +179,7 @@
         </y:SVGNode>
       </data>
     </node><node id="8">
-      <data key="d3" xml:space="preserve"><![CDATA[226bed70-0e9e-45e2-9907-c212bcaa39ea]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[00e11288-5c09-313a-8234-1d65bcad4f59]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 H1 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 H1 Instance]]></data>
       <data key="d7">
@@ -199,7 +199,7 @@
         </y:SVGNode>
       </data>
     </node><node id="9">
-      <data key="d3" xml:space="preserve"><![CDATA[f9e5b882-c491-4083-91c4-3aeb37f9104e]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[40821989-2e11-3a78-a983-9996eed72ada]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 High Memory Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 High Memory Instance]]></data>
       <data key="d7">
@@ -219,7 +219,7 @@
         </y:SVGNode>
       </data>
     </node><node id="10">
-      <data key="d3" xml:space="preserve"><![CDATA[ed7831d2-67c0-4ad6-9995-7a566744e737]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[89ff003a-6a9c-3cb3-8968-1921cfa35a49]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 I3 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 I3 Instance]]></data>
       <data key="d7">
@@ -239,7 +239,7 @@
         </y:SVGNode>
       </data>
     </node><node id="11">
-      <data key="d3" xml:space="preserve"><![CDATA[85a2ce2c-003f-459d-a66d-66611e591fa7]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[98abbf8d-e1be-3054-b2d2-c3fd81c22ee0]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 Instance]]></data>
       <data key="d7">
@@ -259,7 +259,7 @@
         </y:SVGNode>
       </data>
     </node><node id="12">
-      <data key="d3" xml:space="preserve"><![CDATA[418e7bc7-d6e4-4c8c-85f8-9f601aa730aa]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[e359c056-d518-36f3-bc5a-2794c57cf5fa]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 Instances]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 Instances]]></data>
       <data key="d7">
@@ -279,7 +279,7 @@
         </y:SVGNode>
       </data>
     </node><node id="13">
-      <data key="d3" xml:space="preserve"><![CDATA[95aed290-0d78-4759-84b2-6014f1250933]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[dd75cf20-efbc-3c98-955d-948e9685d8d5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 Instance with CloudWatch]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 Instance with CloudWatch]]></data>
       <data key="d7">
@@ -299,7 +299,7 @@
         </y:SVGNode>
       </data>
     </node><node id="14">
-      <data key="d3" xml:space="preserve"><![CDATA[dd1ab6b9-225c-4dd6-a018-c9094715f640]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[a97a15ed-ffdc-3962-8c50-f3313b80504e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 M4 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 M4 Instance]]></data>
       <data key="d7">
@@ -319,7 +319,7 @@
         </y:SVGNode>
       </data>
     </node><node id="15">
-      <data key="d3" xml:space="preserve"><![CDATA[779924f4-0cb4-4f1d-91e3-f78d44b1dd3a]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[9bc87903-805e-3b43-ba15-87a37b4a7190]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 M5a Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 M5a Instance]]></data>
       <data key="d7">
@@ -339,7 +339,7 @@
         </y:SVGNode>
       </data>
     </node><node id="16">
-      <data key="d3" xml:space="preserve"><![CDATA[37925197-a454-408b-afc0-814919b72b63]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[47e1784f-8b75-3141-835b-68b8d4357d22]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 M5 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 M5 Instance]]></data>
       <data key="d7">
@@ -359,7 +359,7 @@
         </y:SVGNode>
       </data>
     </node><node id="17">
-      <data key="d3" xml:space="preserve"><![CDATA[301dd338-8fcf-49b8-bb15-91d6f4fd7922]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[a259c395-10a3-3203-b6f4-16fcafbc12c8]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 Optimized Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 Optimized Instance]]></data>
       <data key="d7">
@@ -379,7 +379,7 @@
         </y:SVGNode>
       </data>
     </node><node id="18">
-      <data key="d3" xml:space="preserve"><![CDATA[d1892d99-f609-4416-840b-fc8df063a67e]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[8e675a09-a260-3e9d-8ac2-326f7ba34899]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 P2 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 P2 Instance]]></data>
       <data key="d7">
@@ -399,7 +399,7 @@
         </y:SVGNode>
       </data>
     </node><node id="19">
-      <data key="d3" xml:space="preserve"><![CDATA[310c8a99-f738-40ff-bcc8-b1e93b794a9e]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[123174da-74d5-3058-aadc-7f622a46134f]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 P3 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 P3 Instance]]></data>
       <data key="d7">
@@ -419,7 +419,7 @@
         </y:SVGNode>
       </data>
     </node><node id="20">
-      <data key="d3" xml:space="preserve"><![CDATA[8f8340b1-db62-4bac-a809-a1c1d47bef3a]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[17f508f5-4be5-3df1-86c7-58232139ada1]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 R4 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 R4 Instance]]></data>
       <data key="d7">
@@ -439,7 +439,7 @@
         </y:SVGNode>
       </data>
     </node><node id="21">
-      <data key="d3" xml:space="preserve"><![CDATA[4e2213b6-916c-416c-a919-924b730a1e7c]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[39cbbfdb-d3e2-348c-ad03-5cbb20455543]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 R5a Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 R5a Instance]]></data>
       <data key="d7">
@@ -459,7 +459,7 @@
         </y:SVGNode>
       </data>
     </node><node id="22">
-      <data key="d3" xml:space="preserve"><![CDATA[fcc4cfc5-10a7-4a69-a9ff-85d5346e0cfc]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[5fef5747-ab80-33c6-8f59-7c9a84361868]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 R5 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 R5 Instance]]></data>
       <data key="d7">
@@ -479,7 +479,7 @@
         </y:SVGNode>
       </data>
     </node><node id="23">
-      <data key="d3" xml:space="preserve"><![CDATA[eaa44419-b2dc-422e-bd5a-c425d068fa23]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[0fa0a5b1-60b4-3901-8297-f4239fdd1efb]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 Spot instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 Spot instance]]></data>
       <data key="d7">
@@ -499,7 +499,7 @@
         </y:SVGNode>
       </data>
     </node><node id="24">
-      <data key="d3" xml:space="preserve"><![CDATA[5ad60ec4-0c3e-498e-8e0c-80c1d81e12c0]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[cf16dd4c-b5d4-3a72-b00f-0ed33fbcb7d5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 T3a Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 T3a Instance]]></data>
       <data key="d7">
@@ -519,7 +519,7 @@
         </y:SVGNode>
       </data>
     </node><node id="25">
-      <data key="d3" xml:space="preserve"><![CDATA[ec2d0cdd-42c6-4a78-a470-8200f8b74c8e]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[573d3a30-3c61-3d7d-8f14-49b608c84ad0]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 T3 Instance  copy]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 T3 Instance  copy]]></data>
       <data key="d7">
@@ -539,7 +539,7 @@
         </y:SVGNode>
       </data>
     </node><node id="26">
-      <data key="d3" xml:space="preserve"><![CDATA[f8471245-266b-4345-a6fd-5d02c0ce1318]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[16b45455-1791-307e-b7be-a031ca3e6c6a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 T3 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 T3 Instance]]></data>
       <data key="d7">
@@ -559,7 +559,7 @@
         </y:SVGNode>
       </data>
     </node><node id="27">
-      <data key="d3" xml:space="preserve"><![CDATA[fc927611-c626-4f04-bb8b-234f149b1bdc]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[79844d03-6f95-3ae2-b292-1957763a7609]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 X1e Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 X1e Instance]]></data>
       <data key="d7">
@@ -579,7 +579,7 @@
         </y:SVGNode>
       </data>
     </node><node id="28">
-      <data key="d3" xml:space="preserve"><![CDATA[f827f333-b8d1-4fa3-8d3a-8d86b06a0122]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[b31edac8-62b8-30bd-84ae-1be6307cb7d9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 X1 Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 X1 Instance]]></data>
       <data key="d7">
@@ -599,7 +599,7 @@
         </y:SVGNode>
       </data>
     </node><node id="29">
-      <data key="d3" xml:space="preserve"><![CDATA[449c148b-e44d-413e-81fb-5a92eeac48c6]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[6d77b18e-f53c-3f4b-8ad1-36888c2a9ef7]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Amazon EC2 z1d Instance]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Amazon EC2 z1d Instance]]></data>
       <data key="d7">

@@ -19,7 +19,7 @@
   <key for="edge" id="d13" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
 <node id="0">
-      <data key="d3" xml:space="preserve"><![CDATA[9d4cae79-2f4e-490d-a5d6-cb1458f638aa]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[97cefaa8-579b-32f9-a928-1e2c5b6a0da1]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Ground Station]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Ground Station]]></data>
       <data key="d7">
@@ -39,7 +39,7 @@
         </y:SVGNode>
       </data>
     </node><node id="1">
-      <data key="d3" xml:space="preserve"><![CDATA[fa13c03d-cd17-4bb7-8bb5-df35ca024679]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[97cefaa8-579b-32f9-a928-1e2c5b6a0da1]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AWS Ground Station]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[AWS Ground Station]]></data>
       <data key="d7">
@@ -59,7 +59,7 @@
         </y:SVGNode>
       </data>
     </node><node id="2">
-      <data key="d3" xml:space="preserve"><![CDATA[6c3ba651-d254-46dc-95d1-d8a430cbea3d]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[c2b5e733-61a4-3f9d-a6a7-3413d0abee5e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Satellite]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Satellite]]></data>
       <data key="d7">
@@ -79,7 +79,7 @@
         </y:SVGNode>
       </data>
     </node><node id="3">
-      <data key="d3" xml:space="preserve"><![CDATA[8b2fd2af-eddb-4f98-aa76-4cda96d19cd5]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[c2b5e733-61a4-3f9d-a6a7-3413d0abee5e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Satellite]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Satellite]]></data>
       <data key="d7">
