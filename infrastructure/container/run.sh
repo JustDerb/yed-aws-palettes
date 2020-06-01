@@ -12,7 +12,7 @@ ensure_on_path curl
 ensure_on_path git
 
 URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep '> SVG&nbsp;<i class="icon-download"></i>' | head -n1 | grep -oEi '//.*\.zip' | while read line; do echo "https:$line"; done)
-echo "Latest URL: $URL"
+echo "Latest URL: ${URL}"
 
 # Clone the git repo
 ssh-keyscan github.com >> ~/.ssh/known_hosts
@@ -24,9 +24,10 @@ cd "${DIR}/yed-aws-palettes"
 # Grab our metadata
 . ./metadata.config
 
-if [[ "$URL" != "$ASI_url" ]]; then
+if [[ "${URL}" != "${ASI_url}" ]]; then
   echo "AWS Simple Icons outdated..."
-  echo "${URL}"
+  echo "New: ${URL}"
+  echo "Old: ${ASI_url}"
   ./update.sh "$URL" true
   git push
 else
