@@ -28,7 +28,7 @@ You can use "Delete Section" in yED as described [here](http://yed.yworks.com/su
 
 ## Updating this repository
 
-This repo isn't automated (yet). So to manually update it, simply grab the latest URL and run the `update.sh` script:
+This repo has minimal automation around it, so it should update at most daily. If this repo needs to be manually updated, simply grab the latest URL and run the `update.sh` script:
 
 ```bash
 # Grab latest URL from website
