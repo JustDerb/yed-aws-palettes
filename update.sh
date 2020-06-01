@@ -29,7 +29,7 @@ URL=$1
 COMMIT=$2
 
 TMP_DIR=$(mktemp -d)
-# trap "{ rm -rf ${TMP_DIR}; }" EXIT
+trap "{ rm -rf ${TMP_DIR}; }" EXIT
 
 echo >&2 "Downloading $1"
 curl "${URL}" --output "${TMP_DIR}/aws-simple-icons.zip"
