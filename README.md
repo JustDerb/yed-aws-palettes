@@ -33,7 +33,7 @@ This repo isn't automated (yet). So to manually update it, simply grab the lates
 ```bash
 # Grab latest URL from website
 URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep '> SVG&nbsp;<i class="icon-download"></i>' | head -n1 | grep -oEi '//.*\.zip' | while read line; do echo "http:$line"; done)
-echo "$URL"
+echo "Latest URL: $URL"
 # Run the updater, commiting the results
 ./update.sh "$URL" true
 ```
