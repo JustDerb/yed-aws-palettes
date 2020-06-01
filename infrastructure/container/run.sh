@@ -11,7 +11,7 @@ ensure_on_path() {
 ensure_on_path curl
 ensure_on_path git
 
-URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep '> SVG&nbsp;<i class="icon-download"></i>' | head -n1 | grep -oEi '//.*\.zip' | while read line; do echo "http:$line"; done)
+URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep '> SVG&nbsp;<i class="icon-download"></i>' | head -n1 | grep -oEi '//.*\.zip' | while read line; do echo "https:$line"; done)
 echo "Latest URL: $URL"
 
 # Clone the git repo
