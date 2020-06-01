@@ -39,7 +39,7 @@ ICON_DIR=$(cd "${TMP_DIR}"/AWS-Architecture-Icons_SVG_* && pwd)
 ICON_VERSION=${ICON_DIR#"${TMP_DIR}"/AWS-Architecture-Icons_SVG_}
 REGEX_NUMBER='^[0-9]+$'
 if ! [[ ${ICON_VERSION} =~ ${REGEX_NUMBER} ]]; then
-  echo >&2 "Couldn't parse verison number from URL: ${ICON_VERSION}"
+  echo >&2 "Couldn't parse version number from URL: ${ICON_VERSION}"
   exit 1
 fi
 
