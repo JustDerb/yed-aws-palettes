@@ -23,11 +23,13 @@ public class Icon {
     private static final int MAX_HEIGHT_WIDTH = 60;
 
     private final SVGDocument document;
+    private final String realName;
     private final String name;
     private Rectangle2D bounds;
 
-    public Icon(SVGDocument document, String name) {
+    public Icon(SVGDocument document, String realName, String name) {
         this.document = Objects.requireNonNull(document);
+        this.realName = realName;
         this.name = name;
     }
 
@@ -36,6 +38,10 @@ public class Icon {
         // We don't need a comment
         ctx.setComment(null);
         return new SVGGraphics2D(ctx, false);
+    }
+
+    public String getRealName() {
+        return this.realName;
     }
 
     public String getName() {
@@ -109,7 +115,7 @@ public class Icon {
         final String parser = XMLResourceDescriptor.getXMLParserClassName();
         final SAXSVGDocumentFactory factory = new SAXSVGDocumentFactory(parser);
         try {
-            return new Icon(factory.createSVGDocument(svg.getAbsolutePath()), getReadableName(svg.getName()));
+            return new Icon(factory.createSVGDocument(svg.getAbsolutePath()), svg.getName(), getReadableName(svg.getName()));
         } catch (IOException e) {
             throw new RuntimeException("Error parsing " + svg.getAbsolutePath(), e);
         }

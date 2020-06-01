@@ -36,7 +36,7 @@ public class MustacheSectionTemplate {
     private Map<String, String> transformToNodes(Icon icon, int id, int resourceId) {
         Map<String, String> node = new HashMap<>();
         // Generate consistent UUIDs based on the icon name
-        node.put("uuid", UUID.nameUUIDFromBytes(icon.getName().getBytes(StandardCharsets.UTF_8)).toString());
+        node.put("uuid", UUID.nameUUIDFromBytes(icon.getRealName().getBytes(StandardCharsets.UTF_8)).toString());
         node.put("tooltip", icon.getName());
         node.put("filename", icon.getName());
         node.put("id", String.valueOf(id));
