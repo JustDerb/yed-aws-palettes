@@ -33,12 +33,13 @@ public class Launcher {
     }
 
     private void printErrorAndQuit(CmdLineParser parser, String message) {
+        System.err.println(message);
+        System.err.println();
         String name = new File(getClass().getProtectionDomain()
                 .getCodeSource()
                 .getLocation()
                 .getPath())
                 .getName();
-        System.err.println();
         System.err.println(name + parser.printExample(OptionHandlerFilter.REQUIRED));
         parser.printUsage(System.err);
         System.exit(1);
