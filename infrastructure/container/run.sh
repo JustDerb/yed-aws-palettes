@@ -29,8 +29,7 @@ if [[ "${URL}" != "${ASI_url}" ]]; then
   echo "New: ${URL}"
   echo "Old: ${ASI_url}"
   ./update.sh "$URL" true
-  # git push
-  echo "Would have commited"
+  git push
 else
   echo "AWS Simple Icons are up to date!"
   echo "${URL}"
