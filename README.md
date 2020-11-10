@@ -32,7 +32,7 @@ This repo has minimal automation around it, so it should update at most daily. I
 
 ```bash
 # Grab latest URL from website
-URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep '> SVG&nbsp;<i class="icon-download"></i>' | head -n1 | grep -oEi '//.*\.zip' | while read line; do echo "https:$line"; done)
+URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep 'Asset Package&nbsp;<i class="icon-download"></i>' | head -n1 | grep -oEi '//.*\.zip' | while read line; do echo "https:$line";  done)
 echo "Latest URL: $URL"
 # Run the updater, commiting the results
 ./update.sh "$URL" true

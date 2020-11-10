@@ -35,11 +35,19 @@ echo >&2 "Downloading $1"
 curl "${URL}" --output "${TMP_DIR}/aws-simple-icons.zip"
 unzip -o "${TMP_DIR}/aws-simple-icons.zip" -d "${TMP_DIR}"
 
-ICON_DIR=$(cd "${TMP_DIR}"/AWS-Architecture-Icons_SVG_* && pwd)
-ICON_VERSION=${ICON_DIR#"${TMP_DIR}"/AWS-Architecture-Icons_SVG_}
-REGEX_NUMBER='^[0-9]+$'
-if ! [[ ${ICON_VERSION} =~ ${REGEX_NUMBER} ]]; then
-  echo >&2 "Couldn't parse version number from URL: ${ICON_VERSION}"
+ICON_DIR=$(cd "${TMP_DIR}"/AWS-Architecture-* && pwd)
+ICON_VERSION_DIR=${ICON_DIR#"${TMP_DIR}"/AWS-Architecture-}
+ICON_VERSION=''
+REGEX_NUMBER='([0-9]+)'
+if ! [[ ${ICON_VERSION_DIR} =~ ${REGEX_NUMBER} ]]; then
+  echo >&2 "Couldn't parse version number from directory section: ${ICON_VERSION_DIR}"
+  exit 1
+else
+  ICON_VERSION="${BASH_REMATCH[1]}"
+fi
+
+if [ -z "$ICON_VERSION" ]; then
+  echo >&2 "Couldn't parse version number from directory section: ${ICON_VERSION_DIR}"
   exit 1
 fi
 
@@ -53,9 +61,59 @@ popd
 # Clear our old .graphml files
 rm -f "${DIR}"/*.graphml
 
-find "${ICON_DIR}/SVG Light/" -mindepth 1 -type d | sort | while read section; do
-  SECTION_NAME="${section#${ICON_DIR}/SVG Light/}"
-  SECTION_NAME="AWS - ${SECTION_NAME/\// - }"
+fix_mistakes() {
+  case "$(echo $1 | tr '[:upper:]' '[:lower:]')" in
+    # Someone messed up the spelling :O
+    lot|"internet of things")
+      echo "IoT"
+      ;;
+    # Misspelling
+    "customer enagagement")
+      echo "Customer Engagement"
+      ;;
+    app*integration)
+      echo "Application Integration"
+      ;;
+    migration*transfer)
+      echo "Migration and Transfer"
+      ;;
+    networking*content*)
+      echo "Networking and Content Delivery"
+      ;;
+    security*identity*compliance)
+      echo "Security Networking and Compliance"
+      ;;
+    *)
+      echo "$1"
+      ;;
+  esac
+}
+
+
+find "${ICON_DIR}" -type d -name "*Light" -o -type d -name "*32" | sort | while read section; do
+  SECTION_NAME="$(echo ${section} | tr ' ' '_')"
+  SECTION_NAME="$(dirname ${SECTION_NAME})"
+  SECTION_NAME="$(basename ${SECTION_NAME})"
+  SECTION_NAME="${SECTION_NAME#Res_}"
+  SECTION_NAME="${SECTION_NAME#Arch_}"
+  SECTION_NAME="$(echo ${SECTION_NAME} | tr '_-' ' ' | tr -s ' ' ' ')"
+  SECTION_NAME="$(fix_mistakes "${SECTION_NAME}")"
+  if [ -z "$SECTION_NAME" ]; then
+    echo >&2 "Got empty section when parsing ${section}"
+    exit 1
+  fi
+  SECTION_NAME="AWS - ${SECTION_NAME}"
+  echo "Found: ${SECTION_NAME}"
+  mkdir -p "${TMP_DIR}/sections/${SECTION_NAME}"
+  cp "${section}"/*.svg "${TMP_DIR}/sections/${SECTION_NAME}"
+done
+
+for section in "${TMP_DIR}/sections/"*; do
+  SECTION_NAME="${section#${TMP_DIR}/sections/}"
+  if [ -z "$SECTION_NAME" ]; then
+    echo >&2 "Got empty section when parsing ${section}"
+    exit 1
+  fi
   echo "${SECTION_NAME}"
   java -jar "${DIR}/translator/target/yed-translator-1.0-SNAPSHOT.jar" \
       --out "${DIR}/${SECTION_NAME}.graphml" \

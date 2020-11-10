@@ -11,7 +11,7 @@ ensure_on_path() {
 ensure_on_path curl
 ensure_on_path git
 
-URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep '> SVG&nbsp;<i class="icon-download"></i>' | head -n1 | grep -oEi '//.*\.zip' | while read line; do echo "https:$line"; done)
+URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep 'Asset Package&nbsp;<i class="icon-download"></i>' | head -n1 | grep -oEi '//.*\.zip' | while read line; do echo "https:$line";  done)
 echo "Latest URL: ${URL}"
 
 # Clone the git repo
@@ -29,7 +29,8 @@ if [[ "${URL}" != "${ASI_url}" ]]; then
   echo "New: ${URL}"
   echo "Old: ${ASI_url}"
   ./update.sh "$URL" true
-  git push
+  # git push
+  echo "Would have commited"
 else
   echo "AWS Simple Icons are up to date!"
   echo "${URL}"
