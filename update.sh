@@ -1,5 +1,6 @@
 #!/bin/bash
 
+[[ -n "${VERBOSE}" ]] && set -x
 set -e
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
@@ -29,14 +30,14 @@ URL=$1
 COMMIT=$2
 
 TMP_DIR=$(mktemp -d)
-trap "{ rm -rf ${TMP_DIR}; }" EXIT
+[[ -z "${NO_CLEANUP}" ]] && trap "{ echo Removing ${TMP_DIR}; rm -rf ${TMP_DIR}; }" EXIT
 
 echo >&2 "Downloading $1"
 curl "${URL}" --output "${TMP_DIR}/aws-simple-icons.zip"
 unzip -o "${TMP_DIR}/aws-simple-icons.zip" -d "${TMP_DIR}"
 
-ICON_DIR=$(cd "${TMP_DIR}"/AWS-Architecture-* && pwd)
-ICON_VERSION_DIR=${ICON_DIR#"${TMP_DIR}"/AWS-Architecture-}
+ICON_DIR=$(cd "${TMP_DIR}"/Asset-Package_* && pwd)
+ICON_VERSION_DIR=${ICON_DIR#"${TMP_DIR}"/Asset-Package_}
 ICON_VERSION=''
 REGEX_NUMBER='([0-9]+)'
 if ! [[ ${ICON_VERSION_DIR} =~ ${REGEX_NUMBER} ]]; then
@@ -52,6 +53,15 @@ if [ -z "$ICON_VERSION" ]; then
 fi
 
 echo "Detected version: ${ICON_VERSION}"
+
+pushd "${ICON_DIR}"
+for f in $(ls ./*.zip); do
+  filename="$(basename -- $f)"
+  dirname="${filename%.*}"
+  mkdir -p "${dirname}"
+  unzip "$filename" -d "$dirname"
+done
+popd
 
 # Compile our translator
 pushd "${DIR}/translator"
@@ -83,12 +93,17 @@ fix_mistakes() {
     security*identity*compliance)
       echo "Security Networking and Compliance"
       ;;
+    category*icons*)
+      echo "Category Icons"
+      ;;
     *)
       echo "$1"
       ;;
   esac
 }
 
+# Remove Mac OS directories
+find "${ICON_DIR}" -type d -name "__MACOSX" -prune -exec rm -rf {} \;
 
 find "${ICON_DIR}" -type d -name "*Light" -o -type d -name "*32" | sort | while read section; do
   SECTION_NAME="$(echo ${section} | tr ' ' '_')"
@@ -105,8 +120,12 @@ find "${ICON_DIR}" -type d -name "*Light" -o -type d -name "*32" | sort | while 
   SECTION_NAME="AWS - ${SECTION_NAME}"
   echo "Found: ${SECTION_NAME}"
   mkdir -p "${TMP_DIR}/sections/${SECTION_NAME}"
-  cp "${section}"/*.svg "${TMP_DIR}/sections/${SECTION_NAME}"
+  cp "${section}"/*.svg "${TMP_DIR}/sections/${SECTION_NAME}" || \
+    echo "WARNING: ${section} had no SVGs!"
 done
+
+find "${TMP_DIR}/sections/${SECTION_NAME}" -type d -empty -prune \
+  -print -exec rmdir {} \;
 
 for section in "${TMP_DIR}/sections/"*; do
   SECTION_NAME="${section#${TMP_DIR}/sections/}"
@@ -128,6 +147,8 @@ echo "ASI_url=${URL}" >> "${DIR}/metadata.config"
 if [[ -n "${COMMIT}" ]]; then
   git add "${DIR}/"*.graphml
   git add "${DIR}/metadata.config"
+  # Glob matching doesn't pick up our deleted .graphml files
+  git ls-files --deleted | grep ".graphml" | tr \\n \\0 | xargs -0 git add
   git commit -m "Updating .graphml files to version ${ICON_VERSION}"
   echo "git: Updating .graphml files to version ${ICON_VERSION}"
 fi
