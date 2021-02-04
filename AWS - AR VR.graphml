@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
   <!-- Created by yEd AWS Simple Icons Generator (https://github.com/JustDerb/yed-aws-palettes) -->
-  <!-- AWS Simple Icon Version: 20200911 -->
-  <!-- AWS Simple Icon URL: https://d1.awsstatic.com/webteam/architecture-icons/Q32020/AWS-Architecture-Assets-For-Light-and-Dark-BG_20200911.478ff05b80f909792f7853b1a28de8e28eac67f4.zip -->
+  <!-- AWS Simple Icon Version: 20210131 -->
+  <!-- AWS Simple Icon URL: https://d1.awsstatic.com/webteam/architecture-icons/q1-2021/AWS-Architecture_Asset-Package_20210131.5c0296c032487ab334e79130ef0cc12d0ded3263.zip -->
   <key for="port" id="d0" yfiles.type="portgraphics"/>
   <key for="port" id="d1" yfiles.type="portgeometry"/>
   <key for="port" id="d2" yfiles.type="portuserdata"/>
@@ -19,9 +19,9 @@
   <key for="edge" id="d13" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
 <node id="0">
-      <data key="d3" xml:space="preserve"><![CDATA[c5284777-ff13-36f9-a393-eaf43492e7b0]]></data>
-      <data key="d4" xml:space="preserve"><![CDATA[Arch AWS Sumerian 32]]></data>
-      <data key="d6" xml:space="preserve"><![CDATA[Arch AWS Sumerian 32]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[bd4465ab-8d3e-3547-95d6-af019b5c6ec1]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[Arch Amazon Sumerian 32]]></data>
+      <data key="d6" xml:space="preserve"><![CDATA[Arch Amazon Sumerian 32]]></data>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="60" width="60" x="0" y="0"/>

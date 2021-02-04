@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
   <!-- Created by yEd AWS Simple Icons Generator (https://github.com/JustDerb/yed-aws-palettes) -->
-  <!-- AWS Simple Icon Version: 20200911 -->
-  <!-- AWS Simple Icon URL: https://d1.awsstatic.com/webteam/architecture-icons/Q32020/AWS-Architecture-Assets-For-Light-and-Dark-BG_20200911.478ff05b80f909792f7853b1a28de8e28eac67f4.zip -->
+  <!-- AWS Simple Icon Version: 20210131 -->
+  <!-- AWS Simple Icon URL: https://d1.awsstatic.com/webteam/architecture-icons/q1-2021/AWS-Architecture_Asset-Package_20210131.5c0296c032487ab334e79130ef0cc12d0ded3263.zip -->
   <key for="port" id="d0" yfiles.type="portgraphics"/>
   <key for="port" id="d1" yfiles.type="portgeometry"/>
   <key for="port" id="d2" yfiles.type="portuserdata"/>
@@ -19,9 +19,9 @@
   <key for="edge" id="d13" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
 <node id="0">
-      <data key="d3" xml:space="preserve"><![CDATA[6b260466-5cfb-3c63-b064-5ffcc34614a2]]></data>
-      <data key="d4" xml:space="preserve"><![CDATA[Arch Amazon App Stream 32]]></data>
-      <data key="d6" xml:space="preserve"><![CDATA[Arch Amazon App Stream 32]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[1f40cd0d-4ee8-3e8b-ab7e-e188de11ce09]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[Arch Amazon AppStream 32]]></data>
+      <data key="d6" xml:space="preserve"><![CDATA[Arch Amazon AppStream 32]]></data>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="60" width="60" x="0" y="0"/>
@@ -59,9 +59,9 @@
         </y:SVGNode>
       </data>
     </node><node id="2">
-      <data key="d3" xml:space="preserve"><![CDATA[c181e103-5d2d-3bda-9db9-3a6ff5c168a2]]></data>
-      <data key="d4" xml:space="preserve"><![CDATA[Arch AWS WorkLink 32]]></data>
-      <data key="d6" xml:space="preserve"><![CDATA[Arch AWS WorkLink 32]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[2dce6f5b-95eb-3f76-a648-b5c5aa8d7995]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[Arch Amazon WorkLink 32]]></data>
+      <data key="d6" xml:space="preserve"><![CDATA[Arch Amazon WorkLink 32]]></data>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="60" width="60" x="0" y="0"/>
@@ -79,9 +79,9 @@
         </y:SVGNode>
       </data>
     </node><node id="3">
-      <data key="d3" xml:space="preserve"><![CDATA[dc82a186-a41e-394c-925c-107e98d25049]]></data>
-      <data key="d4" xml:space="preserve"><![CDATA[Arch AWS WorkSpaces 32]]></data>
-      <data key="d6" xml:space="preserve"><![CDATA[Arch AWS WorkSpaces 32]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[a3af8f17-acfa-3fc8-930d-d2482f30af22]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[Arch Amazon WorkSpaces 32]]></data>
+      <data key="d6" xml:space="preserve"><![CDATA[Arch Amazon WorkSpaces 32]]></data>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="60" width="60" x="0" y="0"/>
