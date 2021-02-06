@@ -42,7 +42,9 @@
   </graph>
   <data key="d8">
     <y:Resources>
-      {{#resources}}<y:Resource id="{{id}}" xml:space="preserve">{{encodedContent}}</y:Resource>{{/resources}}
+      {{#resources}}
+      <y:Resource id="{{id}}" xml:space="preserve">{{encodedContent}}</y:Resource>
+      {{/resources}}
     </y:Resources>
   </data>
 </graphml>
