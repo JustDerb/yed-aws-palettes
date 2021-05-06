@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
   <!-- Created by yEd AWS Simple Icons Generator (https://github.com/JustDerb/yed-aws-palettes) -->
-  <!-- AWS Simple Icon Version: 20210131 -->
-  <!-- AWS Simple Icon URL: https://d1.awsstatic.com/webteam/architecture-icons/q1-2021/AWS-Architecture_Asset-Package_20210131.a41ffeeec67743738315c2585f5fdb6f3c31238d.zip -->
+  <!-- AWS Simple Icon Version: 04302021 -->
+  <!-- AWS Simple Icon URL: https://d1.awsstatic.com/webteam/architecture-icons/q2-2021/Asset-Package_04302021.7efed5c84a17020a6ddd81ef1f42e86ccd33a531.zip -->
   <key for="port" id="d0" yfiles.type="portgraphics"/>
   <key for="port" id="d1" yfiles.type="portgeometry"/>
   <key for="port" id="d2" yfiles.type="portuserdata"/>
@@ -399,9 +399,9 @@
         </y:SVGNode>
       </data>
     </node><node id="19">
-      <data key="d3" xml:space="preserve"><![CDATA[d64dcc79-1fdc-39f6-86f5-be43fdbc0779]]></data>
-      <data key="d4" xml:space="preserve"><![CDATA[Res Amazon Aurora PIOPS 48 Light]]></data>
-      <data key="d6" xml:space="preserve"><![CDATA[Res Amazon Aurora PIOPS 48 Light]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[bc68db6c-8338-30d1-a592-48db12f14860]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[Res Amazon Aurora PIOPS Instance 48 Light]]></data>
+      <data key="d6" xml:space="preserve"><![CDATA[Res Amazon Aurora PIOPS Instance 48 Light]]></data>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="60" width="60" x="0" y="0"/>
@@ -759,9 +759,9 @@
         </y:SVGNode>
       </data>
     </node><node id="37">
-      <data key="d3" xml:space="preserve"><![CDATA[b3588f2c-5b9c-31b7-bc35-b750786f3fcf]]></data>
-      <data key="d4" xml:space="preserve"><![CDATA[Res Amazon RDS Proxy Alternate 48 Light]]></data>
-      <data key="d6" xml:space="preserve"><![CDATA[Res Amazon RDS Proxy Alternate 48 Light]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[630fb798-be47-318f-be81-831eafc9d513]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[Res Amazon RDS Proxy Instance Alternate 48 Light]]></data>
+      <data key="d6" xml:space="preserve"><![CDATA[Res Amazon RDS Proxy Instance Alternate 48 Light]]></data>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="60" width="60" x="0" y="0"/>
@@ -779,9 +779,9 @@
         </y:SVGNode>
       </data>
     </node><node id="38">
-      <data key="d3" xml:space="preserve"><![CDATA[13cdbea7-7f5d-35b0-a9e5-32683f9369d9]]></data>
-      <data key="d4" xml:space="preserve"><![CDATA[Res Amazon RDS Proxy 48 Light]]></data>
-      <data key="d6" xml:space="preserve"><![CDATA[Res Amazon RDS Proxy 48 Light]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[63397039-350b-389c-86da-facba9421421]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[Res Amazon RDS Proxy Instance 48 Light]]></data>
+      <data key="d6" xml:space="preserve"><![CDATA[Res Amazon RDS Proxy Instance 48 Light]]></data>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="60" width="60" x="0" y="0"/>
