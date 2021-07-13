@@ -10,7 +10,7 @@ ensure_on_path() {
 }
 
 display_help() {
-  echo    >&2 "$0 <url> <version> <commit>"
+  echo    >&2 "$0 <url> <commit>"
   echo -e >&2 "\turl: URL to AWS Simple Icons"
   echo -e >&2 "\tcommit: Auto-commit changes"
 }
