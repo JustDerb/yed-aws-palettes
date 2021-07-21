@@ -2,7 +2,7 @@
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
   <!-- Created by yEd AWS Simple Icons Generator (https://github.com/JustDerb/yed-aws-palettes) -->
   <!-- AWS Simple Icon Version: 04302021 -->
-  <!-- AWS Simple Icon URL: https://d1.awsstatic.com/webteam/architecture-icons/q2-2021/Asset-Package_04302021.7efed5c84a17020a6ddd81ef1f42e86ccd33a531.zip -->
+  <!-- AWS Simple Icon URL: https://d1.awsstatic.com/webteam/architecture-icons/q2-2021/Asset-Package_04302021.9a0ee1879c72eb5b495566d3e0d97db954cf0258.zip -->
   <key for="port" id="d0" yfiles.type="portgraphics"/>
   <key for="port" id="d1" yfiles.type="portgeometry"/>
   <key for="port" id="d2" yfiles.type="portuserdata"/>
