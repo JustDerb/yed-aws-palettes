@@ -36,8 +36,8 @@ echo >&2 "Downloading $1"
 curl "${URL}" --output "${TMP_DIR}/aws-simple-icons.zip"
 unzip -o "${TMP_DIR}/aws-simple-icons.zip" -d "${TMP_DIR}"
 
-ICON_DIR=$(cd "${TMP_DIR}"/Asset-Package_* && pwd)
-ICON_VERSION_DIR=${ICON_DIR#"${TMP_DIR}"/Asset-Package_}
+ICON_DIR=$(cd "${TMP_DIR}"/Architecture-Service-Icons_* && pwd)
+ICON_VERSION_DIR=${ICON_DIR#"${TMP_DIR}"/Architecture-Service-Icons_}
 ICON_VERSION=''
 REGEX_NUMBER='([0-9]+)'
 if ! [[ ${ICON_VERSION_DIR} =~ ${REGEX_NUMBER} ]]; then
@@ -54,6 +54,8 @@ fi
 
 echo "Detected version: ${ICON_VERSION}"
 
+# The latest zip file now has all the icon folders at the top, so reset ICON_DIR
+ICON_DIR="${TMP_DIR}"
 pushd "${ICON_DIR}"
 for f in $(ls ./*.zip); do
   filename="$(basename -- $f)"
