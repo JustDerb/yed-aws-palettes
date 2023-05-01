@@ -115,7 +115,7 @@ public class Icon {
         final String parser = XMLResourceDescriptor.getXMLParserClassName();
         final SAXSVGDocumentFactory factory = new SAXSVGDocumentFactory(parser);
         try {
-            return new Icon(factory.createSVGDocument(svg.getAbsolutePath()), svg.getName(), getReadableName(svg.getName()));
+            return new Icon(factory.createSVGDocument("file://" + svg.getAbsolutePath()), svg.getName(), getReadableName(svg.getName()));
         } catch (IOException e) {
             throw new RuntimeException("Error parsing " + svg.getAbsolutePath(), e);
         }
