@@ -34,10 +34,12 @@ TMP_DIR=$(mktemp -d)
 
 echo >&2 "Downloading $1"
 curl "${URL}" --output "${TMP_DIR}/aws-simple-icons.zip"
-unzip -o "${TMP_DIR}/aws-simple-icons.zip" -d "${TMP_DIR}"
+mkdir -p "${TMP_DIR}/icons"
+unzip -o "${TMP_DIR}/aws-simple-icons.zip" -d "${TMP_DIR}/icons"
 
-ICON_DIR=$(cd "${TMP_DIR}"/Architecture-Service-Icons_* && pwd)
-ICON_VERSION_DIR=${ICON_DIR#"${TMP_DIR}"/Architecture-Service-Icons_}
+# Use the Architecture Service directory to extract the version
+ICON_DIR=$(cd "${TMP_DIR}"/icons/Architecture-Service-Icons_* && pwd)
+ICON_VERSION_DIR=${ICON_DIR#"${TMP_DIR}"/icons/Architecture-Service-Icons_}
 ICON_VERSION=''
 REGEX_NUMBER='([0-9]+)'
 if ! [[ ${ICON_VERSION_DIR} =~ ${REGEX_NUMBER} ]]; then
@@ -54,16 +56,8 @@ fi
 
 echo "Detected version: ${ICON_VERSION}"
 
-# The latest zip file now has all the icon folders at the top, so reset ICON_DIR
-ICON_DIR="${TMP_DIR}"
-pushd "${ICON_DIR}"
-for f in $(ls ./*.zip); do
-  filename="$(basename -- $f)"
-  dirname="${filename%.*}"
-  mkdir -p "${dirname}"
-  unzip "$filename" -d "$dirname"
-done
-popd
+# The latest zip file now has all the icon folders inside /icons, so reset ICON_DIR
+ICON_DIR="${TMP_DIR}/icons"
 
 # Compile our translator
 pushd "${DIR}/translator"
@@ -107,11 +101,22 @@ fix_mistakes() {
 # Remove Mac OS directories
 find "${ICON_DIR}" -type d -name "__MACOSX" -prune -exec rm -rf {} \;
 
-find "${ICON_DIR}" -type d -name "*Light" -o -type d -name "*32" | sort | while read section; do
+function process_icons {
+  local section="$1"
+  # Determines how many times to go up i nthe directory tree to
+  # grab the actual name. For example, given /path/to/icon/dir:
+  # 1 = "dir"
+  # 2 = "icon"
+  local target_dir_name_index="$2"
+
   SECTION_NAME="$(echo ${section} | tr ' ' '_')"
-  SECTION_NAME="$(dirname ${SECTION_NAME})"
+  if [ $target_dir_name_index == 2 ]; then
+    SECTION_NAME="$(dirname ${SECTION_NAME})"
+  fi
   SECTION_NAME="$(basename ${SECTION_NAME})"
+  # Resource names begin with Res_
   SECTION_NAME="${SECTION_NAME#Res_}"
+  # Architecture Service names begin with Arch_
   SECTION_NAME="${SECTION_NAME#Arch_}"
   SECTION_NAME="$(echo ${SECTION_NAME} | tr '_-' ' ' | tr -s ' ' ' ')"
   SECTION_NAME="$(fix_mistakes "${SECTION_NAME}")"
@@ -120,10 +125,30 @@ find "${ICON_DIR}" -type d -name "*Light" -o -type d -name "*32" | sort | while 
     exit 1
   fi
   SECTION_NAME="AWS - ${SECTION_NAME}"
-  echo "Found: ${SECTION_NAME}"
+  echo "Found: ${SECTION_NAME} (${section})"
   mkdir -p "${TMP_DIR}/sections/${SECTION_NAME}"
   cp "${section}"/*.svg "${TMP_DIR}/sections/${SECTION_NAME}" || \
     echo "WARNING: ${section} had no SVGs!"
+}
+
+# (Architecture Service) Find all directories that end with "32"
+find "${ICON_DIR}"/Architecture-Service* -type d -name "*32" | sort | while read section; do
+  process_icons "$section" 2
+done
+
+# (Category) Find all directories that end with "32"
+find "${ICON_DIR}"/Category* -type d -name "*32" | sort | while read section; do
+  process_icons "$section" 2
+done
+
+# (Category) Find all directories that begin with "Res_"
+find "${ICON_DIR}"/Resource* -type d -name "Res_*" -and -not -wholename "*Res_General-Icons*" | sort | while read section; do
+  process_icons "$section" 1
+done
+
+# (Category) General Icons has light/dark subdirectories
+find "${ICON_DIR}"/Resource* -type d -wholename "*Res_General-Icons/*_Light" | sort | while read section; do
+  process_icons "$section" 2
 done
 
 find "${TMP_DIR}/sections/${SECTION_NAME}" -type d -empty -prune \
