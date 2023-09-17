@@ -36,6 +36,19 @@ if [ ${URL} == "auto" ]; then
   echo "Automatically determining latest AWS Simple Icons URL..."
   URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep 'Asset Package&nbsp;<i class="icon-download"></i>' | head -n1 | grep -oEi '//.*\.zip' | while read line; do echo "https:$line";  done)
   echo "Latest URL: ${URL}"
+
+  # Source the metadata file which holds our current state
+  . ./metadata.config
+
+  if [[ "${URL}" != "${ASI_url}" ]]; then
+    echo "AWS Simple Icons outdated..."
+    echo "New: ${URL}"
+    echo "Old: ${ASI_url}"
+  else
+    echo "AWS Simple Icons are up to date!"
+    echo "${URL}"
+    exit 0
+  fi
 fi
 
 echo >&2 "Downloading ${URL}"
