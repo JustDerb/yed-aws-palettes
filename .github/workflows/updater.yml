@@ -11,5 +11,6 @@ jobs:
       uses: actions/setup-java@v3.12.0
       with:
         distribution: corretto
+        java-version: 21
     - name: Execute update.sh
       run: ./update.sh
