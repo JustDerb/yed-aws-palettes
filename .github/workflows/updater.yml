@@ -1,11 +1,12 @@
 name: Repo Updater
+
 on:
  workflow_dispatch: {}
  schedule:
    - cron: '24 19 * * *'
+
 jobs:
   update:
-    name: Self-update repository
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
