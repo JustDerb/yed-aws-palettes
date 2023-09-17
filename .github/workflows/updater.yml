@@ -13,4 +13,4 @@ jobs:
         distribution: corretto
         java-version: 21
     - name: Execute update.sh
-      run: ./update.sh
+      run: ./update.sh auto true
