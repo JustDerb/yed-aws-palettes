@@ -1,5 +1,8 @@
 name: Repo Updater
-on: workflow_dispatch
+on:
+ workflow_dispatch: {}
+ schedule:
+   - cron: '24 19 * * *'
 jobs:
   update:
     name: Self-update repository
