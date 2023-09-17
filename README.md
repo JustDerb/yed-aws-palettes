@@ -31,9 +31,6 @@ You can use "Delete Section" in yED as described [here](http://yed.yworks.com/su
 This repo has minimal automation around it, so it should update at most daily. If this repo needs to be manually updated, simply grab the latest URL and run the `update.sh` script:
 
 ```bash
-# Grab latest URL from website
-URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep 'Asset Package&nbsp;<i class="icon-download"></i>' | head -n1 | grep -oEi '//.*\.zip' | while read line; do echo "https:$line";  done)
-echo "Latest URL: $URL"
-# Run the updater, commiting the results
-./update.sh "$URL" true
+# Run the updater, automatically finding the latest URL, commiting the results
+./update.sh auto true
 ```

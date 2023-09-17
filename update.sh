@@ -11,7 +11,7 @@ ensure_on_path() {
 
 display_help() {
   echo    >&2 "$0 <url> <commit>"
-  echo -e >&2 "\turl: URL to AWS Simple Icons"
+  echo -e >&2 "\turl: URL to AWS Simple Icons (or \"auto\")"
   echo -e >&2 "\tcommit: Auto-commit changes"
 }
 
@@ -32,7 +32,13 @@ COMMIT=$2
 TMP_DIR=$(mktemp -d)
 [[ -z "${NO_CLEANUP}" ]] && trap "{ echo Removing ${TMP_DIR}; rm -rf ${TMP_DIR}; }" EXIT
 
-echo >&2 "Downloading $1"
+if [ ${URL} == "auto" ]; then
+  echo "Automatically determining latest AWS Simple Icons URL..."
+  URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep 'Asset Package&nbsp;<i class="icon-download"></i>' | head -n1 | grep -oEi '//.*\.zip' | while read line; do echo "https:$line";  done)
+  echo "Latest URL: ${URL}"
+fi
+
+echo >&2 "Downloading ${URL}"
 curl "${URL}" --output "${TMP_DIR}/aws-simple-icons.zip"
 mkdir -p "${TMP_DIR}/icons"
 unzip -o "${TMP_DIR}/aws-simple-icons.zip" -d "${TMP_DIR}/icons"
