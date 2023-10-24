@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
   <!-- Created by yEd AWS Simple Icons Generator (https://github.com/JustDerb/yed-aws-palettes) -->
-  <!-- AWS Simple Icon Version: 10182023 -->
-  <!-- AWS Simple Icon URL: https://d1.awsstatic.com/webteam/architecture-icons/q3-2023/Asset-Package_10182023.1a055897e5b4d7a3b73f8840a5f126ce14097777.zip -->
+  <!-- AWS Simple Icon Version: 10232023 -->
+  <!-- AWS Simple Icon URL: https://d1.awsstatic.com/webteam/architecture-icons/q3-2023/Asset-Package_10232023.af3b989c8f30fad5f9c6161440af5cc2f0746e49.zip -->
   <key for="port" id="d0" yfiles.type="portgraphics"/>
   <key for="port" id="d1" yfiles.type="portgeometry"/>
   <key for="port" id="d2" yfiles.type="portuserdata"/>
