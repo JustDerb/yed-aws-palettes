@@ -34,8 +34,13 @@ TMP_DIR=$(mktemp -d)
 
 if [ ${URL} == "auto" ]; then
   echo "Automatically determining latest AWS Simple Icons URL..."
-  URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep 'Asset Package&nbsp;<i class="icon-download"></i>' | head -n1 | grep -oEi '//.*\.zip' | while read line; do echo "https:$line";  done)
+  URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep 'Icon package' | head -n1 | grep -oEi '//[^"]+Package[^"]+\.zip' | while read line; do echo "https:$line";  done)
   echo "Latest URL: ${URL}"
+
+  if [ -z "${URL}" ]; then
+    echo "Got empty URL; the parsing might be broken!"
+    exit 1
+  fi
 
   # Source the metadata file which holds our current state
   . ./metadata.config
