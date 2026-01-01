@@ -30,11 +30,11 @@ URL=$1
 COMMIT=$2
 
 TMP_DIR=$(mktemp -d)
-[[ -z "${NO_CLEANUP}" ]] && trap "{ echo Removing ${TMP_DIR}; rm -rf ${TMP_DIR}; }" EXIT
+[[ -z "${NO_CLEANUP}" ]] && trap 'echo "Removing ${TMP_DIR}"; rm -rf "${TMP_DIR}";' EXIT
 
-if [ ${URL} == "auto" ]; then
+if [ "${URL}" == "auto" ]; then
   echo "Automatically determining latest AWS Simple Icons URL..."
-  URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep 'Icon package' | head -n1 | grep -oEi '//[^"]+Package[^"]+\.zip' | while read line; do echo "https:$line";  done)
+  URL="https:"$(curl -s https://aws.amazon.com/architecture/icons/ | grep 'Icon package' | head -n1 | grep -oEi '//[^"]+Package[^"]+\.zip' | head -n1)
   echo "Latest URL: ${URL}"
 
   if [ -z "${URL}" ]; then
@@ -43,6 +43,7 @@ if [ ${URL} == "auto" ]; then
   fi
 
   # Source the metadata file which holds our current state
+  # shellcheck disable=SC1091
   . ./metadata.config
 
   if [[ "${URL}" != "${ASI_url}" ]]; then
@@ -92,7 +93,7 @@ popd
 rm -f "${DIR}"/*.graphml
 
 fix_mistakes() {
-  case "$(echo $1 | tr '[:upper:]' '[:lower:]')" in
+  case "$(echo "$1" | tr '[:upper:]' '[:lower:]')" in
     # Someone messed up the spelling :O
     lot|"internet of things")
       echo "IoT"
@@ -133,16 +134,16 @@ function process_icons {
   # 2 = "icon"
   local target_dir_name_index="$2"
 
-  SECTION_NAME="$(echo ${section} | tr ' ' '_')"
-  if [ $target_dir_name_index == 2 ]; then
-    SECTION_NAME="$(dirname ${SECTION_NAME})"
+  SECTION_NAME="$(echo "${section}" | tr ' ' '_')"
+  if [ "$target_dir_name_index" == 2 ]; then
+    SECTION_NAME="$(dirname "${SECTION_NAME}")"
   fi
-  SECTION_NAME="$(basename ${SECTION_NAME})"
+  SECTION_NAME="$(basename "${SECTION_NAME}")"
   # Resource names begin with Res_
   SECTION_NAME="${SECTION_NAME#Res_}"
   # Architecture Service names begin with Arch_
   SECTION_NAME="${SECTION_NAME#Arch_}"
-  SECTION_NAME="$(echo ${SECTION_NAME} | tr '_-' ' ' | tr -s ' ' ' ')"
+  SECTION_NAME="$(echo "${SECTION_NAME}" | tr '_-' ' ' | tr -s ' ' ' ')"
   SECTION_NAME="$(fix_mistakes "${SECTION_NAME}")"
   if [ -z "$SECTION_NAME" ]; then
     echo >&2 "Got empty section when parsing ${section}"
@@ -156,22 +157,22 @@ function process_icons {
 }
 
 # (Architecture Service) Find all directories that end with "32"
-find "${ICON_DIR}"/Architecture-Service* -type d -name "*32" | sort | while read section; do
+find "${ICON_DIR}"/Architecture-Service* -type d -name "*32" | sort | while read -r section; do
   process_icons "$section" 2
 done
 
 # (Category) Find all directories that end with "32"
-find "${ICON_DIR}"/Category* -type d -name "*32" | sort | while read section; do
+find "${ICON_DIR}"/Category* -type d -name "*32" | sort | while read -r section; do
   process_icons "$section" 2
 done
 
 # (Category) Find all directories that begin with "Res_"
-find "${ICON_DIR}"/Resource* -type d -name "Res_*" -and -not -wholename "*Res_General-Icons*" | sort | while read section; do
+find "${ICON_DIR}"/Resource* -type d -name "Res_*" -and -not -wholename "*Res_General-Icons*" | sort | while read -r section; do
   process_icons "$section" 1
 done
 
 # (Category) General Icons has light/dark subdirectories
-find "${ICON_DIR}"/Resource* -type d -wholename "*Res_General-Icons/*_Light" | sort | while read section; do
+find "${ICON_DIR}"/Resource* -type d -wholename "*Res_General-Icons/*_Light" | sort | while read -r section; do
   process_icons "$section" 2
 done
 
@@ -179,7 +180,7 @@ find "${TMP_DIR}/sections/${SECTION_NAME}" -type d -empty -prune \
   -print -exec rmdir {} \;
 
 for section in "${TMP_DIR}/sections/"*; do
-  SECTION_NAME="${section#${TMP_DIR}/sections/}"
+  SECTION_NAME="${section#"${TMP_DIR}"/sections/}"
   if [ -z "$SECTION_NAME" ]; then
     echo >&2 "Got empty section when parsing ${section}"
     exit 1
