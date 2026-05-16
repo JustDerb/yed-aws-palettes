@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
   <!-- Created by yEd AWS Simple Icons Generator (https://github.com/JustDerb/yed-aws-palettes) -->
-  <!-- AWS Simple Icon Version: 01302026 -->
-  <!-- AWS Simple Icon URL: https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/architecture/approved/architecture-icons/Icon-package_01302026.31b40d126ed27079b708594940ad577a86150582.zip -->
+  <!-- AWS Simple Icon Version: 04302026 -->
+  <!-- AWS Simple Icon URL: https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/architecture/approved/architecture-icons/Icon-package_04302026.4705b90f5aa45b019271a2699e9ce9b97b941ee1.zip -->
   <key for="port" id="d0" yfiles.type="portgraphics"/>
   <key for="port" id="d1" yfiles.type="portgeometry"/>
   <key for="port" id="d2" yfiles.type="portuserdata"/>
@@ -199,9 +199,9 @@
         </y:SVGNode>
       </data>
     </node><node id="9">
-      <data key="d3" xml:space="preserve"><![CDATA[2c791b9a-790a-30e5-8a73-c96b209613cf]]></data>
-      <data key="d4" xml:space="preserve"><![CDATA[Arch Amazon Quick Suite 32]]></data>
-      <data key="d6" xml:space="preserve"><![CDATA[Arch Amazon Quick Suite 32]]></data>
+      <data key="d3" xml:space="preserve"><![CDATA[5a4290b4-5bb5-3802-8c0a-763833bc8bf0]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[Arch Amazon Quick 32]]></data>
+      <data key="d6" xml:space="preserve"><![CDATA[Arch Amazon Quick 32]]></data>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="60" width="60" x="0" y="0"/>
